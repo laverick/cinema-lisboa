@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/bin/python scraper/main.py --output-dir /tmp/cinema-test --max-movies 3 --no-enrich --log-level INFO)",
+      "Bash(.venv/bin/python -c ' *)",
+      "Bash(.venv/bin/python scraper/main.py --output-dir site/data --no-enrich --log-level WARNING)",
+      "Bash(python3 -m http.server -d site 8765)",
+      "Bash(curl -s http://localhost:8765/data/showtimes.json)",
+      "Bash(curl -sI http://localhost:8765/)",
+      "Bash(curl -sI http://localhost:8765/data/showtimes.json)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(xargs kill *)",
+      "Bash(curl -s http://localhost:8765/app.js)"
+    ]
+  }
+}

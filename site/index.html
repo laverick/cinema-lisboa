@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#1a1a1a">
+  <title>Cinema Lisboa</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>Cinema Lisboa</h1>
+    <div class="header-meta">
+      <span id="last-updated" class="fresh">loading…</span>
+      <span class="sep">·</span>
+      <span id="location-label">Paço de Arcos</span>
+      <button id="use-location" class="text-btn" title="Use my location">📍</button>
+    </div>
+    <div id="stale-warning" class="stale-warning hidden">
+      Data is more than 3 hours old — <a href="#" onclick="location.reload();return false">reload</a> or check the cinema's own site.
+    </div>
+  </header>
+
+  <div class="filters">
+    <input type="search" id="search" placeholder="Search movie…" autocomplete="off">
+    <div class="tab-group" id="date-tabs">
+      <button class="tab active" data-date="today">Today</button>
+      <button class="tab" data-date="tomorrow">Tomorrow</button>
+      <button class="tab" data-date="all">All</button>
+    </div>
+    <div class="tab-group" id="view-tabs">
+      <button class="tab active" data-view="by-cinema">By Cinema</button>
+      <button class="tab" data-view="by-movie">By Movie</button>
+    </div>
+    <label class="chip">
+      <input type="checkbox" id="english-only">
+      <span>English audio only</span>
+    </label>
+  </div>
+
+  <div class="disclaimer">
+    <strong>Note:</strong> VO (original version) vs VP (Portuguese dub) is inferred from convention when not explicitly marked on the source.
+    Sessions with a <span class="inferred-mark">~</span> are <em>assumed</em> VO — always confirm on the cinema's own site before traveling.
+  </div>
+
+  <main id="content">
+    <div class="loading">Loading showtimes…</div>
+  </main>
+
+  <footer>
+    Data: <a href="https://cinecartaz.publico.pt" target="_blank" rel="noopener">cinecartaz.publico.pt</a>
+    · Ratings: <a href="https://www.omdbapi.com" target="_blank" rel="noopener">OMDb</a>
+    · <a href="https://github.com" target="_blank" rel="noopener">Source</a>
+  </footer>
+
+</div>
+<script src="app.js?v=2"></script>
+</body>
+</html>
