@@ -10,7 +10,14 @@
       "Bash(curl -sI http://localhost:8765/data/showtimes.json)",
       "mcp__Claude_Preview__preview_start",
       "Bash(xargs kill *)",
-      "Bash(curl -s http://localhost:8765/app.js)"
+      "Bash(curl -s http://localhost:8765/app.js)",
+      "Bash(curl -s \"https://www.omdbapi.com/?t=One+Battle+After+Another&apikey=trilogy\")",
+      "Bash(curl -s \"https://cinecartaz.publico.pt/\")",
+      "Bash(curl -s \"https://cinecartaz.publico.pt/\" -o /tmp/cinecartaz_home.html)",
+      "Read(//private/tmp/**)",
+      "Bash(curl -s \"https://cinecartaz.publico.pt/filme/batalha-atras-de-batalha-414147\" -o /tmp/movie.html)",
+      "Read(//tmp/**)",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\('site/data/showtimes.json'\\)\\); batalha=[m for m in d['movies'] if 'Batalha' in m['title']]; print\\(batalha[0] if batalha else 'not found'\\)\")"
     ]
   }
 }

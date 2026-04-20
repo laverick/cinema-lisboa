@@ -47,6 +47,18 @@ def _query_omdb(session: requests.Session, api_key: str, title: str) -> Optional
         return None
 
 
+def _translate_article(title: str) -> Optional[str]:
+    """Common Portuguese -> English article swap: 'O Drama' -> 'The Drama'.
+
+    Heuristic — OMDB search is lenient so this catches a lot of English-origin
+    films whose Portuguese release title just swapped the article.
+    """
+    m = re.match(r"^(O|A|Os|As)\s+(.+)$", title)
+    if m:
+        return f"The {m.group(2)}"
+    return None
+
+
 def _strip_subtitle(title: str) -> Optional[str]:
     """Drop 'Main Title: Subtitle' -> 'Main Title'."""
     if ":" in title:
@@ -116,6 +128,9 @@ def enrich_movies(movies: list[Movie], api_key: str, delay: float = 0.25) -> Non
         if movie.original_title:
             candidates.append(movie.original_title)
         candidates.append(movie.title)
+        translated = _translate_article(movie.title)
+        if translated:
+            candidates.append(translated)
         stripped = _strip_subtitle(movie.title)
         if stripped:
             candidates.append(stripped)
@@ -125,6 +140,18 @@ def enrich_movies(movies: list[Movie], api_key: str, delay: float = 0.25) -> Non
         for title in candidates:
             data = _query_omdb(session, api_key, title)
             if data:
+                # Reject low-confidence matches: if OMDB returned no IMDB rating,
+                # it's likely a different same-titled film (and we can't trust
+                # its language metadata either).
+                imdb_rating = data.get("imdbRating")
+                if not imdb_rating or imdb_rating == "N/A":
+                    logger.debug(
+                        "OMDB low-confidence (no rating) for '%s' -> '%s', skipping",
+                        movie.title, title,
+                    )
+                    data = None
+                    time_module.sleep(delay)
+                    continue
                 used_title = title
                 break
             time_module.sleep(delay)

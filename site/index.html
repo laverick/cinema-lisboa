@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#1a1a1a">
   <title>Cinema Lisboa</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=6">
 </head>
 <body>
 <div class="container">
@@ -34,15 +34,11 @@
       <button class="tab active" data-view="by-cinema">By Cinema</button>
       <button class="tab" data-view="by-movie">By Movie</button>
     </div>
-    <label class="chip">
-      <input type="checkbox" id="english-only">
-      <span>English audio only</span>
-    </label>
   </div>
 
   <div class="disclaimer">
-    <strong>Note:</strong> VO (original version) vs VP (Portuguese dub) is inferred from convention when not explicitly marked on the source.
-    Sessions with a <span class="inferred-mark">~</span> are <em>assumed</em> VO — always confirm on the cinema's own site before traveling.
+    <strong>Note:</strong> <span class="badge badge-vo-en">VO</span> = original audio with Portuguese subtitles; <span class="badge badge-vp">VP</span> = Portuguese dub.
+    Sessions with a <span class="inferred-mark">~</span> are <em>assumed</em> VO (not explicitly tagged on the source) — confirm on the cinema's own site before traveling.
   </div>
 
   <main id="content">
@@ -56,6 +52,6 @@
   </footer>
 
 </div>
-<script src="app.js?v=2"></script>
+<script src="app.js?v=7"></script>
 </body>
 </html>

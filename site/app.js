@@ -107,23 +107,14 @@ function renderTimeSlot(ts, movie) {
   if (ts.dubbed) {
     versionBadge = `<span class="badge badge-vp">VP</span>`;
   } else {
-    // VO - show language from OMDB if available
-    const lang = movie.original_language;
-    if (lang && lang.toLowerCase() === "english") {
-      versionBadge = `<span class="badge badge-vo-en">VO · EN</span>`;
-    } else if (lang) {
-      versionBadge = `<span class="badge badge-vo-other">VO · ${escapeHtml(lang)}</span>`;
-    } else {
-      versionBadge = `<span class="badge badge-vo-other">VO · ?</span>`;
-    }
+    versionBadge = `<span class="badge badge-vo-en">VO</span>`;
     if (ts.inferred_vo) inferredMark = `<span class="inferred" title="VO inferred (not explicitly marked)">~</span>`;
   }
 
-  // Tech badge
+  // Tech badge — only IMAX is worth calling out
   let techBadge = "";
-  const cls = badgeClassForTech(ts.tech_format);
-  if (cls) {
-    techBadge = ` <span class="badge ${cls}">${escapeHtml(ts.tech_format)}</span>`;
+  if (ts.tech_format === "IMAX") {
+    techBadge = ` <span class="badge badge-imax">IMAX</span>`;
   }
 
   return `<span class="time-slot">${inferredMark}<span class="time-num">${escapeHtml(ts.time)}</span> ${versionBadge}${techBadge}</span>`;
@@ -132,13 +123,27 @@ function renderTimeSlot(ts, movie) {
 function renderRatings(movie) {
   const r = movie.ratings;
   if (!r || (!r.imdb && !r.rt_critic && !r.metacritic)) {
-    return `<span class="rating-none">no ratings</span>`;
+    return "";
   }
   const parts = [];
   if (r.imdb) parts.push(`<span class="rating-imdb">IMDb ${escapeHtml(r.imdb)}</span>`);
   if (r.rt_critic) parts.push(`<span class="rating-rt">RT ${escapeHtml(r.rt_critic)}</span>`);
   if (r.metacritic) parts.push(`<span class="rating-mc">MC ${escapeHtml(r.metacritic)}</span>`);
   return `<span class="ratings">${parts.join("")}</span>`;
+}
+
+function renderMovieLinks(movie) {
+  const q = encodeURIComponent(movie.original_title || movie.title);
+  const parts = [];
+  // YouTube trailer search (always available)
+  parts.push(`<a class="mlink" href="https://www.youtube.com/results?search_query=${q}+trailer" target="_blank" rel="noopener">trailer</a>`);
+  // Rotten Tomatoes search (always available)
+  parts.push(`<a class="mlink" href="https://www.rottentomatoes.com/search?search=${q}" target="_blank" rel="noopener">RT</a>`);
+  // IMDB direct (only when we have imdb_id)
+  if (movie.ratings && movie.ratings.imdb_id) {
+    parts.push(`<a class="mlink" href="https://www.imdb.com/title/${encodeURIComponent(movie.ratings.imdb_id)}/" target="_blank" rel="noopener">IMDb</a>`);
+  }
+  return `<span class="movie-links">${parts.join('<span class="mlink-sep">·</span>')}</span>`;
 }
 
 function renderMovieMeta(movie) {
@@ -172,13 +177,7 @@ function movieMatchesSearch(movie) {
 }
 
 function timesFilteredForLanguage(times, movie) {
-  // English-only filter: keep only undubbed sessions where original_language starts with English
-  if (!state.englishOnly) return times;
-  const isEnglish =
-    movie.original_language &&
-    movie.original_language.toLowerCase() === "english";
-  if (!isEnglish) return [];
-  return times.filter((t) => !t.dubbed);
+  return times;
 }
 
 // ---------- Cinema distance + sorting ----------
@@ -233,7 +232,7 @@ function renderByCinema() {
     if (!entries || !entries.length) continue;
     anyShown = true;
     // Sort movies within cinema by title
-    entries.sort((a, b) => a.movie.title.localeCompare(b.movie.title));
+    entries.sort((a, b) => (a.movie.original_title || a.movie.title).localeCompare(b.movie.original_title || b.movie.title));
 
     const distStr = cinema._dist != null ? formatKm(cinema._dist) : "no location";
     const distCls = cinema._dist != null ? "cinema-distance" : "cinema-distance no-coords";
@@ -269,9 +268,10 @@ function renderMovieRowInCinema(movie, session) {
   return `
     <div class="movie-row">
       <div class="movie-title-line">
-        <span class="movie-title">${escapeHtml(movie.title)}</span>
+        <span class="movie-title">${escapeHtml(movie.original_title || movie.title)}</span>
         ${renderRatings(movie)}
         ${renderMovieMeta(movie)}
+        ${renderMovieLinks(movie)}
       </div>
       <div class="times-row">
         ${session.times.map((t) => renderTimeSlot(t, movie)).join("")}
@@ -325,8 +325,9 @@ function renderByMovie() {
     parts.push(`
       <section class="movie-section">
         <div class="movie-title-line">
-          <span class="movie-title">${escapeHtml(movie.title)}</span>
+          <span class="movie-title">${escapeHtml(movie.original_title || movie.title)}</span>
           ${renderRatings(movie)}
+          ${renderMovieLinks(movie)}
         </div>
         <div class="movie-info">${renderMovieMeta(movie).replace('<span class="movie-meta">', '').replace("</span>", "") || ""}${directorStr}</div>
         ${cinemaEntries.map((ce) => renderCinemaLine(ce.cinema, ce.sessions, movie)).join("")}
@@ -389,10 +390,6 @@ function setupHandlers() {
       state.view = btn.dataset.view;
       render();
     });
-  });
-  document.getElementById("english-only").addEventListener("change", (e) => {
-    state.englishOnly = e.target.checked;
-    render();
   });
   document.getElementById("use-location").addEventListener("click", () => {
     if (!navigator.geolocation) {

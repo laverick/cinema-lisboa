@@ -418,6 +418,18 @@ def _extract_movie_metadata(soup: BeautifulSoup) -> dict:
     if gen_match:
         meta["genre"] = gen_match.group(1).strip().rstrip(",")
 
+    # Original title: find "Título Original" section header, take the following text.
+    # Structure: <h3 class="...">Título Original</h3> ... <p><a ...>One Battle After Another</a></p>
+    orig_header = soup.find(lambda tag: tag.name in ("h3", "h4", "h2")
+                            and "T\u00edtulo Original" in tag.get_text(strip=True))
+    if orig_header:
+        # Find next <p> or <a> with content
+        sib = orig_header.find_next(["p", "a"])
+        if sib:
+            orig_text = sib.get_text(" ", strip=True)
+            if orig_text and len(orig_text) < 200:
+                meta["original_title"] = orig_text
+
     return meta
 
 
