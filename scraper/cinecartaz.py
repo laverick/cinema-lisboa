@@ -181,13 +181,41 @@ def filter_lisbon_movies(movies: list[dict], lisbon_ids: set[int]) -> list[dict]
     return result
 
 
-def _resolve_day_date(day_label: str, tab_index: int, scrape_date: date) -> Optional[date]:
+def _resolve_day_date(
+    day_label: str,
+    tab_index: int,
+    scrape_date: date,
+    anchor_idx: Optional[int] = None,
+) -> Optional[date]:
     """Resolve a day tab label to an absolute date.
 
-    tab_index is 1-based (1=Hoje, 2=Amanha, 3=day+2).
-    We trust tab_index primarily (since labels are brittle).
+    Cinecartaz numbers tabs incrementally and prunes past days, so tab indexes
+    do NOT start at 1 — e.g. if we scrape in the morning before yesterday's
+    listings roll off, today can be tab 2 or even 3.
+
+    Strategy:
+    1. If any tab in this section has label "Hoje" (today), that tab's index
+       becomes the anchor for scrape_date. Pass that via anchor_idx.
+    2. Else if "Amanhã" (tomorrow) is present, use that as scrape_date+1 anchor.
+    3. Else fall back to naive (tab_index - 1) offset.
     """
+    if anchor_idx is not None:
+        return scrape_date + timedelta(days=tab_index - anchor_idx)
     return scrape_date + timedelta(days=tab_index - 1)
+
+
+def _find_anchor_idx(day_info: dict[int, str]) -> tuple[Optional[int], date]:
+    """Return (anchor_tab_index, anchor_date) given {idx: label} map.
+
+    Picks the first tab whose label resolves to a known day (Hoje / Amanhã).
+    """
+    for idx, label in sorted(day_info.items()):
+        lower = label.lower().strip()
+        if lower == "hoje":
+            return idx, date.today()  # caller replaces anchor_date
+        if lower == "amanhã" or lower == "amanha":
+            return idx, date.today() + timedelta(days=1)
+    return None, date.today()
 
 
 def _parse_shedule_string(text: str) -> list[TimeSlot]:
@@ -319,12 +347,24 @@ def fetch_movie_showtimes(
             label = p.get_text(strip=True) if p else ""
             day_info[idx] = label
 
+        # Find anchor: the tab labeled "Hoje" tells us which idx = scrape_date
+        anchor_idx: Optional[int] = None
+        for idx, label in sorted(day_info.items()):
+            lower = label.lower().strip()
+            if lower == "hoje":
+                anchor_idx = idx
+                break
+            if lower in ("amanhã", "amanha") and anchor_idx is None:
+                # fallback: tomorrow anchor (idx - 1 is today)
+                anchor_idx = idx - 1
+                # don't break — prefer "Hoje" if we encounter it later
+
         # Find session lists for each day
         for idx, label in day_info.items():
             ul = tab_section.select_one(f"ul.list-sessions.tab-{region}-{idx}")
             if not ul:
                 continue
-            day_date = _resolve_day_date(label, idx, scrape_date)
+            day_date = _resolve_day_date(label, idx, scrape_date, anchor_idx)
             if not day_date:
                 continue
 
@@ -418,6 +458,18 @@ def _extract_movie_metadata(soup: BeautifulSoup) -> dict:
     if gen_match:
         meta["genre"] = gen_match.group(1).strip().rstrip(",")
 
+    # Poster: og:image meta tag (always present)
+    og_image = soup.select_one('meta[property="og:image"]')
+    if og_image and og_image.get("content"):
+        meta["poster_url"] = og_image["content"].strip()
+
+    # Portuguese synopsis: og:description (fallback for when OMDB misses)
+    og_desc = soup.select_one('meta[property="og:description"]')
+    if og_desc and og_desc.get("content"):
+        desc = og_desc["content"].strip()
+        if desc and len(desc) > 20:
+            meta["plot_pt"] = desc
+
     # Original title: find "Título Original" section header, take the following text.
     # Structure: <h3 class="...">Título Original</h3> ... <p><a ...>One Battle After Another</a></p>
     orig_header = soup.find(lambda tag: tag.name in ("h3", "h4", "h2")
@@ -439,10 +491,14 @@ def validate_scrape_date(
     session: Optional[requests.Session] = None,
     sample_movie_url: Optional[str] = None,
 ) -> tuple[bool, str]:
-    """Sanity check: fetch a sample movie page and verify the 3rd tab's weekday
-    matches `scrape_date + 2 days`.
+    """Sanity check: fetch a sample movie page and verify at least one tab
+    carries the 'Hoje' label (implies cinecartaz knows today).
 
     Returns (is_valid, message).
+
+    Note: we used to validate by matching the 3rd tab's weekday to today+2,
+    but cinecartaz prunes past days so tab indexes are not stable. Looser
+    check: as long as *some* tab is labeled Hoje OR Amanhã, we trust it.
     """
     if not sample_movie_url:
         return True, "no sample movie provided, skipping date validation"
@@ -455,24 +511,18 @@ def validate_scrape_date(
         return False, f"could not fetch sample movie for validation: {e}"
 
     soup = BeautifulSoup(resp.text, "lxml")
-    tab = soup.select_one(f'div.tabsSession[data-id="Lisboa"] .tab-day[data-menu="tab-Lisboa-3"] p.day')
-    if not tab:
-        return True, "day-3 tab not present (movie may only run 1-2 days); skipping validation"
-
-    label = tab.get_text(strip=True).upper()
-    expected_day = (scrape_date + timedelta(days=2)).weekday()
-    actual_day = WEEKDAY_PT.get(label)
-
-    if actual_day is None:
-        return True, f"day-3 label '{label}' not a known weekday; skipping validation"
-
-    if actual_day != expected_day:
-        return (
-            False,
-            f"date mismatch: day-3 tab says {label} (weekday {actual_day}) "
-            f"but scrape_date+2 is weekday {expected_day}. Site layout may have changed.",
-        )
-    return True, f"date validation passed ({label} == weekday {expected_day})"
+    labels = [
+        (t.get_text(strip=True) or "").lower().strip()
+        for t in soup.select('div.tabsSession[data-id="Lisboa"] .tab-day p.day')
+    ]
+    if any(l in ("hoje", "amanhã", "amanha") for l in labels):
+        return True, f"anchor label found in {labels}"
+    if not labels:
+        return True, "no day tabs on sample movie; skipping"
+    return (
+        False,
+        f"no Hoje/Amanhã anchor in day tabs {labels}. Site layout may have changed.",
+    )
 
 
 def scrape_all(

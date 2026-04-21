@@ -51,6 +51,11 @@ class Movie(BaseModel):
     original_language: Optional[str] = None
     original_languages: list[str] = Field(default_factory=list)
     ratings: Optional[Ratings] = None
+    # Poster: prefer OMDB (English-market artwork, higher res). Cinecartaz fallback.
+    poster_url: Optional[str] = None
+    # Synopsis: English preferred (OMDB), Portuguese fallback (cinecartaz).
+    plot_en: Optional[str] = None
+    plot_pt: Optional[str] = None
     showtimes: list[CinemaShowtime] = Field(default_factory=list)
 
 

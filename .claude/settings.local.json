@@ -17,7 +17,12 @@
       "Read(//private/tmp/**)",
       "Bash(curl -s \"https://cinecartaz.publico.pt/filme/batalha-atras-de-batalha-414147\" -o /tmp/movie.html)",
       "Read(//tmp/**)",
-      "Bash(python3 -c \"import json; d=json.load\\(open\\('site/data/showtimes.json'\\)\\); batalha=[m for m in d['movies'] if 'Batalha' in m['title']]; print\\(batalha[0] if batalha else 'not found'\\)\")"
+      "Bash(python3 -c \"import json; d=json.load\\(open\\('site/data/showtimes.json'\\)\\); batalha=[m for m in d['movies'] if 'Batalha' in m['title']]; print\\(batalha[0] if batalha else 'not found'\\)\")",
+      "WebFetch(domain:www.laverick.org)",
+      "Bash(python3 -c \"from datetime import datetime; from zoneinfo import ZoneInfo; print\\('Lisbon now:', datetime.now\\(ZoneInfo\\('Europe/Lisbon'\\)\\)\\)\")",
+      "Bash(curl -s \"https://cinecartaz.publico.pt/filme/batalha-atras-de-batalha-414147\" -o /tmp/movie_live.html)",
+      "Bash(python3 -c ' *)",
+      "Bash(zsh -ic 'test -n \"$OMDB_API_KEY\" && echo \"in zshrc \\(length ${#OMDB_API_KEY}\\)\" || echo \"not in zshrc either\"')"
     ]
   }
 }

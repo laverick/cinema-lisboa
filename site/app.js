@@ -100,15 +100,26 @@ function badgeClassForTech(tech) {
   return null;
 }
 
-function renderTimeSlot(ts, movie) {
-  // Main audio/version badge
+function lisbonNowMinutes() {
+  const now = new Date();
+  const lisbon = new Date(now.toLocaleString("en-US", { timeZone: "Europe/Lisbon" }));
+  return lisbon.getHours() * 60 + lisbon.getMinutes();
+}
+
+function isPastSlot(sessionDate, timeStr) {
+  if (sessionDate !== todayISO()) return false;
+  return timeToMinutes(timeStr) < lisbonNowMinutes();
+}
+
+function renderTimeSlot(ts, movie, sessionDate) {
+  // Only show a badge for explicitly dubbed (Portuguese) sessions.
+  // Undubbed = assumed VO, no badge needed.
   let versionBadge = "";
   let inferredMark = "";
   if (ts.dubbed) {
     versionBadge = `<span class="badge badge-vp">VP</span>`;
-  } else {
-    versionBadge = `<span class="badge badge-vo-en">VO</span>`;
-    if (ts.inferred_vo) inferredMark = `<span class="inferred" title="VO inferred (not explicitly marked)">~</span>`;
+  } else if (ts.inferred_vo) {
+    inferredMark = `<span class="inferred" title="Original version inferred (not explicitly marked)">~</span>`;
   }
 
   // Tech badge — only IMAX is worth calling out
@@ -117,32 +128,65 @@ function renderTimeSlot(ts, movie) {
     techBadge = ` <span class="badge badge-imax">IMAX</span>`;
   }
 
-  return `<span class="time-slot">${inferredMark}<span class="time-num">${escapeHtml(ts.time)}</span> ${versionBadge}${techBadge}</span>`;
+  const pastCls = sessionDate && isPastSlot(sessionDate, ts.time) ? " past" : "";
+  return `<span class="time-slot${pastCls}">${inferredMark}<span class="time-num">${escapeHtml(ts.time)}</span> ${versionBadge}${techBadge}</span>`;
 }
 
 function renderRatings(movie) {
-  const r = movie.ratings;
-  if (!r || (!r.imdb && !r.rt_critic && !r.metacritic)) {
-    return "";
-  }
-  const parts = [];
-  if (r.imdb) parts.push(`<span class="rating-imdb">IMDb ${escapeHtml(r.imdb)}</span>`);
-  if (r.rt_critic) parts.push(`<span class="rating-rt">RT ${escapeHtml(r.rt_critic)}</span>`);
-  if (r.metacritic) parts.push(`<span class="rating-mc">MC ${escapeHtml(r.metacritic)}</span>`);
-  return `<span class="ratings">${parts.join("")}</span>`;
+  // Kept as a no-op so callsites don't break; ratings now rendered by renderMovieLinks.
+  return "";
+}
+
+const DAY_LABEL_EN = {
+  "hoje": "Today",
+  "amanhã": "Tomorrow", "amanha": "Tomorrow",
+  "segunda": "Mon", "terça": "Tue", "terca": "Tue", "quarta": "Wed",
+  "quinta": "Thu", "sexta": "Fri", "sábado": "Sat", "sabado": "Sat", "domingo": "Sun",
+};
+function timeToMinutes(t) {
+  // "13h45" -> 13*60+45; "21h" -> 21*60; tolerant to extras.
+  if (!t) return 0;
+  const m = /(\d{1,2})h(\d{0,2})/.exec(t);
+  if (!m) return 0;
+  return parseInt(m[1], 10) * 60 + (m[2] ? parseInt(m[2], 10) : 0);
+}
+
+function sortedTimes(times) {
+  return [...times].sort((a, b) => timeToMinutes(a.time) - timeToMinutes(b.time));
+}
+
+function translateDayLabel(label) {
+  if (!label) return "";
+  const key = label.toLowerCase().trim();
+  return escapeHtml(DAY_LABEL_EN[key] || label);
 }
 
 function renderMovieLinks(movie) {
   const q = encodeURIComponent(movie.original_title || movie.title);
+  const r = movie.ratings || {};
   const parts = [];
-  // YouTube trailer search (always available)
-  parts.push(`<a class="mlink" href="https://www.youtube.com/results?search_query=${q}+trailer" target="_blank" rel="noopener">trailer</a>`);
-  // Rotten Tomatoes search (always available)
-  parts.push(`<a class="mlink" href="https://www.rottentomatoes.com/search?search=${q}" target="_blank" rel="noopener">RT</a>`);
-  // IMDB direct (only when we have imdb_id)
-  if (movie.ratings && movie.ratings.imdb_id) {
-    parts.push(`<a class="mlink" href="https://www.imdb.com/title/${encodeURIComponent(movie.ratings.imdb_id)}/" target="_blank" rel="noopener">IMDb</a>`);
-  }
+
+  // IMDb — color the whole link when a rating is present
+  const imdbHref = r.imdb_id
+    ? `https://www.imdb.com/title/${encodeURIComponent(r.imdb_id)}/`
+    : `https://www.imdb.com/find/?q=${q}`;
+  const imdbCls = r.imdb ? " mlink-rated rating-imdb" : "";
+  const imdbValue = r.imdb ? ` <span class="mlink-val">${escapeHtml(r.imdb)}</span>` : "";
+  parts.push(`<a class="mlink${imdbCls}" href="${imdbHref}" target="_blank" rel="noopener">IMDb${imdbValue}</a>`);
+
+  // Rotten Tomatoes
+  const rtCls = r.rt_critic ? " mlink-rated rating-rt" : "";
+  const rtValue = r.rt_critic ? ` <span class="mlink-val">${escapeHtml(r.rt_critic)}</span>` : "";
+  parts.push(`<a class="mlink${rtCls}" href="https://www.rottentomatoes.com/search?search=${q}" target="_blank" rel="noopener">RT${rtValue}</a>`);
+
+  // Metacritic
+  const mcCls = r.metacritic ? " mlink-rated rating-mc" : "";
+  const mcValue = r.metacritic ? ` <span class="mlink-val">${escapeHtml(r.metacritic)}</span>` : "";
+  parts.push(`<a class="mlink${mcCls}" href="https://www.metacritic.com/search/${q}/" target="_blank" rel="noopener">MC${mcValue}</a>`);
+
+  // YouTube trailer search
+  parts.push(`<a class="mlink mlink-trailer" href="https://www.youtube.com/results?search_query=${q}+trailer" target="_blank" rel="noopener" title="Trailer search">▶</a>`);
+
   return `<span class="movie-links">${parts.join('<span class="mlink-sep">·</span>')}</span>`;
 }
 
@@ -231,8 +275,13 @@ function renderByCinema() {
     const entries = byCinema.get(cinema.id);
     if (!entries || !entries.length) continue;
     anyShown = true;
-    // Sort movies within cinema by title
-    entries.sort((a, b) => (a.movie.original_title || a.movie.title).localeCompare(b.movie.original_title || b.movie.title));
+    // Sort: movies with any future sessions first, then past-only at bottom; within each group alphabetical.
+    entries.sort((a, b) => {
+      const aFuture = futureTimesCount(a.session) > 0 ? 0 : 1;
+      const bFuture = futureTimesCount(b.session) > 0 ? 0 : 1;
+      if (aFuture !== bFuture) return aFuture - bFuture;
+      return (a.movie.original_title || a.movie.title).localeCompare(b.movie.original_title || b.movie.title);
+    });
 
     const distStr = cinema._dist != null ? formatKm(cinema._dist) : "no location";
     const distCls = cinema._dist != null ? "cinema-distance" : "cinema-distance no-coords";
@@ -264,28 +313,131 @@ function renderByCinema() {
   container.innerHTML = parts.join("");
 }
 
+function renderPosterThumb(movie) {
+  if (!movie.poster_url) {
+    return `<div class="poster poster-missing" aria-hidden="true"></div>`;
+  }
+  // loading=lazy so off-screen rows don't fetch until scrolled into view
+  return `<img class="poster" loading="lazy" src="${escapeHtml(movie.poster_url)}" alt="">`;
+}
+
+function decodeHtmlEntities(s) {
+  // Cinecartaz og:description comes pre-HTML-escaped. Decode once.
+  if (!s) return "";
+  const el = document.createElement("textarea");
+  el.innerHTML = s;
+  return el.value;
+}
+
+function renderMovieExpanded(movie) {
+  const plot = movie.plot_en || decodeHtmlEntities(movie.plot_pt) || "";
+  const sourceTag = movie.plot_en ? "" : (movie.plot_pt ? ` <span class="plot-lang">(PT)</span>` : "");
+  const plotHtml = plot
+    ? `<p class="plot">${escapeHtml(plot)}${sourceTag}</p>`
+    : `<p class="plot plot-missing">No synopsis available.</p>`;
+
+  // Original language(s) from OMDB — useful for verifying VO assumption
+  const langs = movie.original_languages && movie.original_languages.length
+    ? movie.original_languages
+    : (movie.original_language ? [movie.original_language] : []);
+  const langHtml = langs.length
+    ? `<p class="orig-lang"><strong>Original language:</strong> ${langs.map(escapeHtml).join(", ")}</p>`
+    : "";
+
+  const ccLink = movie.url
+    ? `<a class="cc-link" href="https://cinecartaz.publico.pt${escapeHtml(movie.url)}" target="_blank" rel="noopener">Full info on cinecartaz ↗</a>`
+    : "";
+  return `
+    <div class="movie-expanded" style="display:none">
+      ${langHtml}
+      ${plotHtml}
+      ${ccLink}
+    </div>
+  `;
+}
+
 function renderMovieRowInCinema(movie, session) {
   return `
-    <div class="movie-row">
-      <div class="movie-title-line">
-        <span class="movie-title">${escapeHtml(movie.original_title || movie.title)}</span>
-        ${renderRatings(movie)}
-        ${renderMovieMeta(movie)}
-        ${renderMovieLinks(movie)}
+    <div class="movie-row" data-movie-id="${movie.id}">
+      <div class="movie-row-main">
+        ${renderPosterThumb(movie)}
+        <div class="movie-row-body">
+          <div class="movie-title-line">
+            <span class="movie-title">${escapeHtml(movie.original_title || movie.title)}</span>
+            ${renderMovieMeta(movie)}
+            ${renderMovieLinks(movie)}
+          </div>
+          <div class="times-row">
+            ${sortedTimes(session.times).map((t) => renderTimeSlot(t, movie, session.date)).join("")}
+          </div>
+        </div>
       </div>
-      <div class="times-row">
-        ${session.times.map((t) => renderTimeSlot(t, movie)).join("")}
-      </div>
+      ${renderMovieExpanded(movie)}
     </div>
   `;
 }
 
 // ---------- Rendering: by-movie ----------
 
+// Composite score for "how likely I want to see this".
+// Robust to missing data — each component has a sensible default so movies
+// without ratings still get ranked by popularity / penalties.
+function movieInterestScore(movie, sessionCount) {
+  // 1. Quality (0-1): MC preferred, then RT, then IMDb. Default 0.5 if none.
+  let quality = 0.5;
+  const r = movie.ratings || {};
+  if (r.metacritic) {
+    const n = parseInt(r.metacritic, 10);
+    if (!isNaN(n)) quality = n / 100;
+  } else if (r.rt_critic) {
+    const n = parseInt(r.rt_critic, 10);
+    if (!isNaN(n)) quality = n / 100;
+  } else if (r.imdb) {
+    const n = parseFloat(r.imdb);
+    if (!isNaN(n)) quality = n / 10;
+  }
+
+  // 2. Popularity (0-1): log-scaled showtime count.
+  // Typical range 1-40 showtimes; log(40)/log(40)=1.
+  const pop = sessionCount > 0 ? Math.log(sessionCount + 1) / Math.log(40) : 0;
+  const popularity = Math.min(1, pop);
+
+  // 3. Penalties
+  let penalty = 0;
+  if (movie.age_rating === "M/6") penalty += 0.15;  // kids' movies
+  const g = (movie.genre || "").toLowerCase();
+  if (g.includes("terror") || g.includes("horror")) penalty += 0.10;
+
+  return 0.55 * quality + 0.45 * popularity - penalty;
+}
+
 function renderByMovie() {
   const cinemas = sortedCinemas();
   const cinemaMap = new Map(cinemas.map((c) => [c.id, c]));
-  const movies = [...state.data.movies].sort((a, b) => a.title.localeCompare(b.title));
+
+  // Count matching showtimes per movie (for popularity scoring + gating).
+  // A movie only gets ranked if it has at least one session matching filters.
+  const rankedMovies = [];
+  for (const movie of state.data.movies) {
+    let count = 0;
+    let futureCount = 0;
+    for (const ct of movie.showtimes) {
+      for (const sess of ct.sessions) {
+        if (!dateMatches(sess.date)) continue;
+        const times = timesFilteredForLanguage(sess.times, movie);
+        count += times.length;
+        futureCount += futureTimesCount({ date: sess.date, times });
+      }
+    }
+    if (count === 0) continue;
+    // Use future-count for popularity so fully-past movies sink; fall back to total
+    // so "Tomorrow"/"All" filters aren't affected (futureCount == count there).
+    let score = movieInterestScore(movie, futureCount);
+    if (futureCount === 0) score -= 0.4;  // strong demotion when nothing left today
+    rankedMovies.push({ movie, sessionCount: count, score });
+  }
+  rankedMovies.sort((a, b) => b.score - a.score);
+  const movies = rankedMovies.map((r) => r.movie);
 
   const container = document.getElementById("content");
   const parts = [];
@@ -322,15 +474,24 @@ function renderByMovie() {
     });
 
     const directorStr = movie.director ? ` · ${escapeHtml(movie.director)}` : "";
+    const metaInline = renderMovieMeta(movie).replace('<span class="movie-meta">', '').replace("</span>", "");
     parts.push(`
-      <section class="movie-section">
-        <div class="movie-title-line">
-          <span class="movie-title">${escapeHtml(movie.original_title || movie.title)}</span>
-          ${renderRatings(movie)}
-          ${renderMovieLinks(movie)}
+      <section class="movie-section movie-row" data-movie-id="${movie.id}">
+        <div class="movie-section-header movie-row-main">
+          ${renderPosterThumb(movie)}
+          <div class="movie-section-body movie-row-body">
+            <div class="movie-title-line">
+              <span class="movie-title">${escapeHtml(movie.original_title || movie.title)}</span>
+              ${renderMovieLinks(movie)}
+            </div>
+            <div class="movie-info">${metaInline}${directorStr}</div>
+          </div>
         </div>
-        <div class="movie-info">${renderMovieMeta(movie).replace('<span class="movie-meta">', '').replace("</span>", "") || ""}${directorStr}</div>
-        ${cinemaEntries.map((ce) => renderCinemaLine(ce.cinema, ce.sessions, movie)).join("")}
+        ${renderMovieExpanded(movie)}
+        <div class="movie-section-cinemas">
+          ${cinemaEntries.slice(0, 3).map((ce) => renderCinemaLine(ce.cinema, ce.sessions, movie)).join("")}
+          ${renderMoreCinemas(cinemaEntries.slice(3), movie)}
+        </div>
       </section>
     `);
   }
@@ -348,8 +509,8 @@ function renderCinemaLine(cinema, sessions, movie) {
   const showDate = sessions.length > 1;
   const timeHtml = sessions
     .map((s) => {
-      const dateLabel = showDate ? `<span class="dist">${escapeHtml(s.day_label)}: </span>` : "";
-      return dateLabel + s.times.map((t) => renderTimeSlot(t, movie)).join("");
+      const dateLabel = showDate ? `<span class="dist">${translateDayLabel(s.day_label)}: </span>` : "";
+      return dateLabel + sortedTimes(s.times).map((t) => renderTimeSlot(t, movie, s.date)).join("");
     })
     .join(" ");
   return `
@@ -360,12 +521,87 @@ function renderCinemaLine(cinema, sessions, movie) {
   `;
 }
 
+function renderMoreCinemas(extraEntries, movie) {
+  if (!extraEntries.length) return "";
+  // Collapsed preview: list cinema names + distances, no times. Click to reveal full lines.
+  const previewNames = extraEntries
+    .map((ce) => {
+      const dist = ce.cinema._dist != null ? ` <span class="dist">· ${formatKm(ce.cinema._dist)}</span>` : "";
+      return `<span class="more-name">${escapeHtml(ce.cinema.name)}${dist}</span>`;
+    })
+    .join('<span class="more-sep">·</span>');
+  const fullHtml = extraEntries
+    .map((ce) => renderCinemaLine(ce.cinema, ce.sessions, movie))
+    .join("");
+  return `
+    <div class="more-cinemas" data-expanded="false">
+      <button class="more-cinemas-toggle" type="button">
+        <span class="more-caret">▸</span>
+        <span class="more-label">+ ${extraEntries.length} more cinema${extraEntries.length > 1 ? "s" : ""} — tap to show times</span>
+      </button>
+      <div class="more-cinemas-preview">${previewNames}</div>
+      <div class="more-cinemas-full" style="display:none">${fullHtml}</div>
+    </div>
+  `;
+}
+
+// Count how many of a session's times are still in the future (in Lisbon).
+function futureTimesCount(session) {
+  if (session.date !== todayISO()) return session.times.length;
+  return session.times.filter((t) => !isPastSlot(session.date, t.time)).length;
+}
+
 // ---------- Main render dispatch ----------
 
 function render() {
   if (!state.data) return;
   if (state.view === "by-cinema") renderByCinema();
   else renderByMovie();
+  attachRowHandlers();
+}
+
+function attachRowHandlers() {
+  // Tap on movie row (but not on a link) -> toggle expanded panel
+  document.querySelectorAll(".movie-row").forEach((row) => {
+    const main = row.querySelector(".movie-row-main");
+    const exp = row.querySelector(".movie-expanded");
+    if (!main || !exp) return;
+    main.addEventListener("click", (e) => {
+      // Don't toggle when clicking a link or inside the expanded panel
+      if (e.target.closest("a")) return;
+      const open = row.classList.toggle("open");
+      exp.style.display = open ? "" : "none";
+    });
+  });
+
+  // "+ N more cinemas" expander (by-movie view)
+  document.querySelectorAll(".more-cinemas").forEach((box) => {
+    const toggle = box.querySelector(".more-cinemas-toggle");
+    const preview = box.querySelector(".more-cinemas-preview");
+    const full = box.querySelector(".more-cinemas-full");
+    const caret = box.querySelector(".more-caret");
+    const label = box.querySelector(".more-label");
+    if (!toggle || !full) return;
+    toggle.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const expanded = box.dataset.expanded === "true";
+      box.dataset.expanded = expanded ? "false" : "true";
+      if (expanded) {
+        full.style.display = "none";
+        if (preview) preview.style.display = "";
+        if (caret) caret.textContent = "▸";
+        if (label) label.textContent = label.textContent.replace("hide", "+ ").replace(/hide times/, label.dataset.originalLabel || label.textContent);
+      } else {
+        full.style.display = "";
+        if (preview) preview.style.display = "none";
+        if (caret) caret.textContent = "▾";
+        if (label) {
+          if (!label.dataset.originalLabel) label.dataset.originalLabel = label.textContent;
+          label.textContent = "hide times";
+        }
+      }
+    });
+  });
 }
 
 // ---------- Event handlers ----------

@@ -169,6 +169,13 @@ def enrich_movies(movies: list[Movie], api_key: str, delay: float = 0.25) -> Non
         movie.original_languages = langs
         if data.get("Title") and not movie.original_title:
             movie.original_title = data["Title"]
+        # Poster + English plot (OMDB). Cinecartaz fallbacks are already populated.
+        poster = data.get("Poster")
+        if poster and poster != "N/A":
+            movie.poster_url = poster  # prefer OMDB over cinecartaz for English-market art
+        plot = data.get("Plot")
+        if plot and plot != "N/A":
+            movie.plot_en = plot
         logger.debug("OMDB hit: '%s' -> '%s' (%s)", movie.title, used_title, primary)
         time_module.sleep(delay)
 
