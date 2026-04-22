@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T12:39:20.597673Z",
+  "last_updated": "2026-04-22T13:52:52.827317Z",
   "scrape_date": "2026-04-22",
   "movies": [
     {
@@ -2327,6 +2327,226 @@
               "times": [
                 {
                   "time": "20h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17538,
+          "sessions": [
+            {
+              "date": "2026-04-22",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h20",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "20h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "24h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17563,
+          "sessions": [
+            {
+              "date": "2026-04-22",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h15",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "16h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17585,
+          "sessions": [
+            {
+              "date": "2026-04-22",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h45",
+                  "dubbed": false,
+                  "tech_format": "ATMOS",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h15",
+                  "dubbed": false,
+                  "tech_format": "ATMOS",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "20h45",
+                  "dubbed": false,
+                  "tech_format": "ATMOS",
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17586,
+          "sessions": [
+            {
+              "date": "2026-04-22",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "14h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h10",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 54418,
+          "sessions": [
+            {
+              "date": "2026-04-22",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "18h20",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h35",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 80874,
+          "sessions": [
+            {
+              "date": "2026-04-22",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 169327,
+          "sessions": [
+            {
+              "date": "2026-04-22",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "15h20",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "18h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h40",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 285110,
+          "sessions": [
+            {
+              "date": "2026-04-22",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "14h50",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h55",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
