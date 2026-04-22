@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T09:48:42.406595Z",
+  "last_updated": "2026-04-22T10:44:14.264227Z",
   "scrape_date": "2026-04-22",
   "movies": [
     {
@@ -329,6 +329,49 @@
                 },
                 {
                   "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 414147,
+      "title": "Batalha Atrás de Batalha",
+      "original_title": "One Battle After Another",
+      "url": "/filme/batalha-atras-de-batalha-414147",
+      "genre": null,
+      "duration_min": 161,
+      "age_rating": "M/16",
+      "director": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Spanish"
+      ],
+      "ratings": {
+        "imdb": "7.7",
+        "rt_critic": "94%",
+        "metacritic": "95",
+        "imdb_id": "tt30144839"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "plot_en": "When their enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+      "plot_pt": "Calif&#243;rnia, d&#233;cada de 1980.  Um grupo de antigos revolucion&#225;rios reencontra-se quando a filha de um deles &#233; raptada por um inimigo de longa data.  Entre as mem&#243;rias do passado e a luta pela sobreviv&#234;ncia, os membros do grupo confrontam os seus fantasmas enquanto v&#234;em os la&#231;os que outrora os uniram postos &#224; prova.",
+      "showtimes": [
+        {
+          "cinema_id": 54418,
+          "sessions": [
+            {
+              "date": "2026-04-22",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "17h50",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
