@@ -28,9 +28,34 @@ logger = logging.getLogger(__name__)
 OMDB_URL = "https://www.omdbapi.com/"
 
 
-def _query_omdb(session: requests.Session, api_key: str, title: str) -> Optional[dict]:
-    """Query OMDB for a title. Returns the response dict or None on miss/error."""
+def _query_omdb(
+    session: requests.Session,
+    api_key: str,
+    title: str,
+    expected_year: Optional[int] = None,
+) -> Optional[dict]:
+    """Query OMDB for a title. Returns the response dict or None on miss/error.
+
+    If `expected_year` is provided (from cinecartaz), we try `y=` first to
+    pin the right film — this avoids title collisions with classic-era films
+    (e.g. "Michael" 1996 Travolta vs the current 2026 blockbuster). If `y=`
+    misses (OMDB doesn't always have exact-year matches), fall back to a
+    no-year query but bias toward results within ±1 year.
+    """
     try:
+        # Year-pinned lookup first — most reliable when we have it.
+        if expected_year:
+            resp = session.get(
+                OMDB_URL,
+                params={"t": title, "y": str(expected_year), "apikey": api_key, "type": "movie"},
+                timeout=10,
+            )
+            if resp.status_code == 200:
+                data = resp.json()
+                if data.get("Response") != "False":
+                    return data
+
+        # Plain title lookup
         resp = session.get(
             OMDB_URL,
             params={"t": title, "apikey": api_key, "type": "movie"},
@@ -41,9 +66,67 @@ def _query_omdb(session: requests.Session, api_key: str, title: str) -> Optional
         data = resp.json()
         if data.get("Response") == "False":
             return None
+
+        # If we have an expected year and the match is far off, search for a closer one.
+        actual_year = _parse_year(data.get("Year"))
+        if expected_year and actual_year and abs(actual_year - expected_year) > 1:
+            better = _find_year_match(session, api_key, title, expected_year)
+            if better is not None:
+                return better
+
         return data
     except Exception as e:
         logger.warning("OMDB query failed for '%s': %s", title, e)
+        return None
+
+
+def _parse_year(year_str) -> Optional[int]:
+    if not year_str or year_str == "N/A":
+        return None
+    m = re.match(r"(\d{4})", str(year_str))
+    return int(m.group(1)) if m else None
+
+
+def _find_year_match(
+    session: requests.Session, api_key: str, title: str, target_year: int
+) -> Optional[dict]:
+    """Search OMDB; return the exact-title match closest to target_year (within ±1)."""
+    try:
+        resp = session.get(
+            OMDB_URL,
+            params={"s": title, "apikey": api_key, "type": "movie"},
+            timeout=10,
+        )
+        if resp.status_code != 200:
+            return None
+        results = resp.json().get("Search") or []
+        title_lc = title.strip().lower()
+        candidates = []
+        for r in results:
+            if (r.get("Title") or "").strip().lower() != title_lc:
+                continue
+            y = _parse_year(r.get("Year"))
+            if y is None:
+                continue
+            candidates.append((abs(y - target_year), -y, r.get("imdbID"), y))
+        if not candidates:
+            return None
+        candidates.sort()  # closest year first; on tie, newer wins (-y)
+        dist, _, imdb_id, y = candidates[0]
+        if dist > 1:
+            return None  # nothing close enough — keep the original
+        if not imdb_id:
+            return None
+        r2 = session.get(OMDB_URL, params={"i": imdb_id, "apikey": api_key}, timeout=10)
+        if r2.status_code != 200:
+            return None
+        d2 = r2.json()
+        if d2.get("Response") == "False":
+            return None
+        logger.info("OMDB year-corrected: '%s' -> %s (target %d)", title, d2.get("Year"), target_year)
+        return d2
+    except Exception as e:
+        logger.warning("OMDB search failed for '%s': %s", title, e)
         return None
 
 
@@ -138,7 +221,7 @@ def enrich_movies(movies: list[Movie], api_key: str, delay: float = 0.25) -> Non
         data = None
         used_title = None
         for title in candidates:
-            data = _query_omdb(session, api_key, title)
+            data = _query_omdb(session, api_key, title, expected_year=movie.year)
             if data:
                 # Reject low-confidence matches: if OMDB returned no IMDB rating,
                 # it's likely a different same-titled film (and we can't trust

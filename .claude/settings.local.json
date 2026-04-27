@@ -22,7 +22,13 @@
       "Bash(python3 -c \"from datetime import datetime; from zoneinfo import ZoneInfo; print\\('Lisbon now:', datetime.now\\(ZoneInfo\\('Europe/Lisbon'\\)\\)\\)\")",
       "Bash(curl -s \"https://cinecartaz.publico.pt/filme/batalha-atras-de-batalha-414147\" -o /tmp/movie_live.html)",
       "Bash(python3 -c ' *)",
-      "Bash(zsh -ic 'test -n \"$OMDB_API_KEY\" && echo \"in zshrc \\(length ${#OMDB_API_KEY}\\)\" || echo \"not in zshrc either\"')"
+      "Bash(zsh -ic 'test -n \"$OMDB_API_KEY\" && echo \"in zshrc \\(length ${#OMDB_API_KEY}\\)\" || echo \"not in zshrc either\"')",
+      "Bash(zsh -ic 'echo -n $OMDB_API_KEY')",
+      "Bash(python3 scraper/main.py --output-dir site/data)",
+      "Bash(python3 -m venv scraper/.venv)",
+      "Bash(scraper/.venv/bin/pip install *)",
+      "Bash(scraper/.venv/bin/python scraper/main.py --output-dir site/data)",
+      "Bash(scraper/.venv/bin/python -c ' *)"
     ]
   }
 }

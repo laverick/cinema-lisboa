@@ -458,6 +458,17 @@ def _extract_movie_metadata(soup: BeautifulSoup) -> dict:
     if gen_match:
         meta["genre"] = gen_match.group(1).strip().rstrip(",")
 
+    # Year: cinecartaz puts it in a span next to an <i class="i-cc-year"> icon.
+    # Pattern: `<i class="i-cc-year" ...></i> 2026`
+    year_icon = soup.select_one('i.i-cc-year')
+    if year_icon:
+        # Year text is in the parent span next to the icon
+        parent = year_icon.parent
+        if parent:
+            ymatch = re.search(r"\b(19|20)\d{2}\b", parent.get_text(" ", strip=True))
+            if ymatch:
+                meta["year"] = int(ymatch.group(0))
+
     # Poster: og:image meta tag (always present)
     og_image = soup.select_one('meta[property="og:image"]')
     if og_image and og_image.get("content"):

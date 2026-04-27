@@ -48,6 +48,7 @@ class Movie(BaseModel):
     duration_min: Optional[int] = None
     age_rating: Optional[str] = None
     director: Optional[str] = None
+    year: Optional[int] = None  # release year, scraped from cinecartaz (`i-cc-year`)
     original_language: Optional[str] = None
     original_languages: list[str] = Field(default_factory=list)
     ratings: Optional[Ratings] = None
