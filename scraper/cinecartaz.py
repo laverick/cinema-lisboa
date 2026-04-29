@@ -171,6 +171,62 @@ def get_lisbon_cinemas(rooms_by_region: dict[str, list[dict]]) -> dict[int, dict
     return result
 
 
+_CINEMA_CARD_RE = re.compile(
+    r'<div class="movie-card__media".*?'
+    r'href="(/filme/[a-z0-9\-]+-(\d+))".*?'
+    r'<h3 class="movie-card__title">([^<]+)</h3>',
+    re.DOTALL,
+)
+
+
+def discover_extra_movies(
+    lisbon_cinemas: dict[int, dict],
+    known_ids: set[int],
+    session: requests.Session,
+    api_delay: float = 0.4,
+) -> list[dict]:
+    """Walk per-cinema pages to find movies not on the homepage Movies feed.
+
+    The homepage `window.Movies` array is a curated subset (~80 highlighted
+    titles), missing many current releases that are in fact playing. Per-cinema
+    pages list every film at that cinema with a `<div class="movie-card">` —
+    we mine those for any movie IDs we haven't already enqueued.
+
+    Returns stub dicts (id, title, url) compatible with fetch_movie_showtimes.
+    """
+    extras: dict[int, dict] = {}
+    for cinema_id, cinema in lisbon_cinemas.items():
+        # Cinecartaz routes /cinema/<anything>-<id> to the right cinema —
+        # only the trailing id matters. Use a stable bare-id URL.
+        cinema_url = urljoin(BASE_URL, f"/cinema/c-{cinema_id}")
+        try:
+            resp = session.get(cinema_url, timeout=15)
+            if resp.status_code != 200:
+                logger.debug("Cinema page %s -> HTTP %d", cinema_url, resp.status_code)
+                continue
+        except Exception as e:
+            logger.warning("Failed to fetch cinema page %s: %s", cinema_url, e)
+            continue
+
+        for url, mid_str, title in _CINEMA_CARD_RE.findall(resp.text):
+            mid = int(mid_str)
+            if mid in known_ids or mid in extras:
+                continue
+            extras[mid] = {
+                "id": mid,
+                "title": title.strip(),
+                "url": url,
+            }
+        time_module.sleep(api_delay)
+
+    if extras:
+        logger.info(
+            "Discovered %d additional movies from per-cinema pages (homepage feed missed them)",
+            len(extras),
+        )
+    return list(extras.values())
+
+
 def filter_lisbon_movies(movies: list[dict], lisbon_ids: set[int]) -> list[dict]:
     """Keep movies that play in at least one Lisbon cinema."""
     result = []
@@ -553,6 +609,11 @@ def scrape_all(
     filtered = filter_lisbon_movies(movies_raw, lisbon_ids)
 
     logger.info("Filtered to %d movies playing in %d Lisbon cinemas", len(filtered), len(lisbon_ids))
+
+    # Mine per-cinema pages for movies the homepage feed missed.
+    known_ids = {int(m["id"]) for m in filtered if m.get("id")}
+    extras = discover_extra_movies(lisbon_cinemas, known_ids, session)
+    filtered.extend(extras)
 
     # Date validation using first movie as sample
     if filtered:
