@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T18:04:14.935420Z",
+  "last_updated": "2026-05-18T18:54:50.633487Z",
   "scrape_date": "2026-05-18",
   "movies": [
     {
@@ -477,6 +477,117 @@
       "plot_en": null,
       "plot_pt": "Acompanhamos as aventuras de Elvira e L&#233;on Berthelini, um casal de artistas ambulantes que vive na pequena aldeia de Covarronca, no s&#233;culo XIX.  Uma maldi&#231;&#227;o leva-os at&#233; a uma Lisboa da actualidade, onde se cruzam com os Desgra&#231;a, uma banda de metal em crise que acaba de lan&#231;ar o &#225;lbum H&#237;bridos Ag&#243;nicos.",
       "showtimes": [
+        {
+          "cinema_id": 17532,
+          "sessions": [
+            {
+              "date": "2026-05-18",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-19",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-20",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 270072,
+          "sessions": [
+            {
+              "date": "2026-05-18",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-19",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-20",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17714,
+          "sessions": [
+            {
+              "date": "2026-05-19",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "19h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-20",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "21h15",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
         {
           "cinema_id": 17541,
           "sessions": [
