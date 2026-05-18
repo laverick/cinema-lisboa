@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T17:15:22.504353Z",
+  "last_updated": "2026-05-18T18:04:14.935420Z",
   "scrape_date": "2026-05-18",
   "movies": [
     {
@@ -292,18 +292,11 @@
       "age_rating": "M/16",
       "director": null,
       "year": 1976,
-      "original_language": "English",
-      "original_languages": [
-        "English"
-      ],
-      "ratings": {
-        "imdb": "7.3",
-        "rt_critic": "79%",
-        "metacritic": "65",
-        "imdb_id": "tt0074749"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTFjOWYxZDctOGFkNS00OTljLTkxOGMtNzgwOGVkNTkzOWJjXkEyXkFqcGc@._V1_SX300.jpg",
-      "plot_en": "A proud strip club owner is forced to come to terms with himself as a man when his gambling addiction gets him in hot water with the mob, who offer him only one alternative.",
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/784879?tp=KM",
+      "plot_en": null,
       "plot_pt": "Para muitos trata-se do melhor filme de John Cassavetes.  Uma desencantada reflex&#227;o sobre o poder e o dinheiro, atrav&#233;s do percurso final do propriet&#225;rio de um bar, for&#231;ado por uma organiza&#231;&#227;o mafiosa a matar um chefe de gang chin&#234;s, em pagamento de uma d&#237;vida de jogo.",
       "showtimes": [
         {
@@ -484,117 +477,6 @@
       "plot_en": null,
       "plot_pt": "Acompanhamos as aventuras de Elvira e L&#233;on Berthelini, um casal de artistas ambulantes que vive na pequena aldeia de Covarronca, no s&#233;culo XIX.  Uma maldi&#231;&#227;o leva-os at&#233; a uma Lisboa da actualidade, onde se cruzam com os Desgra&#231;a, uma banda de metal em crise que acaba de lan&#231;ar o &#225;lbum H&#237;bridos Ag&#243;nicos.",
       "showtimes": [
-        {
-          "cinema_id": 17532,
-          "sessions": [
-            {
-              "date": "2026-05-18",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-05-19",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-05-20",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 270072,
-          "sessions": [
-            {
-              "date": "2026-05-18",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-05-19",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-05-20",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17714,
-          "sessions": [
-            {
-              "date": "2026-05-19",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-05-20",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
         {
           "cinema_id": 17541,
           "sessions": [
