@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T05:39:39.242169Z",
+  "last_updated": "2026-05-20T07:32:45.891835Z",
   "scrape_date": "2026-05-20",
   "movies": [
     {
@@ -2762,7 +2762,7 @@
       "duration_min": 76,
       "age_rating": "M/12",
       "director": null,
-      "year": 2025,
+      "year": 2026,
       "original_language": null,
       "original_languages": [],
       "ratings": null,
@@ -3289,18 +3289,26 @@
     {
       "id": 415336,
       "title": "Tom e Jerry: A Bússola Perdida",
-      "original_title": "Mâo Hé Lâoshâ: Xîng Pán Qí Yuán",
+      "original_title": "Tom and Jerry - Forbidden Compass",
       "url": "/filme/tom-e-jerry-a-bussola-perdida-415336",
       "genre": null,
       "duration_min": 104,
       "age_rating": "M/6",
       "director": null,
       "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822644?tp=KM",
-      "plot_en": null,
+      "original_language": "Chinese",
+      "original_languages": [
+        "Chinese",
+        "English"
+      ],
+      "ratings": {
+        "imdb": "3.7",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt37185884"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWQ3OTU0ZWYtYWE5OS00Zjc4LTg4ZTctMzcyZDQ2YjU1Yjk4XkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+      "plot_en": "During a chase inside a museum, Tom and Jerry find a magical object and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.",
       "plot_pt": "A lend&#225;ria rivalidade entre Tom e Jerry ganha um novo f&#244;lego quando, durante uma persegui&#231;&#227;o num museu, os dois activam acidentalmente uma b&#250;ssola m&#225;gica que os transporta para um mundo desconhecido e muito perigoso.  Enquanto tentam encontrar o caminho de regresso a casa, cruzam-se com novos aliados, com quem ter&#227;o de enfrentar inimigos que amea&#231;am o equil&#237;brio do Universo.",
       "showtimes": [
         {
@@ -3597,7 +3605,7 @@
     {
       "id": 415340,
       "title": "Star Wars: The Mandalorian e Grogu",
-      "original_title": "Star Wars: The Mandalorian and",
+      "original_title": "Star Wars - The Mandalorian and Grogu",
       "url": "/filme/star-wars-the-mandalorian-grogu-415340",
       "genre": null,
       "duration_min": 140,
@@ -3859,7 +3867,7 @@
     {
       "id": 415405,
       "title": "Iron Maiden: Burning Ambition",
-      "original_title": "Iron Maiden: Burning Ambition",
+      "original_title": "Iron Maiden - Burning Ambition",
       "url": "/filme/iron-maiden-burning-ambition-415405",
       "genre": null,
       "duration_min": 106,
@@ -4465,7 +4473,7 @@
     {
       "id": 415296,
       "title": "Billie Eilish - Hit Me Hard and Soft: The Tour",
-      "original_title": "Billie Eilsih - Hit Me Hard and Soft",
+      "original_title": "Billie Eilsih - Hit Me Hard and Soft (Live in 3D)",
       "url": "/filme/billie-eilish-hit-hard-and-soft-the-tour-415296",
       "genre": null,
       "duration_min": null,
