@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T05:44:05.285422Z",
+  "last_updated": "2026-05-27T07:46:02.760744Z",
   "scrape_date": "2026-05-27",
   "movies": [
     {
@@ -3799,11 +3799,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822738?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.5",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt42369871"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWIzNzEyYjQtMDQ3NS00YzU0LWIwZGMtYjI2YWY1NmIwNDRkXkEyXkFqcGc@._V1_QL75_UY562_CR311,0,380,562_.jpg",
+      "plot_en": "A 4-episode special look series at \"Star Wars: The Mandalorian and Grogu\", only in theaters.",
       "plot_pt": "&lt;p&gt;Depois da queda do Imp&#233;rio, Din Djarin, um solit&#225;rio ca&#231;ador de recompensas mandaloriano, continua a atravessar os confins da gal&#225;xia ao lado do seu jovem companheiro Grogu.  Agora ao servi&#231;o da Nova Rep&#250;blica, fundada para restaurar a ordem e a paz, os dois s&#227;o chamados para uma miss&#227;o que os levar&#225; a enfrentar for&#231;as do antigo Imp&#233;rio.",
       "showtimes": [
         {
