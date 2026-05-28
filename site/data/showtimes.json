@@ -1,7 +1,300 @@
 {
-  "last_updated": "2026-05-28T01:56:04.241320Z",
+  "last_updated": "2026-05-28T03:27:50.829455Z",
   "scrape_date": "2026-05-28",
-  "movies": [],
+  "movies": [
+    {
+      "id": 414160,
+      "title": "Fogo do Vento",
+      "original_title": "Fogo do Vento",
+      "url": "/filme/fogo-do-vento-414160",
+      "genre": null,
+      "duration_min": 74,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 2024,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822739?tp=KM",
+      "plot_en": null,
+      "plot_pt": "&lt;p&gt;Durante uma vindima, Soraia, uma jovem trabalhadora do &lt;a href=&quot;https://www. publico. pt/alentejo&quot; target=&quot;_self&quot;&gt;Alentejo&lt;/a&gt;, fere a m&#227;o.  As gotas do seu sangue misturam-se com o vinho e, a partir da&#237;, come&#231;a a ser perseguida por um touro.",
+      "showtimes": [
+        {
+          "cinema_id": 17714,
+          "sessions": [
+            {
+              "date": "2026-05-24",
+              "day_label": "DOMINGO",
+              "times": [
+                {
+                  "time": "16h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-25",
+              "day_label": "SEGUNDA",
+              "times": [
+                {
+                  "time": "16h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-26",
+              "day_label": "TERÇA",
+              "times": [
+                {
+                  "time": "16h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-28",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "16h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-29",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "16h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-30",
+              "day_label": "SÁBADO",
+              "times": [
+                {
+                  "time": "21h15",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 54418,
+          "sessions": [
+            {
+              "date": "2026-05-24",
+              "day_label": "DOMINGO",
+              "times": [
+                {
+                  "time": "14h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "19h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-25",
+              "day_label": "SEGUNDA",
+              "times": [
+                {
+                  "time": "14h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "19h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-26",
+              "day_label": "TERÇA",
+              "times": [
+                {
+                  "time": "14h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "19h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-28",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "14h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "19h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-29",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "14h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "19h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-30",
+              "day_label": "SÁBADO",
+              "times": [
+                {
+                  "time": "14h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "19h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 221112,
+          "sessions": [
+            {
+              "date": "2026-05-24",
+              "day_label": "DOMINGO",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-25",
+              "day_label": "SEGUNDA",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-26",
+              "day_label": "TERÇA",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-28",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-29",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-05-30",
+              "day_label": "SÁBADO",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "cinemas": [
     {
       "id": 414017,
