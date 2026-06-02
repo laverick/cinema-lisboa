@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T13:40:08.371361Z",
+  "last_updated": "2026-06-02T15:40:42.570539Z",
   "scrape_date": "2026-06-02",
   "movies": [
     {
@@ -2341,6 +2341,41 @@
               ]
             }
           ]
+        },
+        {
+          "cinema_id": 230335,
+          "sessions": [
+            {
+              "date": "2026-06-03",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "16h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "18h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h35",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3766,6 +3801,30 @@
                   "inferred_vo": true
                 }
               ]
+            },
+            {
+              "date": "2026-06-03",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "16h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "18h35",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
             }
           ]
         },
@@ -4321,6 +4380,18 @@
                 },
                 {
                   "time": "15h55",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-06-03",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "16h10",
                   "dubbed": true,
                   "tech_format": null,
                   "inferred_vo": false
