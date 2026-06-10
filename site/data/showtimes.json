@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T05:47:51.119084Z",
+  "last_updated": "2026-06-10T07:48:03.208361Z",
   "scrape_date": "2026-06-10",
   "movies": [
     {
@@ -86,18 +86,27 @@
     {
       "id": 415414,
       "title": "Dois Procuradores",
-      "original_title": "Zwei Staatsanwälte",
+      "original_title": "Two Prosecutors",
       "url": "/filme/dois-procuradores-415414",
       "genre": null,
       "duration_min": 118,
       "age_rating": "M/12",
       "director": null,
       "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822930?tp=KM",
-      "plot_en": null,
+      "original_language": "Russian",
+      "original_languages": [
+        "Russian",
+        "Ukrainian",
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.1",
+        "rt_critic": "97%",
+        "metacritic": "84",
+        "imdb_id": "tt35521200"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWUxNWEzNzYtNzc3Ny00NGJkLThmMDYtNmRmODAwMDNlYjBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "In the USSR in 1937, a newly appointed prosecutor discovers an undestroyed letter from a prisoner that reveals corruption in the secret police, the NKVD. His search for the truth becomes dangerous.",
       "plot_pt": "Na Uni&#227;o Sovi&#233;tica de 1937, durante as terr&#237;veis purgas estalinistas, Alexander Kornev, um jovem procurador, recebe uma carta de um prisioneiro pol&#237;tico perseguido pela NKVD (Comissariado do Povo para os Assuntos Internos), a pol&#237;cia secreta.",
       "showtimes": [
         {
