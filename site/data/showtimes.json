@@ -1,7 +1,88 @@
 {
-  "last_updated": "2026-06-10T03:23:51.492082Z",
+  "last_updated": "2026-06-10T05:47:51.119084Z",
   "scrape_date": "2026-06-10",
   "movies": [
+    {
+      "id": 106672,
+      "title": "Amantes",
+      "original_title": "Love Streams",
+      "url": "/filme/amantes-106672",
+      "genre": null,
+      "duration_min": 141,
+      "age_rating": null,
+      "director": null,
+      "year": 1984,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "French",
+        "Spanish"
+      ],
+      "ratings": {
+        "imdb": "7.6",
+        "rt_critic": "100%",
+        "metacritic": null,
+        "imdb_id": "tt0087644"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmMxYzJmOTQtMTc2NS00Njg2LTk5OTItNDUxNWMzMjQyODhhXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Two closely bound, emotionally wounded souls reunite after years apart.",
+      "plot_pt": "O último filme \"pessoal\" de John Cassavetes.  \"Love Streams\", muito pouco visto, é uma despedida em beleza, uma obra extraordinariamente intensa em termos emocionais, que Cassavetes dirige com a austeridade de quem faz \"teatro no cinema\".  Cassavetes interpreta o papel de um escritor alcoólico e decadente, Gena Rowlands faz de sua irmã.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-06-10",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18722,
+      "title": "Diário de um Pároco de Aldeia",
+      "original_title": "Journal dun Curé de Campagne",
+      "url": "/filme/diario-de-um-paroco-de-aldeia-18722",
+      "genre": null,
+      "duration_min": 110,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1956,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "",
+      "plot_en": null,
+      "plot_pt": "Para muitos a obra prima de Robert Bresson, \"Journal dun Curé de Campagne\" é uma fabulosa adaptação do romance de Georges Bernanos, e uma peça fundamental na definição da estética (e da ética) do cineasta francês.  É o filme em que Bresson filmou aquilo a que chamou o “realismo interior”, onde o que conta é a pintura de estados de alma e a exposição (nunca demonstrativa) da angústia do Pároco de Ambricourt.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-06-10",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "19h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 415414,
       "title": "Dois Procuradores",
@@ -166,11 +247,21 @@
       "age_rating": "M/12",
       "director": null,
       "year": 1997,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/740259?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "German",
+        "Hebrew",
+        "Spanish"
+      ],
+      "ratings": {
+        "imdb": "8.1",
+        "rt_critic": "79%",
+        "metacritic": "71",
+        "imdb_id": "tt0118715"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2E3OWQ5OWYtYTRkMC00NjVjLWIzZDQtNmRmM2ZiYTIyYmYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
       "plot_pt": "Os irm&#227;os Joel e Ethan Coen regressam com o sentido de humor em segundo grau a que j&#225; nos habituaram em filmes como &quot;Raising Arizona&quot; ou &quot;Fargo&quot;.  Desta feita escolheram Los Angeles como cen&#225;rio de uma s&#225;tira da cultura americana.",
       "showtimes": [
         {
@@ -182,60 +273,6 @@
               "times": [
                 {
                   "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415335,
-      "title": "Obsession - A Felicidade é Relativa",
-      "original_title": "Obsession",
-      "url": "/filme/obsession-felicidade-relativa-415335",
-      "genre": null,
-      "duration_min": 108,
-      "age_rating": "M/16",
-      "director": null,
-      "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822715?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Bear (Michael Johnston) trabalha numa loja de m&#250;sica ao lado de Nikki (Inde Navarrette), por quem h&#225; muito est&#225; apaixonado.  Inseguro e com muitas dificuldades de confessar o que sente, adquire, numa loja de produtos esot&#233;ricos, um objecto designado &#8220;One Wish Willow&#8221;, um artefacto que promete conceder um desejo a quem o possuir.",
-      "showtimes": [
-        {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-06-10",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -283,79 +320,45 @@
       ]
     },
     {
-      "id": 415136,
-      "title": "Projecto Hail Mary",
-      "original_title": "Project Hail Mary",
-      "url": "/filme/projecto-hail-mary-415136",
+      "id": 415089,
+      "title": "Um Poeta",
+      "original_title": "Un Poeta",
+      "url": "/filme/um-poeta-415089",
       "genre": null,
-      "duration_min": 156,
-      "age_rating": "M/12",
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/821804?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Ryan&#160;Gosling&#160;&#233;&#160;Ryland&#160;Grace, um professor de biologia que desperta numa nave espacial sem qualquer mem&#243;ria.  Pouco a pouco, descobre que &#233; o &#250;nico sobrevivente da tripula&#231;&#227;o da &#34;Hail&#160;Mary&#34;&#160;e que tem como miss&#227;o salvar o planeta Terra.",
-      "showtimes": [
-        {
-          "cinema_id": 54418,
-          "sessions": [
-            {
-              "date": "2026-06-10",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415419,
-      "title": "Scary Movie: What's Up",
-      "original_title": "Scary Movie: What's Up",
-      "url": "/filme/scary-movie-whats-up-415419",
-      "genre": null,
-      "duration_min": 96,
+      "duration_min": 123,
       "age_rating": "M/14",
       "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822933?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Vinte e seis anos depois de terem sobrevivido a uma s&#233;rie de ataques cometidos por um implac&#225;vel assassino mascarado, Cindy, Brenda, Shorty e Ray deparam-se com uma nova vaga de viol&#234;ncia. \r\nSexto filme da saga &#8220;Scary Movie&#8221; (iniciada no ano 2000), uma par&#243;dia intencionalmente exagerada a alguns filmes de terror (e n&#227;o s&#243;) que dominaram o &#8220;box office&#8221; dos &#250;ltimos anos, sejam eles prequelas, sequelas, &#8220;reboots&#8221;, &#8220;spin-offs&#8221;, os seus legados ou cap&#237;tulos finais.",
+      "year": 2025,
+      "original_language": "Italian",
+      "original_languages": [
+        "Italian",
+        "Russian"
+      ],
+      "ratings": {
+        "imdb": "7.6",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0366908"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTFhZmU4MGEtNDUzZi00MzFiLWE3ZWMtYzA3NzY0OGY0MWU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Tarkovsky expounds on his life and work, the essential importance of fighting, the conceptual nonexistence of happiness, what childhood determines about us, wartime's impact on fantasies, and the salutary effects of a year laborin...",
+      "plot_pt": "Oscar Restrepo (Ubeimar Rios) n&#227;o singrou na vida.  &#201; poeta at&#233; ao tutano, mas nunca fez dinheiro com isso.  J&#225; com alguma idade, vive com a m&#227;e, doente, em Medell&#237;n, e n&#227;o trabalha, nem tem grande vontade de trabalhar.",
       "showtimes": [
         {
-          "cinema_id": 169327,
+          "cinema_id": 17714,
           "sessions": [
             {
               "date": "2026-06-10",
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "15h30",
+                  "time": "14h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
                 },
                 {
-                  "time": "19h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
+                  "time": "19h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -618,54 +621,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 415588,
-      "title": "The Amazing Digital Circus: O Último Acto",
-      "original_title": "The Amazing Digital Circus: The Last Act",
-      "url": "/filme/the-amazing-digital-circus-o-ultimo-acto-415588",
-      "genre": null,
-      "duration_min": 93,
-      "age_rating": null,
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823069?tp=KM",
-      "plot_en": null,
-      "plot_pt": null,
-      "showtimes": [
-        {
-          "cinema_id": 54418,
-          "sessions": [
-            {
-              "date": "2026-06-10",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
   "cinemas": [
@@ -750,16 +705,6 @@
       "chain_url": "https://www.cinemas.nos.pt/"
     },
     {
-      "id": 17536,
-      "name": "Cinemateca Portuguesa",
-      "chain": "Independent",
-      "region": "Lisboa",
-      "location": "Lisboa",
-      "lat": 38.71,
-      "lng": -9.152,
-      "chain_url": ""
-    },
-    {
       "id": 415487,
       "name": "Igreja da Graça",
       "chain": "Other",
@@ -808,26 +753,6 @@
       "lat": 38.733,
       "lng": -9.152,
       "chain_url": "https://www.ucicinemas.pt/"
-    },
-    {
-      "id": 285110,
-      "name": "Castello Lopes - Alegro Sintra",
-      "chain": "Castello Lopes",
-      "region": "Grande Lisboa",
-      "location": "Lisboa",
-      "lat": 38.8,
-      "lng": -9.38,
-      "chain_url": "https://castellolopescinemas.pt/"
-    },
-    {
-      "id": 215096,
-      "name": "Castello Lopes - Fórum Barreiro",
-      "chain": "Castello Lopes",
-      "region": "Grande Lisboa",
-      "location": "Setúbal",
-      "lat": 38.663,
-      "lng": -9.072,
-      "chain_url": "https://castellolopescinemas.pt/"
     },
     {
       "id": 187898,
