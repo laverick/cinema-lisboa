@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T03:25:01.292756Z",
+  "last_updated": "2026-06-17T05:55:41.473884Z",
   "scrape_date": "2026-06-17",
   "movies": [
     {
@@ -802,42 +802,6 @@
               "times": [
                 {
                   "time": "20h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 136789,
-      "title": "Jorge e Georgina",
-      "original_title": "Viktor und Viktoria",
-      "url": "/filme/jorge-e-georgina-136789",
-      "genre": null,
-      "duration_min": 100,
-      "age_rating": null,
-      "director": null,
-      "year": 1933,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
-      "plot_pt": null,
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-06-17",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -1687,49 +1651,6 @@
       ]
     },
     {
-      "id": 114214,
-      "title": "O Milhão",
-      "original_title": "Le Million",
-      "url": "/filme/o-milhao-114214",
-      "genre": null,
-      "duration_min": 90,
-      "age_rating": null,
-      "director": null,
-      "year": 1931,
-      "original_language": "French",
-      "original_languages": [
-        "French"
-      ],
-      "ratings": {
-        "imdb": "7.4",
-        "rt_critic": "100%",
-        "metacritic": null,
-        "imdb_id": "tt0022150"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA1MTA3NjI3M15BMl5BanBnXkFtZTcwNTA3OTMyMQ@@._V1_SX300.jpg",
-      "plot_en": "An impoverished painter and his rival engage in a race across Paris to recover a jacket concealing a winning lottery ticket.",
-      "plot_pt": "Quando o som se impôs definitivamente ao cinema, à roda de 1930, René Clair não o recusou, como outros ilustres cineastas (Chaplin e Eisenstein, por exemplo), mas tentou encontrar uma síntese entre as conquistas da \"arte muda\" e o \"teatro enlatado\" que proliferou durante algum tempo.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-06-17",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 415335,
       "title": "Obsession - A Felicidade é Relativa",
       "original_title": "Obsession",
@@ -1904,11 +1825,18 @@
       "age_rating": "M/6",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822228?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.3",
+        "rt_critic": null,
+        "metacritic": "37",
+        "imdb_id": "tt28650488"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWYxYWRkMTUtMGMwZC00MzYyLThlNjEtNDcwMDYyMTQ4ZjJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Mario ventures into space, exploring cosmic worlds and tackling galactic challenges far from the familiar Mushroom Kingdom.",
       "plot_pt": "Depois de salvarem o Reino dos Cogumelos, onde agora residem,&#160;Mario&#160;e&#160;Luigi&#160;&#8212; os simp&#225;ticos canalizadores de Brooklyn de ascend&#234;ncia italiana &#8212; v&#234;em-se a bra&#231;os com uma luta intergal&#225;ctica.  Acompanhados pelo dinossauro&#160;Yoshi, pela destemida princesa&#160;Peach&#160;e pelo ador&#225;vel cogumelo&#160;Toad, enfrentam o extraterrestre&#160;Bowser&#160;Jr.",
       "showtimes": [
         {
@@ -2151,11 +2079,19 @@
       "age_rating": null,
       "director": null,
       "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/821725?tp=KM",
-      "plot_en": null,
+      "original_language": "Italian",
+      "original_languages": [
+        "Italian",
+        "Russian"
+      ],
+      "ratings": {
+        "imdb": "7.6",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0366908"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTFhZmU4MGEtNDUzZi00MzFiLWE3ZWMtYzA3NzY0OGY0MWU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Tarkovsky expounds on his life and work, the essential importance of fighting, the conceptual nonexistence of happiness, what childhood determines about us, wartime's impact on fantasies, and the salutary effects of a year laborin...",
       "plot_pt": "Oscar Restrepo (Ubeimar Rios) n&#227;o singrou na vida.  &#201; poeta at&#233; ao tutano, mas nunca fez dinheiro com isso.  J&#225; com alguma idade, vive com a m&#227;e, doente, em Medell&#237;n, e n&#227;o trabalha, nem tem grande vontade de trabalhar.",
       "showtimes": [
         {
@@ -2210,11 +2146,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822738?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.5",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt42369871"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWIzNzEyYjQtMDQ3NS00YzU0LWIwZGMtYjI2YWY1NmIwNDRkXkEyXkFqcGc@._V1_QL75_UY562_CR311,0,380,562_.jpg",
+      "plot_en": "A 4-episode special look series at \"Star Wars: The Mandalorian and Grogu\", only in theaters.",
       "plot_pt": "&lt;p&gt;Depois da queda do Imp&#233;rio, Din Djarin, um solit&#225;rio ca&#231;ador de recompensas mandaloriano, continua a atravessar os confins da gal&#225;xia ao lado do seu jovem companheiro Grogu.  Agora ao servi&#231;o da Nova Rep&#250;blica, fundada para restaurar a ordem e a paz, os dois s&#227;o chamados para uma miss&#227;o que os levar&#225; a enfrentar for&#231;as do antigo Imp&#233;rio.",
       "showtimes": [
         {
@@ -2517,42 +2460,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 415612,
-      "title": "The Happy Family + Fair Rent",
-      "original_title": "The Happy Family",
-      "url": "/filme/the-happy-family-fair-rent-415612",
-      "genre": null,
-      "duration_min": 86,
-      "age_rating": null,
-      "director": null,
-      "year": 1952,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
-      "plot_pt": "Em &#34;The Happy Family&#34;, a realizadora acompanha uma fam&#237;lia que se barrica dentro da sua pr&#243;pria casa, resistindo &#224;s equipas de demoli&#231;&#227;o governamentais que ali querem construir um viaduto.  Esta s&#225;tira pioneira, combina um humor exc&#234;ntrico com uma cr&#237;tica mordaz &#224; burocracia e ao &#34;progresso&#34; do p&#243;s-guerra.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-06-17",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
   "cinemas": [
@@ -2637,28 +2544,8 @@
       "chain_url": "https://www.cinemas.nos.pt/"
     },
     {
-      "id": 17536,
-      "name": "Cinemateca Portuguesa",
-      "chain": "Independent",
-      "region": "Lisboa",
-      "location": "Lisboa",
-      "lat": 38.71,
-      "lng": -9.152,
-      "chain_url": ""
-    },
-    {
       "id": 415487,
       "name": "Igreja da Graça",
-      "chain": "Other",
-      "region": "Lisboa",
-      "location": "Lisboa",
-      "lat": null,
-      "lng": null,
-      "chain_url": ""
-    },
-    {
-      "id": 415491,
-      "name": "Palácio do Grilo",
       "chain": "Other",
       "region": "Lisboa",
       "location": "Lisboa",
