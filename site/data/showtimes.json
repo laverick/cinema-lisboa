@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T08:12:35.986061Z",
+  "last_updated": "2026-06-17T09:54:24.014881Z",
   "scrape_date": "2026-06-17",
   "movies": [
     {
@@ -802,6 +802,50 @@
               "times": [
                 {
                   "time": "20h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 208257,
+      "title": "Mamma Mia!",
+      "original_title": "Mamma Mia!",
+      "url": "/filme/mamma-mia-208257",
+      "genre": null,
+      "duration_min": 108,
+      "age_rating": "M/6",
+      "director": null,
+      "year": 2008,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Greek"
+      ],
+      "ratings": {
+        "imdb": "6.5",
+        "rt_critic": "55%",
+        "metacritic": "51",
+        "imdb_id": "tt0795421"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTA2MDU0MjM0MzReQTJeQWpwZ15BbWU3MDYwNzgwNzE@._V1_SX300.jpg",
+      "plot_en": "Independent hotelier Donna is preparing for her daughter's wedding with the help of two old friends. Meanwhile, spirited bride-to-be Sophie invites three men from her mother's past in order to discern which is her biological father.",
+      "plot_pt": "Donna (Meryl Streep) &#233; uma m&#227;e solteira e independente que gere um pequeno e id&#237;lico hotel numa ilha grega.  A filha Sophie (Amanda Seyfreid) vai casar e para o casamento Donna convida as suas melhores amigas.  Mas Sophie, que secretamente sonha encontrar o pai, faz tamb&#233;m tr&#234;s convites inesperados.",
+      "showtimes": [
+        {
+          "cinema_id": 415519,
+          "sessions": [
+            {
+              "date": "2026-06-17",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -2546,6 +2590,16 @@
     {
       "id": 415487,
       "name": "Igreja da Graça",
+      "chain": "Other",
+      "region": "Lisboa",
+      "location": "Lisboa",
+      "lat": null,
+      "lng": null,
+      "chain_url": ""
+    },
+    {
+      "id": 415519,
+      "name": "Príncipe Real Terrace",
       "chain": "Other",
       "region": "Lisboa",
       "location": "Lisboa",
