@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T23:39:48.618437Z",
+  "last_updated": "2026-06-29T01:25:19.595071Z",
   "scrape_date": "2026-06-29",
   "movies": [
     {
@@ -23,8 +23,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "18h45",
@@ -44,7 +44,7 @@
       "original_title": "18 Buracos Para o Paraíso",
       "url": "/filme/18-buracos-paraiso-415302",
       "genre": null,
-      "duration_min": null,
+      "duration_min": 843,
       "age_rating": "M/14",
       "director": null,
       "year": 2025,
@@ -96,24 +96,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "14h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -136,7 +118,7 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -172,8 +154,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h00",
@@ -204,23 +186,6 @@
       "plot_en": null,
       "plot_pt": "Inglaterra, s&#233;culo XIII.  Longe da figura her&#243;ica do fora-da-lei que roubava aos ricos para dar aos pobres, celebrizada pelos contos populares, Robin Hood (Hugh Jackman) &#233; um homem envelhecido e atormentado, marcado por uma vida de combates, assassinatos e escolhas dif&#237;ceis.",
       "showtimes": [
-        {
-          "cinema_id": 187898,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "12h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
         {
           "cinema_id": 54418,
           "sessions": [
@@ -262,24 +227,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -327,130 +274,10 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
                   "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 165507,
-      "title": "A Oitava Mulher do Barba Azul",
-      "original_title": "Bluebeard's Eighth Wife",
-      "url": "/filme/a-oitava-mulher-do-barba-azul-165507",
-      "genre": null,
-      "duration_min": 80,
-      "age_rating": null,
-      "director": null,
-      "year": 1938,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
-      "plot_pt": "Com argumento de Billy Wilder e Charles Brackett, esta é uma das melhores e mais populares comédias de Lubitsch, com Gary Cooper na figura de um milionário americano, frustrado nas suas obsessões sexuais.  O objecto delas é uma jovem aristocrata falida (Colbert), com alguns gags de antologia, como a compra do pijama ao começo.",
-      "showtimes": [
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "20h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415053,
-      "title": "A Providência e a Guitarra",
-      "original_title": "A Providência e a Guitarra",
-      "url": "/filme/as-correntes-415053",
-      "genre": null,
-      "duration_min": null,
-      "age_rating": "M/12",
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822716?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Acompanhamos as aventuras de Elvira e L&#233;on Berthelini, um casal de artistas ambulantes que vive na pequena aldeia de Covarronca, no s&#233;culo XIX.  Uma maldi&#231;&#227;o leva-os at&#233; a uma Lisboa da actualidade, onde se cruzam com os Desgra&#231;a, uma banda de metal em crise que acaba de lan&#231;ar o &#225;lbum H&#237;bridos Ag&#243;nicos.",
-      "showtimes": [
-        {
-          "cinema_id": 270072,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 20938,
-      "title": "Anjos Caídos",
-      "original_title": "Fallen Angels",
-      "url": "/filme/anjos-caidos-20938",
-      "genre": null,
-      "duration_min": 95,
-      "age_rating": "M/16",
-      "director": null,
-      "year": 1995,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/755769?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Depois do sucesso de &#34;Chungking Express&#34;, Wong Kar Wai apresentou &#34;Anjos Ca&#237;dos&#34; como uma esp&#233;cie de continua&#231;&#227;o desse filme.  No mesmo ambiente da sua obra anterior, &#34;Anjos Ca&#237;dos&#34; cruza as hist&#243;rias de um assassino profissional e de um rapaz solit&#225;rio em busca da mulher dos seus sonhos.",
-      "showtimes": [
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -519,24 +346,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -584,18 +393,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "19h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -616,7 +413,7 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "16h30",
+                  "time": "19h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -628,18 +425,6 @@
               "day_label": "Amanhã",
               "times": [
                 {
-                  "time": "19h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
                   "time": "21h30",
                   "dubbed": false,
                   "tech_format": null,
@@ -648,7 +433,7 @@
               ]
             },
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -684,7 +469,7 @@
           "cinema_id": 414017,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -745,18 +530,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -826,24 +599,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -865,36 +620,12 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                },
-                {
-                  "time": "23h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             },
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "13h10",
@@ -953,24 +684,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "16h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -1012,18 +725,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -1077,24 +778,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -1133,52 +816,12 @@
       "plot_pt": "&lt;p&gt;Hans, um texugo muito mal-intencionado, concretiza um plano maquiav&#233;lico: fazer desembarcar todos os passageiros humanos de um comboio de alta velocidade e partir apenas com os animais que l&#225; se encontram.  Mas, felizmente para as suas v&#237;timas, entre eles est&#225; o Falc&#227;o, um guaxinim inteligente e destemido.",
       "showtimes": [
         {
-          "cinema_id": 187898,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 221112,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 169327,
           "sessions": [
             {
               "date": "2026-06-29",
               "day_label": "Hoje",
               "times": [
-                {
-                  "time": "11h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
                 {
                   "time": "17h30",
                   "dubbed": true,
@@ -1190,18 +833,6 @@
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "17h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "17h30",
@@ -1239,18 +870,6 @@
                   "inferred_vo": false
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
             }
           ]
         },
@@ -1261,12 +880,6 @@
               "date": "2026-06-29",
               "day_label": "Hoje",
               "times": [
-                {
-                  "time": "10h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
                 {
                   "time": "13h40",
                   "dubbed": true,
@@ -1301,24 +914,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -1332,42 +927,6 @@
                   "dubbed": true,
                   "tech_format": null,
                   "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30383,
-      "title": "Boneca de Luxo",
-      "original_title": "Breakfast at Tiffany's",
-      "url": "/filme/boneca-de-luxo-30383",
-      "genre": null,
-      "duration_min": 111,
-      "age_rating": null,
-      "director": null,
-      "year": 1961,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/346621?tp=KM",
-      "plot_en": null,
-      "plot_pt": "&quot;Boneca de Luxo&quot; &#233; uma com&#233;dia adaptada de um &quot;best-seller&quot; de Truman Capote.  Audrey Hepburn &#233; Holly Golightly, uma mulher sedutora que mant&#233;m o seu apartamento em Manhattan, prestando favores a homens.  Apesar de n&#227;o ser claro que tipo de favores s&#227;o, fica impl&#237;cito que Holly trabalha como acompanhante.",
-      "showtimes": [
-        {
-          "cinema_id": 415519,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             }
@@ -1400,7 +959,7 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "16h00",
+                  "time": "18h45",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -1418,24 +977,6 @@
               "day_label": "Amanhã",
               "times": [
                 {
-                  "time": "18h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
                   "time": "16h30",
                   "dubbed": false,
                   "tech_format": null,
@@ -1450,7 +991,7 @@
               ]
             },
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -1477,12 +1018,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "16h55",
                   "dubbed": false,
                   "tech_format": null,
@@ -1516,24 +1051,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "16h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -1581,58 +1098,10 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
                   "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 379541,
-      "title": "Chama-me pelo Teu Nome",
-      "original_title": "Call Me by Your Name",
-      "url": "/filme/chama-me-pelo-teu-nome-379541",
-      "genre": null,
-      "duration_min": 132,
-      "age_rating": null,
-      "director": null,
-      "year": 2017,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/609662?tp=KM",
-      "plot_en": null,
-      "plot_pt": "&lt;div&gt;Ver&#227;o de 1983.  Elio, de 17 anos, vive com a fam&#237;lia em It&#225;lia, numa bela mans&#227;o do s&#233;culo XVII.  O pai, um professor de arqueologia de renome, convida Oliver, um norte-americano de 24 anos, a passar alguns meses em sua casa, para o ajudar num projecto.",
-      "showtimes": [
-        {
-          "cinema_id": 415661,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -1689,18 +1158,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -1717,7 +1174,7 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -1753,7 +1210,7 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -1786,23 +1243,6 @@
       "plot_pt": "Na Uni&#227;o Sovi&#233;tica de 1937, durante as terr&#237;veis purgas estalinistas, Alexander Kornev, um jovem procurador, recebe uma carta de um prisioneiro pol&#237;tico perseguido pela NKVD (Comissariado do Povo para os Assuntos Internos), a pol&#237;cia secreta.",
       "showtimes": [
         {
-          "cinema_id": 270072,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 54418,
           "sessions": [
             {
@@ -1817,65 +1257,6 @@
                 },
                 {
                   "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17714,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "18h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "18h45",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -1913,7 +1294,7 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "day_label": "QUARTA",
               "times": [
                 {
                   "time": "21h40",
@@ -1922,13 +1303,30 @@
                   "inferred_vo": true
                 }
               ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17714,
+          "sessions": [
+            {
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "18h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
             },
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
-                  "time": "21h40",
+                  "time": "18h45",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -1985,18 +1383,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "14h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -2013,8 +1399,8 @@
           "cinema_id": 270072,
           "sessions": [
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h00",
@@ -2025,47 +1411,11 @@
               ]
             },
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
                   "time": "19h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 21199,
-      "title": "Estrada Perdida",
-      "original_title": "Lost Highway",
-      "url": "/filme/estrada-perdida-21199",
-      "genre": null,
-      "duration_min": 135,
-      "age_rating": "M/18",
-      "director": null,
-      "year": 1997,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/807784?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Em &quot;Estrada Perdida&quot; o realizador David Lynch volta &#224; sua obsess&#227;o pelo cinema experimental, com argumentos bizarros e inquietantes.  Bill Pullman interpreta um m&#250;sico de jazz que suspeita da infidelidade da sua mulher (Patricia Arquette).",
-      "showtimes": [
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -2097,8 +1447,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h30",
@@ -2130,23 +1480,6 @@
       "plot_pt": "&lt;p&gt;Durante uma vindima, Soraia, uma jovem trabalhadora do &lt;a href=&quot;https://www. publico. pt/alentejo&quot; target=&quot;_self&quot;&gt;Alentejo&lt;/a&gt;, fere a m&#227;o.  As gotas do seu sangue misturam-se com o vinho e, a partir da&#237;, come&#231;a a ser perseguida por um touro.",
       "showtimes": [
         {
-          "cinema_id": 17714,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "12h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 221112,
           "sessions": [
             {
@@ -2175,18 +1508,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -2247,18 +1568,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -2331,24 +1640,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -2396,18 +1687,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "20h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -2443,8 +1722,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h00",
@@ -2504,18 +1783,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "19h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -2547,6 +1814,23 @@
       "plot_en": null,
       "plot_pt": "In&#237;cio do s&#233;culo XVI.  Ap&#243;s ver recusado pelo rei D.  Manuel I (1469-1521), o navegador portugu&#234;s Fern&#227;o de Magalh&#227;es (1480-1521) convence a Coroa espanhola a financiar uma expedi&#231;&#227;o ambiciosa.  O objectivo &#233; encontrar uma rota mar&#237;tima para as ilhas das especiarias (Molucas) navegando para ocidente e evitando as rotas controladas por Portugal ao abrigo do Tratado de Tordesilhas.",
       "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-06-29",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "20h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
         {
           "cinema_id": 54418,
           "sessions": [
@@ -2588,45 +1872,10 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
                   "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "20h45",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -2658,8 +1907,8 @@
           "cinema_id": 415491,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h15",
@@ -2716,18 +1965,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -2768,18 +2005,6 @@
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "21h45",
@@ -2829,24 +2054,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -2868,18 +2075,6 @@
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "14h05",
@@ -2921,29 +2116,11 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                },
-                {
-                  "time": "18h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "16h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -3003,24 +2180,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "16h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -3062,7 +2221,7 @@
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -3097,7 +2256,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -3132,7 +2291,7 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -3167,7 +2326,7 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -3202,48 +2361,12 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
                   "time": "13h20",
                   "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415535,
-      "title": "Mumbo Jumbo",
-      "original_title": "Da Mumbo Jumbo blev kæmpestor",
-      "url": "/filme/mumbo-jumbo-415535",
-      "genre": null,
-      "duration_min": 83,
-      "age_rating": "M/6",
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822940?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Mumbo Jumbo &#233; um hipop&#243;tamo que, por acidente, se torna gigante.  &#201; algo que lhe piora a vida.  Com a ajuda de amigos, parte em busca de Baba Yaga, uma bruxa que &#233; pouco fi&#225;vel, para poder transform&#225;-lo de volta ao tamanho normal.",
-      "showtimes": [
-        {
-          "cinema_id": 221112,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h25",
-                  "dubbed": true,
                   "tech_format": null,
                   "inferred_vo": false
                 }
@@ -3274,8 +2397,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h30",
@@ -3314,7 +2437,7 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "22h00",
+                  "time": "15h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -3326,7 +2449,24 @@
               "day_label": "Amanhã",
               "times": [
                 {
-                  "time": "15h00",
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 270072,
+          "sessions": [
+            {
+              "date": "2026-06-29",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "14h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -3334,11 +2474,11 @@
               ]
             },
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
-                  "time": "17h00",
+                  "time": "19h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -3376,87 +2516,10 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "19h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
                   "time": "19h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 270072,
-          "sessions": [
-            {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "19h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 26361,
-      "title": "O Anjo",
-      "original_title": "Angel",
-      "url": "/filme/o-anjo-26361",
-      "genre": null,
-      "duration_min": 91,
-      "age_rating": null,
-      "director": null,
-      "year": 1937,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
-      "plot_pt": "&lt;p align=&quot;left&quot;&gt;Nos filmes de Lubitsch tudo gira &#224; volta de dois temas: o sexo e o dinheiro.  Mas, sendo Lubitsch o mestre absoluto da com&#233;dia sofisticada, as coisas mais duras e as rela&#231;&#245;es mais venais s&#227;o ditas e vividas com a m&#225;xima eleg&#226;ncia e humor.",
-      "showtimes": [
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -3546,36 +2609,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -3609,30 +2642,6 @@
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "13h30",
@@ -3706,30 +2715,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -3757,42 +2742,12 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                },
-                {
-                  "time": "23h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             },
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "15h25",
@@ -3869,30 +2824,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -3924,12 +2855,6 @@
               "date": "2026-06-29",
               "day_label": "Hoje",
               "times": [
-                {
-                  "time": "11h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
                 {
                   "time": "14h20",
                   "dubbed": false,
@@ -3988,36 +2913,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "14h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -4056,12 +2951,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "15h40",
                   "dubbed": false,
                   "tech_format": null,
@@ -4107,30 +2996,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -4163,12 +3028,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "15h45",
                   "dubbed": false,
                   "tech_format": null,
@@ -4214,30 +3073,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -4303,24 +3138,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -4392,30 +3209,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "14h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -4444,8 +3237,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h00",
@@ -4538,36 +3331,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "12h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -4597,12 +3360,6 @@
               "day_label": "Amanhã",
               "times": [
                 {
-                  "time": "16h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "21h20",
                   "dubbed": false,
                   "tech_format": null,
@@ -4612,18 +3369,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -4665,18 +3410,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "22h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -4718,18 +3451,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "17h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -4765,8 +3486,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h00",
@@ -4801,8 +3522,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h00",
@@ -4837,7 +3558,7 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -4910,24 +3631,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -4969,18 +3672,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -5016,7 +3707,7 @@
           "cinema_id": 415491,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -5074,18 +3765,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "21h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -5127,12 +3806,6 @@
                   "inferred_vo": true
                 },
                 {
-                  "time": "19h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "21h45",
                   "dubbed": false,
                   "tech_format": null,
@@ -5142,24 +3815,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "16h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -5225,24 +3880,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "19h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -5302,24 +3939,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "16h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -5361,8 +3980,8 @@
           "cinema_id": 415519,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h00",
@@ -5397,8 +4016,8 @@
           "cinema_id": 85237,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h30",
@@ -5430,23 +4049,6 @@
       "plot_pt": "Inspirado em acontecimentos reais, o filme acompanha os &#250;ltimos dois anos de vida de Ant&#243;nio de Oliveira Salazar (1889-1970), interpretado por Jorge Mota.  A ac&#231;&#227;o decorre entre 1968 e 1970, desde o regresso do ditador ao Palacete de S&#227;o Bento, ap&#243;s o AVC sofrido na sequ&#234;ncia de uma queda, at&#233; &#224; sua morte.",
       "showtimes": [
         {
-          "cinema_id": 17714,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 221112,
           "sessions": [
             {
@@ -5475,18 +4077,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -5522,8 +4112,8 @@
           "cinema_id": 415491,
           "sessions": [
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h15",
@@ -5607,30 +4197,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -5662,12 +4228,6 @@
               "date": "2026-06-29",
               "day_label": "Hoje",
               "times": [
-                {
-                  "time": "11h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
                 {
                   "time": "14h20",
                   "dubbed": false,
@@ -5726,36 +4286,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "14h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -5834,18 +4364,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -5903,18 +4421,6 @@
                   "inferred_vo": false
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "10h55",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
             }
           ]
         }
@@ -5938,23 +4444,6 @@
       "plot_pt": "Depois de salvarem o Reino dos Cogumelos, onde agora residem,&#160;Mario&#160;e&#160;Luigi&#160;&#8212; os simp&#225;ticos canalizadores de Brooklyn de ascend&#234;ncia italiana &#8212; v&#234;em-se a bra&#231;os com uma luta intergal&#225;ctica.  Acompanhados pelo dinossauro&#160;Yoshi, pela destemida princesa&#160;Peach&#160;e pelo ador&#225;vel cogumelo&#160;Toad, enfrentam o extraterrestre&#160;Bowser&#160;Jr.",
       "showtimes": [
         {
-          "cinema_id": 187898,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 285110,
           "sessions": [
             {
@@ -5972,18 +4461,6 @@
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "11h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "11h20",
@@ -6088,42 +4565,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "12h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h10",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -6187,60 +4628,6 @@
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "12h50",
@@ -6356,36 +4743,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h45",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -6451,36 +4808,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -6520,54 +4847,12 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                },
-                {
-                  "time": "23h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             },
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "14h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "12h15",
@@ -6704,54 +4989,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "13h10",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -6771,12 +5008,6 @@
               "date": "2026-06-29",
               "day_label": "Hoje",
               "times": [
-                {
-                  "time": "11h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
                 {
                   "time": "13h55",
                   "dubbed": false,
@@ -6835,36 +5066,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -6903,12 +5104,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "15h25",
                   "dubbed": false,
                   "tech_format": null,
@@ -6954,30 +5149,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -7010,12 +5181,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "15h55",
                   "dubbed": false,
                   "tech_format": null,
@@ -7073,36 +5238,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -7246,60 +5381,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "13h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -7381,12 +5462,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "13h40",
                   "dubbed": true,
                   "tech_format": null,
@@ -7403,24 +5478,6 @@
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "13h40",
@@ -7452,12 +5509,6 @@
                   "inferred_vo": false
                 },
                 {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "13h30",
                   "dubbed": true,
                   "tech_format": null,
@@ -7480,36 +5531,6 @@
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "20h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h25",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "20h50",
@@ -7575,54 +5596,12 @@
                   "dubbed": true,
                   "tech_format": null,
                   "inferred_vo": false
-                },
-                {
-                  "time": "23h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
                 }
               ]
             },
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "11h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h05",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "11h10",
@@ -7666,12 +5645,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "10h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "13h20",
                   "dubbed": true,
                   "tech_format": null,
@@ -7717,30 +5690,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -7773,12 +5722,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "10h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "13h10",
                   "dubbed": true,
                   "tech_format": null,
@@ -7848,42 +5791,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "23h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -7910,12 +5817,6 @@
                   "inferred_vo": false
                 },
                 {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "12h30",
                   "dubbed": true,
                   "tech_format": null,
@@ -7967,36 +5868,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "12h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "17h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -8035,12 +5906,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "10h45",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "21h30",
                   "dubbed": false,
                   "tech_format": "ATMOS",
@@ -8098,36 +5963,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h15",
-                  "dubbed": true,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h45",
-                  "dubbed": true,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -8172,12 +6007,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "13h35",
                   "dubbed": true,
                   "tech_format": null,
@@ -8235,36 +6064,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h05",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -8303,18 +6102,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "15h30",
                   "dubbed": true,
                   "tech_format": null,
@@ -8396,48 +6183,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "17h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "19h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -8476,18 +6221,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "15h30",
                   "dubbed": true,
                   "tech_format": null,
@@ -8557,42 +6290,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "17h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -8631,12 +6328,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "15h20",
                   "dubbed": true,
                   "tech_format": null,
@@ -8670,24 +6361,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "17h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -8708,12 +6381,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
                   "time": "13h25",
                   "dubbed": true,
                   "tech_format": null,
@@ -8795,48 +6462,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h25",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h25",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -8906,18 +6531,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
-              "times": [
-                {
                   "time": "17h00",
                   "dubbed": false,
                   "tech_format": null,
@@ -8956,18 +6569,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -9003,8 +6604,8 @@
           "cinema_id": 17714,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "16h30",
@@ -9039,7 +6640,7 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-02",
+              "date": "2026-07-01",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -9075,8 +6676,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "17h00",
@@ -9137,48 +6738,12 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                },
-                {
-                  "time": "23h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             },
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "14h55",
@@ -9273,36 +6838,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -9341,12 +6876,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "13h45",
                   "dubbed": false,
                   "tech_format": null,
@@ -9404,36 +6933,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -9472,12 +6971,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "13h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "15h50",
                   "dubbed": false,
                   "tech_format": null,
@@ -9523,30 +7016,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -9624,30 +7093,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -9713,24 +7158,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -9814,36 +7241,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -9911,36 +7308,12 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                },
-                {
-                  "time": "23h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             },
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "19h05",
@@ -9966,12 +7339,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "11h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "16h25",
                   "dubbed": false,
                   "tech_format": null,
@@ -10005,24 +7372,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "16h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -10082,24 +7431,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "22h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -10125,12 +7456,6 @@
               "date": "2026-06-29",
               "day_label": "Hoje",
               "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
                 {
                   "time": "15h25",
                   "dubbed": false,
@@ -10189,36 +7514,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -10241,42 +7536,6 @@
                 },
                 {
                   "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415684,
-      "title": "Onda Nova",
-      "original_title": "Onda Nova",
-      "url": "/filme/onda-nova-415684",
-      "genre": null,
-      "duration_min": 102,
-      "age_rating": null,
-      "director": null,
-      "year": 1983,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823415?tp=KM",
-      "plot_en": null,
-      "plot_pt": null,
-      "showtimes": [
-        {
-          "cinema_id": 270072,
-          "sessions": [
-            {
-              "date": "2026-06-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -10357,30 +7616,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -10446,24 +7681,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -10483,12 +7700,6 @@
               "date": "2026-06-29",
               "day_label": "Hoje",
               "times": [
-                {
-                  "time": "11h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
                 {
                   "time": "15h25",
                   "dubbed": false,
@@ -10523,24 +7734,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -10588,18 +7781,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -10635,8 +7816,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "19h00",
@@ -10671,8 +7852,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h30",
@@ -10707,8 +7888,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "19h30",
@@ -10743,8 +7924,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-06-30",
-              "day_label": "Amanhã",
+              "date": "2026-06-29",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h30",
@@ -10779,8 +7960,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h00",
@@ -10815,8 +7996,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
+              "date": "2026-06-30",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h30",
@@ -10883,54 +8064,12 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                },
-                {
-                  "time": "00h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             },
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "13h15",
@@ -10996,29 +8135,11 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "14h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -11045,12 +8166,6 @@
               "day_label": "Hoje",
               "times": [
                 {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
                   "time": "15h40",
                   "dubbed": false,
                   "tech_format": null,
@@ -11072,18 +8187,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -11137,24 +8240,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "19h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -11221,18 +8306,6 @@
             },
             {
               "date": "2026-07-01",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
               "day_label": "QUARTA",
               "times": [
                 {
@@ -11282,18 +8355,6 @@
             {
               "date": "2026-06-30",
               "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "10h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-01",
-              "day_label": "TERÇA",
               "times": [
                 {
                   "time": "10h50",
