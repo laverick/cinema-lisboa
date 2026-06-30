@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T03:25:26.213665Z",
+  "last_updated": "2026-06-30T05:39:59.470986Z",
   "scrape_date": "2026-06-30",
   "movies": [
     {
@@ -89,11 +89,18 @@
       "age_rating": null,
       "director": null,
       "year": 1948,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "5.8",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0040869"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjFiYTgzYmYtZWE0MS00MGZlLWFlYzEtNGU4MWE3ZGJiOTBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "That Lady in Ermine tells two parallel stories, both taking place in the small Mittel-European duchy of Bergamo, with one set in the 19th century and the other in the 16th.",
       "plot_pt": "Lubitsch morreu antes de completar este filme (o segundo que faria a cores) e Otto Preminger levou o trabalho a termo.  Muito mais próximo de Heaven can Wait do que das comédias sofisticadas que Lubitsch fizera nos anos 30, That Lady in Ermine é uma extravagância, com pessoas que alçam voo, um personagem que sai de um quadro para dar conselhos à neta e diversas canções, pois trata-se da adaptação de uma opereta.",
       "showtimes": [
         {
@@ -116,6 +123,49 @@
       ]
     },
     {
+      "id": 379769,
+      "title": "A Marca do Renegado",
+      "original_title": "The Mark of the Renegade",
+      "url": "/filme/a-marca-do-renegado-379769",
+      "genre": null,
+      "duration_min": 81,
+      "age_rating": null,
+      "director": null,
+      "year": 1951,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "5.9",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0043787"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZDAwMGQ4NDYtMmM5Ni00NmMwLWE0M2YtMDk3YWZmMTc0MjI4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+      "plot_en": "Set in 19th century California Marcos Zappa goes undercover as a pirate to expose the crooked Don Pedro Garcia.",
+      "plot_pt": "Outro filme de Hugo Fregonese que abre o apetite para se conhecer mais da obra deste emigrante argentino.  THE MARK OF THE RENEGADE &#233; um soberbo cruzamento do western e do filme de aventuras de piratas, ambientado na Los Angeles &#8220;latina&#8221; do princ&#237;pio do s&#233;culo XIX, quando a Calif&#243;rnia estava ainda sob dom&#237;nio mexicano.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-07-01",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "15h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415540,
       "title": "A Morte de Robin Hood",
       "original_title": "The Death of Robin Hood",
@@ -125,11 +175,18 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823146?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.4",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt32273171"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
       "plot_pt": "Inglaterra, s&#233;culo XIII.  Longe da figura her&#243;ica do fora-da-lei que roubava aos ricos para dar aos pobres, celebrizada pelos contos populares, Robin Hood (Hugh Jackman) &#233; um homem envelhecido e atormentado, marcado por uma vida de combates, assassinatos e escolhas dif&#237;ceis.",
       "showtimes": [
         {
@@ -194,6 +251,49 @@
               "times": [
                 {
                   "time": "14h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 415236,
+      "title": "American Dream",
+      "original_title": "American Dream",
+      "url": "/filme/morte-robin-hood-415236",
+      "genre": null,
+      "duration_min": 100,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1990,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.8",
+        "rt_critic": "100%",
+        "metacritic": null,
+        "imdb_id": "tt0099028"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDA0OTliZGEtZGUxMy00ZWVhLWJmZDYtOTg0OTRlYTNlMjVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Recounts the 1985-86 strike against the Hormel Foods Corporation in Minnesota after its employees' wages and benefits were cut.",
+      "plot_pt": "Vencedor do Oscar de Melhor Document&#225;rio em 1991, &#34;American Dream&#34; acompanha a greve dos trabalhadores da f&#225;brica de processamento de carne Hormel Foods, grande empregadora de Austin, que se prolongou entre Agosto de 1985 e Setembro de 1986.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-07-01",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "19h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -332,11 +432,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 1987,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.6",
+        "rt_critic": "82%",
+        "metacritic": "68",
+        "imdb_id": "tt0093409"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWVlNWZlODktMzhhNS00YThhLWEzZWYtYzU0NDFmNzk0MGVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.",
       "plot_pt": null,
       "showtimes": [
         {
@@ -416,11 +523,19 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822757?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Portuguese"
+      ],
+      "ratings": {
+        "imdb": "7.1",
+        "rt_critic": null,
+        "metacritic": "77",
+        "imdb_id": "tt26657236"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "After a therapist's patient disappears into a dimension beyond reality, she must venture into the unknown to save him.",
       "plot_pt": "Partindo do universo das &#34;creepypastas&#34; &#8212; hist&#243;rias curtas de terror que circulam e se propagam pela internet &#8212; e de uma lenda urbana surgida em 2019, o filme explora as backrooms, uma suposta dimens&#227;o paralela onde algumas pessoas acabam inexplicavelmente aprisionadas.",
       "showtimes": [
         {
@@ -911,11 +1026,20 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822930?tp=KM",
-      "plot_en": null,
+      "original_language": "Russian",
+      "original_languages": [
+        "Russian",
+        "Ukrainian",
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.1",
+        "rt_critic": "97%",
+        "metacritic": "84",
+        "imdb_id": "tt35521200"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWUxNWEzNzYtNzc3Ny00NGJkLThmMDYtNmRmODAwMDNlYjBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "In the USSR in 1937, a newly appointed prosecutor discovers an undestroyed letter from a prisoner that reveals corruption in the secret police, the NKVD. His search for the truth becomes dangerous.",
       "plot_pt": "Na Uni&#227;o Sovi&#233;tica de 1937, durante as terr&#237;veis purgas estalinistas, Alexander Kornev, um jovem procurador, recebe uma carta de um prisioneiro pol&#237;tico perseguido pela NKVD (Comissariado do Povo para os Assuntos Internos), a pol&#237;cia secreta.",
       "showtimes": [
         {
@@ -1113,11 +1237,18 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823149?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.3",
+        "rt_critic": null,
+        "metacritic": "76",
+        "imdb_id": "tt35672862"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
       "plot_pt": "Ohm Bauman, um escritor de terror de grande sucesso, viaja at&#233; uma remota localidade do interior da Irlanda para espalhar as cinzas dos pais no hotel onde estes passaram a lua-de-mel.  &#192; medida que os dias passam e ele se envolve com habitantes locais, v&#225;rios acontecimentos come&#231;am a perturbar a sua estadia.",
       "showtimes": [
         {
@@ -1141,6 +1272,49 @@
               "times": [
                 {
                   "time": "21h50",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 220762,
+      "title": "Jack, o Estripador",
+      "original_title": "The Lodger",
+      "url": "/filme/jack-o-estripador-220762",
+      "genre": null,
+      "duration_min": 84,
+      "age_rating": null,
+      "director": null,
+      "year": 1944,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.0",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0037024"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGEzNDE2MTgtNGM0Ny00MmU4LWI4OGYtOTMzNmQ1MmNjNzJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A landlady suspects that her new lodger is Jack the Ripper.",
+      "plot_pt": "Situado em Londres, na era vitoriana, \"The Lodger\" tem um ambiente semelhante ao de \"Hangover Square\", do mesmo Brahm, que também conta com um notável desempenho de Laird Cregar.  Em \"The Lodger\", que adapta um romance que já havia sido filmado por Hitchcock em 1926, um casal aluga um quarto e um sótão a um estranho.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-07-01",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "21h45",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -1250,11 +1424,18 @@
       "age_rating": null,
       "director": null,
       "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823143?tp=KM",
-      "plot_en": null,
+      "original_language": "Slovenian",
+      "original_languages": [
+        "Slovenian"
+      ],
+      "ratings": {
+        "imdb": "6.6",
+        "rt_critic": "98%",
+        "metacritic": "81",
+        "imdb_id": "tt28834646"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWFhOTQ2ZjEtZDQ5OS00MGVhLWEyMDctNjA1MjdmNzE0MDM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "16-year-old Lucia joins Catholic school choir, befriends senior Ana-Maria. During choir retreat at convent, Lucia's attraction to a restoration worker creates tension with Ana-Maria and challenges her faith.",
       "plot_pt": "Lucija, de 16 anos, junta-se ao coro feminino da escola cat&#243;lica onde estuda.  Apesar da sua personalidade introvertida e solit&#225;ria, acaba por desenvolver uma liga&#231;&#227;o pr&#243;xima com Ana-Marija, uma colega um pouco mais velha e muito popular.",
       "showtimes": [
         {
@@ -1352,11 +1533,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822555?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.9",
+        "rt_critic": null,
+        "metacritic": "52",
+        "imdb_id": "tt0427340"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "A young man on Earth discovers a fabulous secret legacy as the prince of an alien planet, and must recover a magic sword and return home to protect his kingdom.",
       "plot_pt": "Em crian&#231;a, o pr&#237;ncipe Adam (Nicholas Galitzine) deixou Eternia e foi enviado para a Terra para que pudesse crescer longe dos perigos.  Quando, j&#225; adulto, percebe que o seu planeta est&#225; ainda dominado pelo terr&#237;vel Skeletor (Jared Leto) e o seu ex&#233;rcito de sombras, tem de recuperar a espada m&#237;tica que lhe d&#225; poderes e assumir a identidade de He-Man, &#250;ltimo defensor de Castelo de Grayskull, para que a paz possa regressar ao reino dos seus ancestrais.",
       "showtimes": [
         {
@@ -1388,11 +1576,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822189?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.7",
+        "rt_critic": "38%",
+        "metacritic": "39",
+        "imdb_id": "tt11378946"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
       "plot_pt": "Com&#160;Jaafar&#160;Jackson, sobrinho de&#160;Michael&#160;Jackson&#8203;,&#160;a dar vida ao protagonista, o filme acompanha o percurso art&#237;stico e pessoal do artista, atravessando o contexto familiar que o fez entrar na ind&#250;stria musical com apenas cinco anos de idade, a ascens&#227;o mete&#243;rica ao lado dos&#160;The&#160;Jackson 5&#160;e o seu esfor&#231;o de continuar numa carreira a solo, sempre marcada por um excesso de exposi&#231;&#227;o medi&#225;tica.",
       "showtimes": [
         {
@@ -2310,11 +2505,20 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822530?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Italian",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "6.6",
+        "rt_critic": null,
+        "metacritic": "63",
+        "imdb_id": "tt33612209"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Andy Sachs reunites with Miranda Priestly as they navigate their careers amid the decline of traditional magazine publishing.",
       "plot_pt": "Agora com provas dadas e um percurso pr&#243;prio,&#160;Andrea&#160;Sachs&#160;volta a cruzar-se com Miranda&#160;Priestly, a ic&#243;nica editora da revista &#34;Runway&#34;, cujo prest&#237;gio permanece intacto num meio onde a apar&#234;ncia dita regras e o poder raramente se v&#234; questionado.",
       "showtimes": [
         {
@@ -2451,11 +2655,18 @@
       "age_rating": null,
       "director": null,
       "year": 1971,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.4",
+        "rt_critic": "75%",
+        "metacritic": "61",
+        "imdb_id": "tt0066767"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODYyNzdhYjgtMjIxNS00YzIwLTg1ZjYtMjMxNzU1YjNkMDk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "After ten years in prison to protect a mafia family, Duke Anderson is released and he cashes in a debt of honor with the mob to bankroll a caper.",
       "plot_pt": null,
       "showtimes": [
         {
@@ -2523,11 +2734,20 @@
       "age_rating": null,
       "director": null,
       "year": 1946,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Latin",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "7.4",
+        "rt_critic": "94%",
+        "metacritic": null,
+        "imdb_id": "tt0038419"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmM4YjVlNTItNzY3NC00MDI1LThhNjAtZTVkNmJiNzI4MzZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A free-spirited parlor maid and a Czech refugee surprise an English village with their unconventional ways.",
       "plot_pt": "&lt;p align=&quot;left&quot;&gt;O &#250;ltimo filme de Ernst Lubitsch (o realizador morreu durante a rodagem do seguinte, That Lady in Ermine, que foi completado por Otto Preminger) &#233; uma obra corrosiva sobre uma jovem canalizadora que, por via da profiss&#227;o, conhece um escritor polaco por quem se apaixona.",
       "showtimes": [
         {
@@ -2642,11 +2862,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2006,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/751664?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "8.5",
+        "rt_critic": "77%",
+        "metacritic": "66",
+        "imdb_id": "tt0482571"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM3MzQ5MjQ5OF5BMl5BanBnXkFtZTcwMTQ3NzMzMw@@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "plot_en": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. As they devote themselves to this rivalry, they make sacrifices that bring them fame but, with terrible consequences.",
       "plot_pt": "Durante a &#233;poca vitoriana, em Londres, dois m&#225;gicos desenvolvem uma terr&#237;vel rivalidade, que se alimenta de truques e de uma vontade insaci&#225;vel de desvendar os segredos um do outro.  Robert &#233; sofisticado e tem o dom do espect&#225;culo, enquanto que Alfred Borden, apesar de ser genial na cria&#231;&#227;o, n&#227;o tem os mesmos dotes da apresenta&#231;&#227;o dos truques.",
       "showtimes": [
         {
@@ -3112,11 +3339,18 @@
       "age_rating": "M/6",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/821728?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.4",
+        "rt_critic": "94%",
+        "metacritic": "73",
+        "imdb_id": "tt26443616"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzRiMzZlMTMtNmU3OC00MDUwLThmNDUtMTBjZmQ3MWQ4NTljXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "A 19-year-old animal lover uses technology that places her consciousness into a robotic beaver to uncover mysteries within the animal world beyond her imagination.",
       "plot_pt": "O 30. &#186; filme da Pixar, o est&#250;dio de anima&#231;&#227;o que &#233; hoje perten&#231;a da Disney, passa-se num mundo em que existe a tecnologia de transferir, ou fazer saltitar (da&#237; o nome), mentes humanas para corpos rob&#243;ticos de animais.",
       "showtimes": [
         {
@@ -3148,11 +3382,18 @@
       "age_rating": "M/6",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822228?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.3",
+        "rt_critic": null,
+        "metacritic": "37",
+        "imdb_id": "tt28650488"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWYxYWRkMTUtMGMwZC00MzYyLThlNjEtNDcwMDYyMTQ4ZjJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Mario ventures into space, exploring cosmic worlds and tackling galactic challenges far from the familiar Mushroom Kingdom.",
       "plot_pt": "Depois de salvarem o Reino dos Cogumelos, onde agora residem,&#160;Mario&#160;e&#160;Luigi&#160;&#8212; os simp&#225;ticos canalizadores de Brooklyn de ascend&#234;ncia italiana &#8212; v&#234;em-se a bra&#231;os com uma luta intergal&#225;ctica.  Acompanhados pelo dinossauro&#160;Yoshi, pela destemida princesa&#160;Peach&#160;e pelo ador&#225;vel cogumelo&#160;Toad, enfrentam o extraterrestre&#160;Bowser&#160;Jr.",
       "showtimes": [
         {
@@ -4520,11 +4761,19 @@
       "age_rating": null,
       "director": null,
       "year": 1932,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "7.0",
+        "rt_critic": "86%",
+        "metacritic": null,
+        "imdb_id": "tt0023303"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzBhYWEyMzktMWJjYi00Y2JkLWE2MTktOTljMzlkOTNiOTEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "An unhappily married couple try to come between a happy one.",
       "plot_pt": null,
       "showtimes": [
         {
@@ -4556,11 +4805,18 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823213?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.7",
+        "rt_critic": null,
+        "metacritic": "69",
+        "imdb_id": "tt32547691"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjkwMTkwYzItNTg4MC00OTc2LTk2Y2EtOGU3ZGE0NmQyYzdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "In the tense 72 hours before D-Day, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice--launch the most dangerous seaborne invasion in history or risk losing the war altogether.",
       "plot_pt": "Nos tr&#234;s dias anteriores ao desembarque dos aliados na Normandia, fundamental para a derrota das for&#231;as nazis, houve uma previs&#227;o que, caso tivesse falhado, teria alterado o rumo da Segunda Grande Guerra. \r\n\r\nRespons&#225;vel pela avalia&#231;&#227;o meteorol&#243;gica, um factor determinante para o sucesso da opera&#231;&#227;o, o capit&#227;o James Martin Stagg (1900-1975), considerado o melhor meteorologista do Reino Unido, deparou-se com o aproximar de duas grandes tempestades para o dia 5 de Junho de 1944, a data previamente marcada.",
       "showtimes": [
         {
@@ -5141,11 +5397,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822738?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.5",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt42369871"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWIzNzEyYjQtMDQ3NS00YzU0LWIwZGMtYjI2YWY1NmIwNDRkXkEyXkFqcGc@._V1_QL75_UY562_CR311,0,380,562_.jpg",
+      "plot_en": "A 4-episode special look series at \"Star Wars: The Mandalorian and Grogu\", only in theaters.",
       "plot_pt": "&lt;p&gt;Depois da queda do Imp&#233;rio, Din Djarin, um solit&#225;rio ca&#231;ador de recompensas mandaloriano, continua a atravessar os confins da gal&#225;xia ao lado do seu jovem companheiro Grogu.  Agora ao servi&#231;o da Nova Rep&#250;blica, fundada para restaurar a ordem e a paz, os dois s&#227;o chamados para uma miss&#227;o que os levar&#225; a enfrentar for&#231;as do antigo Imp&#233;rio.",
       "showtimes": [
         {
@@ -5318,11 +5581,18 @@
       "age_rating": null,
       "director": null,
       "year": 1955,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823260?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.0",
+        "rt_critic": "87%",
+        "metacritic": "74",
+        "imdb_id": "tt0048445"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjQ2NmE1YmItNjM0MS00OTA1LWE5NWItNWUwZThmOGMxMzA2XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "In Oklahoma, several farmers, cowboys and a traveling salesman compete for the romantic favors of various local ladies.",
       "plot_pt": "Adaptando o c&#233;lebre musical de Richard Rodgers e Oscar Hammerstein II, Oklahoma! foi a &#250;nica incurs&#227;o de Fred Zinnemann no musical americano.  Situado no territ&#243;rio de Oklahoma no in&#237;cio do s&#233;culo XX, o filme acompanha o tri&#226;ngulo amoroso entre a jovem Laurey, o cowboy Curly e o inquietante trabalhador rural Jud Fry, cruzando romance, rivalidade e tens&#245;es entre agricultores e criadores de gado num territ&#243;rio prestes a tornar-se estado.",
       "showtimes": [
         {
@@ -5354,11 +5624,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 1954,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823268?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.7",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0058515"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzlkNGYzNjAtOTZiNy00OTdiLTllYjUtZTNhNzRkM2M5MDQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "When a group of northern soccer fans are down in London for the Cup Final one of their number winds up with a lady of the night. As they talk, the unsophisticated and naive lad starts to believe he has found true love.",
       "plot_pt": "Um rapaz &#34;na&#239;f&#34; que vive com a m&#227;e&#160;vem pela primeira vez a Londres para assistir &#224; final da Ta&#231;a do Campeonato de futebol.  Movido por uma aposta, acompanha uma prostituta com a esperan&#231;a de perder a virgindade.",
       "showtimes": [
         {
@@ -5639,11 +5916,19 @@
       "age_rating": "M/6",
       "director": null,
       "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822644?tp=KM",
-      "plot_en": null,
+      "original_language": "Chinese",
+      "original_languages": [
+        "Chinese",
+        "English"
+      ],
+      "ratings": {
+        "imdb": "3.7",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt37185884"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWQ3OTU0ZWYtYWE5OS00Zjc4LTg4ZTctMzcyZDQ2YjU1Yjk4XkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+      "plot_en": "During a chase inside a museum, Tom and Jerry find a magical object and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.",
       "plot_pt": "A lend&#225;ria rivalidade entre Tom e Jerry ganha um novo f&#244;lego quando, durante uma persegui&#231;&#227;o num museu, os dois activam acidentalmente uma b&#250;ssola m&#225;gica que os transporta para um mundo desconhecido e muito perigoso.  Enquanto tentam encontrar o caminho de regresso a casa, cruzam-se com novos aliados, com quem ter&#227;o de enfrentar inimigos que amea&#231;am o equil&#237;brio do Universo.",
       "showtimes": [
         {
@@ -5778,16 +6063,6 @@
       "chain_url": ""
     },
     {
-      "id": 415519,
-      "name": "Príncipe Real Terrace",
-      "chain": "Other",
-      "region": "Lisboa",
-      "location": "Lisboa",
-      "lat": null,
-      "lng": null,
-      "chain_url": ""
-    },
-    {
       "id": 54418,
       "name": "UCI Cinemas - El Corte Inglés",
       "chain": "UCI",
@@ -5803,16 +6078,6 @@
       "chain": "Other",
       "region": "Grande Lisboa",
       "location": "Setúbal",
-      "lat": null,
-      "lng": null,
-      "chain_url": ""
-    },
-    {
-      "id": 85237,
-      "name": "Auditório Municipal Beatriz Costa",
-      "chain": "Other",
-      "region": "Grande Lisboa",
-      "location": "Lisboa",
       "lat": null,
       "lng": null,
       "chain_url": ""
