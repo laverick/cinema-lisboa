@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-30T23:42:26.375434Z",
+  "last_updated": "2026-07-01T01:23:53.455116Z",
   "scrape_date": "2026-07-01",
   "movies": [
     {
       "id": 415302,
       "title": "18 Buracos Para o Paraíso",
       "original_title": "18 Buracos Para o Paraíso",
-      "url": "/filme/18-buracos-paraiso-415302?fromApp=1",
+      "url": "/filme/18-buracos-paraiso-415302",
       "genre": null,
-      "duration_min": 870,
+      "duration_min": 1035,
       "age_rating": "M/14",
       "director": null,
       "year": 2025,
@@ -39,63 +39,9 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 168529,
-      "title": "A Dama de Arminho",
-      "original_title": "That Lady in Ermine",
-      "url": "/filme/a-dama-de-arminho-168529?fromApp=1",
-      "genre": null,
-      "duration_min": 88,
-      "age_rating": null,
-      "director": null,
-      "year": 1948,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
-      "plot_pt": "Lubitsch morreu antes de completar este filme (o segundo que faria a cores) e Otto Preminger levou o trabalho a termo.  Muito mais próximo de Heaven can Wait do que das comédias sofisticadas que Lubitsch fizera nos anos 30, That Lady in Ermine é uma extravagância, com pessoas que alçam voo, um personagem que sai de um quadro para dar conselhos à neta e diversas canções, pois trata-se da adaptação de uma opereta.",
-      "showtimes": [
         {
           "cinema_id": 17541,
           "sessions": [
@@ -119,7 +65,7 @@
       "id": 379769,
       "title": "A Marca do Renegado",
       "original_title": "The Mark of the Renegade",
-      "url": "/filme/a-marca-do-renegado-379769?fromApp=1",
+      "url": "/filme/a-marca-do-renegado-379769",
       "genre": null,
       "duration_min": 81,
       "age_rating": null,
@@ -136,8 +82,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h30",
@@ -155,7 +101,7 @@
       "id": 415540,
       "title": "A Morte de Robin Hood",
       "original_title": "The Death of Robin Hood",
-      "url": "/filme/morte-robin-hood-415540?fromApp=1",
+      "url": "/filme/morte-robin-hood-415540",
       "genre": null,
       "duration_min": 123,
       "age_rating": null,
@@ -188,24 +134,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -223,18 +151,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -244,7 +160,7 @@
       "id": 415236,
       "title": "American Dream",
       "original_title": "American Dream",
-      "url": "/filme/morte-robin-hood-415236?fromApp=1",
+      "url": "/filme/morte-robin-hood-415236",
       "genre": null,
       "duration_min": 100,
       "age_rating": "M/12",
@@ -261,8 +177,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "19h00",
@@ -280,7 +196,7 @@
       "id": 415543,
       "title": "Aos Nossos Amigos",
       "original_title": "Aos Nossos Amigos",
-      "url": "/filme/amigos-415543?fromApp=1",
+      "url": "/filme/amigos-415543",
       "genre": null,
       "duration_min": 90,
       "age_rating": null,
@@ -313,24 +229,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -340,18 +238,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h55",
@@ -377,18 +263,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -398,7 +272,7 @@
       "id": 156734,
       "title": "Arma Mortífera",
       "original_title": "Lethal Weapon",
-      "url": "/filme/arma-mortifera-156734?fromApp=1",
+      "url": "/filme/arma-mortifera-156734",
       "genre": null,
       "duration_min": 112,
       "age_rating": "M/12",
@@ -415,8 +289,8 @@
           "cinema_id": 414017,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h30",
@@ -434,7 +308,7 @@
       "id": 415310,
       "title": "As Provadoras de Hitler",
       "original_title": "The Tasters",
-      "url": "/filme/siberiada--415310?fromApp=1",
+      "url": "/filme/siberiada--415310",
       "genre": null,
       "duration_min": 123,
       "age_rating": "M/14",
@@ -461,18 +335,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -482,7 +344,7 @@
       "id": 415343,
       "title": "Backrooms - O Labirinto",
       "original_title": "Backrooms",
-      "url": "/filme/backrooms-415343?fromApp=1",
+      "url": "/filme/backrooms-415343",
       "genre": null,
       "duration_min": 105,
       "age_rating": null,
@@ -496,75 +358,11 @@
       "plot_pt": "Partindo do universo das &#34;creepypastas&#34; &#8212; hist&#243;rias curtas de terror que circulam e se propagam pela internet &#8212; e de uma lenda urbana surgida em 2019, o filme explora as backrooms, uma suposta dimens&#227;o paralela onde algumas pessoas acabam inexplicavelmente aprisionadas.",
       "showtimes": [
         {
-          "cinema_id": 169327,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 54418,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h50",
@@ -590,18 +388,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -611,24 +397,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h35",
@@ -652,7 +420,7 @@
       "id": 414406,
       "title": "Bichos a Bordo",
       "original_title": "Falcon Express",
-      "url": "/filme/falcon-express-414406?fromApp=1",
+      "url": "/filme/falcon-express-414406",
       "genre": null,
       "duration_min": 99,
       "age_rating": "M/6",
@@ -666,63 +434,11 @@
       "plot_pt": "&lt;p&gt;Hans, um texugo muito mal-intencionado, concretiza um plano maquiav&#233;lico: fazer desembarcar todos os passageiros humanos de um comboio de alta velocidade e partir apenas com os animais que l&#225; se encontram.  Mas, felizmente para as suas v&#237;timas, entre eles est&#225; o Falc&#227;o, um guaxinim inteligente e destemido.",
       "showtimes": [
         {
-          "cinema_id": 169327,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "17h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 230335,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h40",
@@ -746,7 +462,7 @@
       "id": 414960,
       "title": "Broken English",
       "original_title": "Broken English",
-      "url": "/filme/broken-english-414960?fromApp=1",
+      "url": "/filme/broken-english-414960",
       "genre": null,
       "duration_min": 99,
       "age_rating": "M/12",
@@ -779,24 +495,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -806,24 +504,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h55",
@@ -855,18 +535,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -876,7 +544,7 @@
       "id": 415571,
       "title": "Cinco Segundos",
       "original_title": "Cinque Secondi",
-      "url": "/filme/cinco-segundos-415571?fromApp=1",
+      "url": "/filme/cinco-segundos-415571",
       "genre": null,
       "duration_min": null,
       "age_rating": null,
@@ -903,18 +571,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -922,8 +578,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h00",
@@ -941,7 +597,7 @@
       "id": 405774,
       "title": "Dias Selvagens",
       "original_title": "Ah Fei jing juen",
-      "url": "/filme/dias-selvagens-405774?fromApp=1",
+      "url": "/filme/dias-selvagens-405774",
       "genre": null,
       "duration_min": 100,
       "age_rating": null,
@@ -958,8 +614,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "22h00",
@@ -977,7 +633,7 @@
       "id": 415414,
       "title": "Dois Procuradores",
       "original_title": "Two Prosecutors",
-      "url": "/filme/dois-procuradores-415414?fromApp=1",
+      "url": "/filme/dois-procuradores-415414",
       "genre": null,
       "duration_min": 118,
       "age_rating": "M/12",
@@ -1004,18 +660,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "18h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -1033,18 +677,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -1054,7 +686,7 @@
       "id": 415541,
       "title": "Duas Vezes João Liberada",
       "original_title": "Duas Vezes João Liberada",
-      "url": "/filme/duas-vezes-joao-liberada-415541?fromApp=1",
+      "url": "/filme/duas-vezes-joao-liberada-415541",
       "genre": null,
       "duration_min": 70,
       "age_rating": "M/12",
@@ -1081,18 +713,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -1102,18 +722,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h30",
@@ -1131,7 +739,7 @@
       "id": 414160,
       "title": "Fogo do Vento",
       "original_title": "Fogo do Vento",
-      "url": "/filme/fogo-do-vento-414160?fromApp=1",
+      "url": "/filme/fogo-do-vento-414160",
       "genre": null,
       "duration_min": 74,
       "age_rating": "M/12",
@@ -1158,18 +766,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -1179,7 +775,7 @@
       "id": 415299,
       "title": "Hokum - A Maldição Oculta",
       "original_title": "Hokum",
-      "url": "/filme/hokum-415299?fromApp=1",
+      "url": "/filme/hokum-415299",
       "genre": null,
       "duration_min": 101,
       "age_rating": null,
@@ -1206,18 +802,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -1227,7 +811,7 @@
       "id": 220762,
       "title": "Jack, o Estripador",
       "original_title": "The Lodger",
-      "url": "/filme/jack-o-estripador-220762?fromApp=1",
+      "url": "/filme/jack-o-estripador-220762",
       "genre": null,
       "duration_min": 84,
       "age_rating": null,
@@ -1244,8 +828,8 @@
           "cinema_id": 17536,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h45",
@@ -1263,7 +847,7 @@
       "id": 415603,
       "title": "Ku Handza",
       "original_title": "Ku Handza",
-      "url": "/filme/ku-handza-415603?fromApp=1",
+      "url": "/filme/ku-handza-415603",
       "genre": null,
       "duration_min": 75,
       "age_rating": "M/12",
@@ -1296,24 +880,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -1331,18 +897,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "20h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -1352,7 +906,7 @@
       "id": 415549,
       "title": "Little Trouble Girls",
       "original_title": "Kaj Ti Je Deklica",
-      "url": "/filme/pecados-415549?fromApp=1",
+      "url": "/filme/pecados-415549",
       "genre": null,
       "duration_min": 89,
       "age_rating": null,
@@ -1379,18 +933,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -1400,7 +942,7 @@
       "id": 415542,
       "title": "Magalhães",
       "original_title": "Magalhães",
-      "url": "/filme/magalhaes-415542?fromApp=1",
+      "url": "/filme/magalhaes-415542",
       "genre": null,
       "duration_min": 160,
       "age_rating": "M/12",
@@ -1425,60 +967,6 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                },
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415416,
-      "title": "Masters of the Universe",
-      "original_title": "Masters of the Universe",
-      "url": "/filme/masters-of-the-universe-415416?fromApp=1",
-      "genre": null,
-      "duration_min": 140,
-      "age_rating": "M/12",
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822555?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Em crian&#231;a, o pr&#237;ncipe Adam (Nicholas Galitzine) deixou Eternia e foi enviado para a Terra para que pudesse crescer longe dos perigos.  Quando, j&#225; adulto, percebe que o seu planeta est&#225; ainda dominado pelo terr&#237;vel Skeletor (Jared Leto) e o seu ex&#233;rcito de sombras, tem de recuperar a espada m&#237;tica que lhe d&#225; poderes e assumir a identidade de He-Man, &#250;ltimo defensor de Castelo de Grayskull, para que a paz possa regressar ao reino dos seus ancestrais.",
-      "showtimes": [
-        {
-          "cinema_id": 187898,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             }
@@ -1490,7 +978,7 @@
       "id": 415240,
       "title": "Michael",
       "original_title": "Michael",
-      "url": "/filme/michael-415240?fromApp=1",
+      "url": "/filme/michael-415240",
       "genre": null,
       "duration_min": 124,
       "age_rating": "M/12",
@@ -1504,80 +992,11 @@
       "plot_pt": "Com&#160;Jaafar&#160;Jackson, sobrinho de&#160;Michael&#160;Jackson&#8203;,&#160;a dar vida ao protagonista, o filme acompanha o percurso art&#237;stico e pessoal do artista, atravessando o contexto familiar que o fez entrar na ind&#250;stria musical com apenas cinco anos de idade, a ascens&#227;o mete&#243;rica ao lado dos&#160;The&#160;Jackson 5&#160;e o seu esfor&#231;o de continuar numa carreira a solo, sempre marcada por um excesso de exposi&#231;&#227;o medi&#225;tica.",
       "showtimes": [
         {
-          "cinema_id": 169327,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 187898,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "14h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 54418,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h05",
@@ -1615,24 +1034,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "16h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -1642,7 +1043,7 @@
       "id": 415560,
       "title": "Mínimos e Monstros",
       "original_title": "Minions & Monsters",
-      "url": "/filme/minimos-monstros-415560?fromApp=1",
+      "url": "/filme/minimos-monstros-415560",
       "genre": null,
       "duration_min": 85,
       "age_rating": null,
@@ -1659,8 +1060,8 @@
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "10h30",
@@ -1694,8 +1095,8 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h45",
@@ -1729,8 +1130,8 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h30",
@@ -1764,8 +1165,8 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h30",
@@ -1799,8 +1200,8 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h20",
@@ -1815,46 +1216,10 @@
       ]
     },
     {
-      "id": 18278,
-      "title": "Não há como a Nossa Casa",
-      "original_title": "Meet Me in Saint Louis",
-      "url": "/filme/nao-ha-como-a-nossa-casa-18278?fromApp=1",
-      "genre": null,
-      "duration_min": 113,
-      "age_rating": "M/12",
-      "director": null,
-      "year": 1944,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
-      "plot_pt": "Este terceiro filme de Minnelli é, para muitos, aquele que define o seu estilo.  Para transformar a realidade quotidiana, Minnelli entremeou com canções esta típica história americana, sobre uma família feliz, situada em St.  Louis em 1903, o ano em a cidade acolheu uma Exposição Universal.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 415546,
       "title": "O Amor Que Perdura",
       "original_title": "The Love That Remains",
-      "url": "/filme/amor-perdura-415546?fromApp=1",
+      "url": "/filme/amor-perdura-415546",
       "genre": null,
       "duration_min": 109,
       "age_rating": null,
@@ -1868,57 +1233,11 @@
       "plot_pt": "Escrito e realizado por Hlynur P&#225;lmason, esta tragicom&#233;dia acompanha a lenta eros&#227;o dos la&#231;os entre um marido e uma mulher a viver numa pequena comunidade islandesa.  Apesar de pouco transparecer no dia-a-dia do casal e dos seus tr&#234;s filhos, esse afastamento vai sendo revelado em pequenos gestos que v&#227;o abrindo fissuras ao longo das quatro esta&#231;&#245;es de um &#250;nico ano.",
       "showtimes": [
         {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 270072,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 221112,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h20",
@@ -1936,7 +1255,7 @@
       "id": 415536,
       "title": "O Dia da Revelação",
       "original_title": "Disclosure Day",
-      "url": "/filme/dia-revelacao-415536?fromApp=1",
+      "url": "/filme/dia-revelacao-415536",
       "genre": null,
       "duration_min": 145,
       "age_rating": "M/12",
@@ -1950,174 +1269,11 @@
       "plot_pt": "Um especialista em ciberseguran&#231;a torna-se delator e decide revelar ao mundo inteiro, contra for&#231;as muito poderosas, que extraterrestres existem.  &#201; esta a premissa do novo filme original de Steven Spielberg escrito por David Koepp, com quem o realizador trabalhou em filmes como os dois primeiros &#34;Parque Jur&#225;ssico&#34;, &#34;Guerra dos Mundos&#34; e &#34;Indiana Jones e o Reino da Caveira de Cristal&#34;, entre outros.",
       "showtimes": [
         {
-          "cinema_id": 17538,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17563,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17585,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 17532,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h50",
@@ -2173,36 +1329,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -2212,30 +1338,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h40",
@@ -2285,30 +1387,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -2318,24 +1396,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "17h20",
@@ -2379,30 +1439,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -2412,7 +1448,7 @@
       "id": 415274,
       "title": "O Diabo Veste Prada 2",
       "original_title": "The Devil Wears Prada 2",
-      "url": "/filme/diabo-veste-prada-2-415274?fromApp=1",
+      "url": "/filme/diabo-veste-prada-2-415274",
       "genre": null,
       "duration_min": 120,
       "age_rating": "M/12",
@@ -2426,58 +1462,11 @@
       "plot_pt": "Agora com provas dadas e um percurso pr&#243;prio,&#160;Andrea&#160;Sachs&#160;volta a cruzar-se com Miranda&#160;Priestly, a ic&#243;nica editora da revista &#34;Runway&#34;, cujo prest&#237;gio permanece intacto num meio onde a apar&#234;ncia dita regras e o poder raramente se v&#234; questionado.",
       "showtimes": [
         {
-          "cinema_id": 17532,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "12h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 54418,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h20",
@@ -2503,18 +1492,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "22h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -2532,90 +1509,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "17h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 345095,
-      "title": "O Dossier Anderson",
-      "original_title": "The Anderson Tapes",
-      "url": "/filme/o-dossier-anderson-345095?fromApp=1",
-      "genre": null,
-      "duration_min": 99,
-      "age_rating": null,
-      "director": null,
-      "year": 1971,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
-      "plot_pt": null,
-      "showtimes": [
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 111966,
-      "title": "O Homem Que eu Matei",
-      "original_title": "The Man I Killed",
-      "url": "/filme/o-homem-que-eu-matei-111966?fromApp=1",
-      "genre": null,
-      "duration_min": 77,
-      "age_rating": null,
-      "director": null,
-      "year": 1932,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/345819?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Um dos menos vistos filmes de Lubitsch e excep&#231;&#227;o &#224; regra das com&#233;dias associadas a Lubitsch e ao &quot;Lubitsch touch&quot; a partir de finais dos anos 20, no per&#237;odo sonoro da sua obra.  &quot;The Man I Killed&quot;, centrado na guerra, no crime, nos seus rituais e no modo como actuam sobre as cons ci&#234;ncias, ocupa um importante lugar na hist&#243;ria do melodrama: um soldado franc&#234;s atormentado pelo sentimento de culpa de mortes praticadas em tempo de guerra, apaixona-se pela antiga mulher de um soldado alem&#227;o que matou.",
-      "showtimes": [
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -2625,7 +1518,7 @@
       "id": 19222,
       "title": "O Pecado de Cluny Brown",
       "original_title": "Cluny Brown",
-      "url": "/filme/o-pecado-de-cluny-brown-19222?fromApp=1",
+      "url": "/filme/o-pecado-de-cluny-brown-19222",
       "genre": null,
       "duration_min": 100,
       "age_rating": null,
@@ -2642,8 +1535,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h00",
@@ -2661,7 +1554,7 @@
       "id": 415539,
       "title": "O Que É o Amor",
       "original_title": "C`est quoi l´amour?",
-      "url": "/filme/amor-415539?fromApp=1",
+      "url": "/filme/amor-415539",
       "genre": null,
       "duration_min": 100,
       "age_rating": null,
@@ -2686,24 +1579,6 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
                 }
               ]
             }
@@ -2723,18 +1598,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -2744,7 +1607,7 @@
       "id": 164497,
       "title": "O Terceiro Passo",
       "original_title": "The Prestige",
-      "url": "/filme/o-terceiro-passo-164497?fromApp=1",
+      "url": "/filme/o-terceiro-passo-164497",
       "genre": null,
       "duration_min": 128,
       "age_rating": "M/12",
@@ -2761,8 +1624,8 @@
           "cinema_id": 415491,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h15",
@@ -2780,7 +1643,7 @@
       "id": 415335,
       "title": "Obsession - A Felicidade é Relativa",
       "original_title": "Obsession",
-      "url": "/filme/obsession-felicidade-relativa-415335?fromApp=1",
+      "url": "/filme/obsession-felicidade-relativa-415335",
       "genre": null,
       "duration_min": 108,
       "age_rating": "M/16",
@@ -2794,46 +1657,11 @@
       "plot_pt": "Bear (Michael Johnston) trabalha numa loja de m&#250;sica ao lado de Nikki (Inde Navarrette), por quem h&#225; muito est&#225; apaixonado.  Inseguro e com muitas dificuldades de confessar o que sente, adquire, numa loja de produtos esot&#233;ricos, um objecto designado &#8220;One Wish Willow&#8221;, um artefacto que promete conceder um desejo a quem o possuir.",
       "showtimes": [
         {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 54418,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h40",
@@ -2877,24 +1705,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -2918,24 +1728,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "16h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -2945,7 +1737,7 @@
       "id": 414603,
       "title": "Pai Nosso - Os Últimos Dias de Salazar",
       "original_title": "Pai Nosso - Os Últimos Dias de Salazar",
-      "url": "/filme/pai-nosso---os-ultimos-dias-de-salazar-414603?fromApp=1",
+      "url": "/filme/pai-nosso---os-ultimos-dias-de-salazar-414603",
       "genre": null,
       "duration_min": 108,
       "age_rating": "M/12",
@@ -2972,54 +1764,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 396612,
-      "title": "Parasitas",
-      "original_title": "Gisaengchung",
-      "url": "/filme/parasitas-396612?fromApp=1",
-      "genre": null,
-      "duration_min": 132,
-      "age_rating": null,
-      "director": null,
-      "year": 2019,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/736078?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Depois de ambos os pais terem perdido os empregos, uma fam&#237;lia sul-coreana tenta sobreviver numa pequena cave &#224; custa de biscates.  A oportunidade de mudan&#231;a surge quando Ki-woo, o filho, &#233; recomendado por um amigo para o substituir como explicador de ingl&#234;s em casa de uma fam&#237;lia abastada.",
-      "showtimes": [
-        {
-          "cinema_id": 415491,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -3029,7 +1773,7 @@
       "id": 415547,
       "title": "Perfeitos à Francesa",
       "original_title": "Les Parfaits",
-      "url": "/filme/perfeitos-francesa-415547?fromApp=1",
+      "url": "/filme/perfeitos-francesa-415547",
       "genre": null,
       "duration_min": 790,
       "age_rating": null,
@@ -3068,30 +1812,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -3101,36 +1821,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "14h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h20",
@@ -3166,7 +1856,7 @@
       "id": 415538,
       "title": "Por Mais Um Dia",
       "original_title": "Por Mais Um Dia",
-      "url": "/filme/dia-415538?fromApp=1",
+      "url": "/filme/dia-415538",
       "genre": null,
       "duration_min": 84,
       "age_rating": "M/14",
@@ -3193,90 +1883,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 414987,
-      "title": "Saltitões",
-      "original_title": "Hoppers",
-      "url": "/filme/saltitoes-414987?fromApp=1",
-      "genre": null,
-      "duration_min": 655,
-      "age_rating": "M/6",
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/821728?tp=KM",
-      "plot_en": null,
-      "plot_pt": "O 30. &#186; filme da Pixar, o est&#250;dio de anima&#231;&#227;o que &#233; hoje perten&#231;a da Disney, passa-se num mundo em que existe a tecnologia de transferir, ou fazer saltitar (da&#237; o nome), mentes humanas para corpos rob&#243;ticos de animais.",
-      "showtimes": [
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "10h55",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415148,
-      "title": "Super Mario Galaxy - O Filme",
-      "original_title": "The Super Mario Galaxy Movie",
-      "url": "/filme/the-super-mario-galaxy-movie-415148?fromApp=1",
-      "genre": null,
-      "duration_min": 95,
-      "age_rating": "M/6",
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822228?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Depois de salvarem o Reino dos Cogumelos, onde agora residem,&#160;Mario&#160;e&#160;Luigi&#160;&#8212; os simp&#225;ticos canalizadores de Brooklyn de ascend&#234;ncia italiana &#8212; v&#234;em-se a bra&#231;os com uma luta intergal&#225;ctica.  Acompanhados pelo dinossauro&#160;Yoshi, pela destemida princesa&#160;Peach&#160;e pelo ador&#225;vel cogumelo&#160;Toad, enfrentam o extraterrestre&#160;Bowser&#160;Jr.",
-      "showtimes": [
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
             }
           ]
         }
@@ -3286,7 +1892,7 @@
       "id": 415548,
       "title": "Supergirl",
       "original_title": "Supergirl",
-      "url": "/filme/supergirl-415548?fromApp=1",
+      "url": "/filme/supergirl-415548",
       "genre": null,
       "duration_min": 110,
       "age_rating": null,
@@ -3300,270 +1906,11 @@
       "plot_pt": "Kara Zor-El (Milly Alcock) &#233; uma das &#250;ltimas sobreviventes de Krypton e prima de Kal-El (David Corenswet), que se tornou conhecido na Terra como Super-Homem.  Perante a destrui&#231;&#227;o do seu planeta, Kara enfrenta a solid&#227;o, a mem&#243;ria de tudo o que perdeu e a dificuldade em encontrar um lugar onde se sinta acolhida.",
       "showtimes": [
         {
-          "cinema_id": 17538,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "12h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h10",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17563,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "12h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17585,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h45",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 80874,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "12h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "14h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 17586,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "13h10",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h40",
@@ -3581,36 +1928,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h55",
@@ -3666,30 +1983,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -3725,36 +2018,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -3764,60 +2027,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "13h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h30",
@@ -3877,7 +2086,7 @@
       "id": 415452,
       "title": "Toy Story 5",
       "original_title": "Toy Story 5",
-      "url": "/filme/toy-story-5-415452?fromApp=1",
+      "url": "/filme/toy-story-5-415452",
       "genre": null,
       "duration_min": 90,
       "age_rating": "M/6",
@@ -3891,134 +2100,11 @@
       "plot_pt": "Passados mais de 30 anos sobre a estreia de &#34;Toy Story - Os Rivais&#34;, a hist&#243;ria que se tornou um marco na vida de milh&#245;es de espectadores por todo o mundo continua neste quinto cap&#237;tulo.  Agora, a vida de Buzz Lightyear, Woody, Jessie e a sua trupe de brinquedos sofre uma grande reviravolta quando Bonnie, j&#225; com oito anos, recebe como presente o Lilypad, um sofisticado tablet interactivo com ideias bastante discut&#237;veis sobre o que &#233; ou n&#227;o divertido.",
       "showtimes": [
         {
-          "cinema_id": 17586,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 80874,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "20h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h25",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h05",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 17532,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h20",
@@ -4048,42 +2134,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "23h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h10",
@@ -4127,36 +2177,6 @@
                   "inferred_vo": false
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "12h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "17h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
             }
           ]
         },
@@ -4166,36 +2186,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h15",
-                  "dubbed": true,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h45",
-                  "dubbed": true,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "10h45",
@@ -4263,36 +2253,6 @@
                   "inferred_vo": false
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h05",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
             }
           ]
         },
@@ -4302,48 +2262,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "17h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "19h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h00",
@@ -4379,42 +2297,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "17h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h10",
@@ -4456,24 +2338,6 @@
                   "dubbed": true,
                   "tech_format": null,
                   "inferred_vo": false
-                },
-                {
-                  "time": "17h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
                 }
               ]
             }
@@ -4485,48 +2349,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h25",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h25",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h25",
@@ -4574,7 +2396,7 @@
       "id": 415243,
       "title": "Três Vezes Adeus",
       "original_title": "Tre Ciatole",
-      "url": "/filme/tres-vezes-adeus-415243?fromApp=1",
+      "url": "/filme/tres-vezes-adeus-415243",
       "genre": null,
       "duration_min": 120,
       "age_rating": "M/12",
@@ -4601,18 +2423,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -4622,7 +2432,7 @@
       "id": 152310,
       "title": "Uma Hora Contigo",
       "original_title": "One Hour with You",
-      "url": "/filme/uma-hora-contigo-152310?fromApp=1",
+      "url": "/filme/uma-hora-contigo-152310",
       "genre": null,
       "duration_min": 80,
       "age_rating": null,
@@ -4639,8 +2449,8 @@
           "cinema_id": 17541,
           "sessions": [
             {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
+              "date": "2026-07-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "17h00",
@@ -4671,41 +2481,6 @@
       "plot_en": null,
       "plot_pt": "Nos tr&#234;s dias anteriores ao desembarque dos aliados na Normandia, fundamental para a derrota das for&#231;as nazis, houve uma previs&#227;o que, caso tivesse falhado, teria alterado o rumo da Segunda Grande Guerra. \r\n\r\nRespons&#225;vel pela avalia&#231;&#227;o meteorol&#243;gica, um factor determinante para o sucesso da opera&#231;&#227;o, o capit&#227;o James Martin Stagg (1900-1975), considerado o melhor meteorologista do Reino Unido, deparou-se com o aproximar de duas grandes tempestades para o dia 5 de Junho de 1944, a data previamente marcada.",
       "showtimes": [
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "14h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
         {
           "cinema_id": 17532,
           "sessions": [
@@ -4738,36 +2513,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -4777,36 +2522,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h45",
@@ -4862,30 +2577,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -4915,30 +2606,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -4948,24 +2615,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h15",
@@ -5015,36 +2664,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         }
@@ -5056,7 +2675,7 @@
       "original_title": "Jackass: Best and Last",
       "url": "/filme/jackass-ultimo-shot-loucura-415545",
       "genre": null,
-      "duration_min": 890,
+      "duration_min": 1290,
       "age_rating": null,
       "director": null,
       "year": 2026,
@@ -5068,52 +2687,11 @@
       "plot_pt": "Depois do enorme sucesso da s&#233;rie lan&#231;ada no ano 2000 no canal MTV, Johnny Knoxville, Steve-O, Chris Pontius, Wee Man e o restante grupo de Jackass regressam para mais uma &#8211; que afirmam ser a &#250;ltima &#8211; ronda de acrobacias, quedas, embates e situa&#231;&#245;es capazes de fazer gelar o sangue dos mais audazes.",
       "showtimes": [
         {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 54418,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h25",
@@ -5151,24 +2729,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "22h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -5178,36 +2738,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h25",
@@ -5282,30 +2812,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -5315,24 +2821,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h25",
@@ -5364,24 +2852,6 @@
                   "inferred_vo": true
                 }
               ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
             }
           ]
         },
@@ -5394,126 +2864,6 @@
               "times": [
                 {
                   "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415636,
-      "title": "Oklahoma",
-      "original_title": "Oklahoma!",
-      "url": "/filme/oklahoma-415636",
-      "genre": null,
-      "duration_min": 145,
-      "age_rating": null,
-      "director": null,
-      "year": 1955,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823260?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Adaptando o c&#233;lebre musical de Richard Rodgers e Oscar Hammerstein II, Oklahoma! foi a &#250;nica incurs&#227;o de Fred Zinnemann no musical americano.  Situado no territ&#243;rio de Oklahoma no in&#237;cio do s&#233;culo XX, o filme acompanha o tri&#226;ngulo amoroso entre a jovem Laurey, o cowboy Curly e o inquietante trabalhador rural Jud Fry, cruzando romance, rivalidade e tens&#245;es entre agricultores e criadores de gado num territ&#243;rio prestes a tornar-se estado.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415639,
-      "title": "Rattle of a Simple Man + K (Metamorphosis)",
-      "original_title": "Rattle of a Simple Man",
-      "url": "/filme/rattle-of-a-simple-man--k-metamorphosis-415639",
-      "genre": null,
-      "duration_min": 96,
-      "age_rating": "M/12",
-      "director": null,
-      "year": 1954,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823268?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Um rapaz &#34;na&#239;f&#34; que vive com a m&#227;e&#160;vem pela primeira vez a Londres para assistir &#224; final da Ta&#231;a do Campeonato de futebol.  Movido por uma aposta, acompanha uma prostituta com a esperan&#231;a de perder a virgindade.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 412062,
-      "title": "R21 AKA Restoring Solidarity",
-      "original_title": "R21 AKA Restoring Solidarity",
-      "url": "/filme/r21-aka-restoring-solidarity-412062",
-      "genre": null,
-      "duration_min": 71,
-      "age_rating": "M/12",
-      "director": null,
-      "year": 2022,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/806502?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Entre os anos 1960 e 80, um movimento de solidariedade internacional apoiou a causa palestiniana.  Em particular, chegaram &#224; Palestina v&#225;rios grupos de ativistas militantes de esquerda vindos do Jap&#227;o.  O mais conhecido &#233; o JRA (Japanese Red Army), no qual participava o cineasta K&#333;ji Wakamatsu.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -5542,64 +2892,11 @@
       "plot_pt": "Vinte e seis anos depois de terem sobrevivido a uma s&#233;rie de ataques cometidos por um implac&#225;vel assassino mascarado, Cindy, Brenda, Shorty e Ray deparam-se com uma nova vaga de viol&#234;ncia. \r\nSexto filme da saga &#8220;Scary Movie&#8221; (iniciada no ano 2000), uma par&#243;dia intencionalmente exagerada a alguns filmes de terror (e n&#227;o s&#243;) que dominaram o &#8220;box office&#8221; dos &#250;ltimos anos, sejam eles prequelas, sequelas, &#8220;reboots&#8221;, &#8220;spin-offs&#8221;, os seus legados ou cap&#237;tulos finais.",
       "showtimes": [
         {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 54418,
           "sessions": [
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "14h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h25",
@@ -5623,24 +2920,6 @@
             {
               "date": "2026-07-01",
               "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h15",
@@ -5689,54 +2968,6 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-07-02",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415336,
-      "title": "Tom e Jerry: A Bússola Perdida",
-      "original_title": "Tom and Jerry - Forbidden Compass",
-      "url": "/filme/tom-e-jerry-a-bussola-perdida-415336",
-      "genre": null,
-      "duration_min": 104,
-      "age_rating": "M/6",
-      "director": null,
-      "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822644?tp=KM",
-      "plot_en": null,
-      "plot_pt": "A lend&#225;ria rivalidade entre Tom e Jerry ganha um novo f&#244;lego quando, durante uma persegui&#231;&#227;o num museu, os dois activam acidentalmente uma b&#250;ssola m&#225;gica que os transporta para um mundo desconhecido e muito perigoso.  Enquanto tentam encontrar o caminho de regresso a casa, cruzam-se com novos aliados, com quem ter&#227;o de enfrentar inimigos que amea&#231;am o equil&#237;brio do Universo.",
-      "showtimes": [
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-01",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "10h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
                 }
               ]
             }
