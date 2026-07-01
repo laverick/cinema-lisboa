@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T16:09:13.731826Z",
+  "last_updated": "2026-07-01T17:00:09.887807Z",
   "scrape_date": "2026-07-01",
   "movies": [
     {
@@ -609,6 +609,68 @@
               "times": [
                 {
                   "time": "22h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 415414,
+      "title": "Dois Procuradores",
+      "original_title": "Two Prosecutors",
+      "url": "/filme/dois-procuradores-415414",
+      "genre": null,
+      "duration_min": 118,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 2025,
+      "original_language": "Russian",
+      "original_languages": [
+        "Russian",
+        "Ukrainian",
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.1",
+        "rt_critic": "97%",
+        "metacritic": "84",
+        "imdb_id": "tt35521200"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWUxNWEzNzYtNzc3Ny00NGJkLThmMDYtNmRmODAwMDNlYjBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "In the USSR in 1937, a newly appointed prosecutor discovers an undestroyed letter from a prisoner that reveals corruption in the secret police, the NKVD. His search for the truth becomes dangerous.",
+      "plot_pt": "Na Uni&#227;o Sovi&#233;tica de 1937, durante as terr&#237;veis purgas estalinistas, Alexander Kornev, um jovem procurador, recebe uma carta de um prisioneiro pol&#237;tico perseguido pela NKVD (Comissariado do Povo para os Assuntos Internos), a pol&#237;cia secreta.",
+      "showtimes": [
+        {
+          "cinema_id": 17714,
+          "sessions": [
+            {
+              "date": "2026-07-01",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "18h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 221112,
+          "sessions": [
+            {
+              "date": "2026-07-01",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h40",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
