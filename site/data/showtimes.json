@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T04:02:03.681570Z",
+  "last_updated": "2026-07-20T07:27:23.061633Z",
   "scrape_date": "2026-07-20",
   "movies": [
     {
@@ -12,11 +12,20 @@
       "age_rating": "M/6",
       "director": null,
       "year": 1956,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/499963?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Navajo",
+        "Spanish"
+      ],
+      "ratings": {
+        "imdb": "7.8",
+        "rt_critic": "87%",
+        "metacritic": "94",
+        "imdb_id": "tt0049730"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ4YWI0MTItMTE4YS00ZTNjLWE3ZTQtN2E2MTlhYWQxNDNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "An American Civil War veteran embarks on a years-long journey to rescue his niece from the Comanches after the rest of his brother's family is massacred in a raid on their Texas farm.",
       "plot_pt": "&quot;A Desaparecida&quot; &#233; considerado um dos melhores &quot;westerns&quot; de sempre e o seu argumento &#233; precisamente um dos seus pontos fortes.  Ethan Edwards (John Wayne) &#233; um homem misterioso e fechado sobre si mesmo que nutre um &#243;dio desmedido pelos &#237;ndios Comanche desde que estes raptaram as suas duas sobrinhas.",
       "showtimes": [
         {
@@ -167,11 +176,18 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823435?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "8.3",
+        "rt_critic": null,
+        "metacritic": "89",
+        "imdb_id": "tt33764258"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
       "plot_pt": "Christopher Nolan &#8211; realizador de &#34;Memento&#34;, &#34;A Origem&#34;, &#34;O Terceiro Passo&#34;, &#34;Interstellar&#34;, &#8220;Dunkirk&#8221;, &#34;Tenet&#34; ou &#8220;Oppenheimer&#8221; &#8211; assina a adapta&#231;&#227;o para o grande ecr&#227; de um dos mais importantes poemas &#233;picos da Gr&#233;cia Antiga, totalmente filmada usando a nova tecnologia Imax.",
       "showtimes": [
         {
@@ -1856,6 +1872,42 @@
       ]
     },
     {
+      "id": 103095,
+      "title": "A Terra Treme",
+      "original_title": "La Terra trema: Episodio del mare",
+      "url": "/filme/a-terra-treme-103095",
+      "genre": null,
+      "duration_min": 152,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1948,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "",
+      "plot_en": null,
+      "plot_pt": null,
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-07-20",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "14h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415653,
       "title": "Amor em Camas Separadas",
       "original_title": "2 cuori e 2 capanne",
@@ -2097,11 +2149,22 @@
       "age_rating": "M/14",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822757?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Portuguese",
+        "Turkish",
+        "Arabic",
+        "Japanese"
+      ],
+      "ratings": {
+        "imdb": "7.0",
+        "rt_critic": null,
+        "metacritic": "77",
+        "imdb_id": "tt26657236"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "After a therapist's patient disappears into a dimension beyond reality, she must venture into the unknown to save him.",
       "plot_pt": "Partindo do universo das &#34;creepypastas&#34; &#8212; hist&#243;rias curtas de terror que circulam e se propagam pela internet &#8212; e de uma lenda urbana surgida em 2019, o filme explora as backrooms, uma suposta dimens&#227;o paralela onde algumas pessoas acabam inexplicavelmente aprisionadas.",
       "showtimes": [
         {
@@ -2230,6 +2293,78 @@
       ]
     },
     {
+      "id": 35578,
+      "title": "Beijos Roubados",
+      "original_title": "Baisers Volés",
+      "url": "/filme/beijos-roubados-35578",
+      "genre": null,
+      "duration_min": 90,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1968,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/371014?tp=KM",
+      "plot_en": null,
+      "plot_pt": "Antoine Doinel (Jean-Pierre L&#233;aud) decide alistar-se no ex&#233;rcito para esquecer um amor, mas acaba por ser expulso.  Emprega-se ent&#227;o como porteiro de hotel e depois como detective particular.  &#201; nessa condi&#231;&#227;o que conhece Fabienne (Delphine Seyrig), com quem tem um caso amoroso.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-07-20",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "12h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 415768,
+      "title": "Bem-Vindos Conquistadores Interplanetários e do Espaço Sideral",
+      "original_title": "Bienvenidos Conquistadores Interplanetarios y del Espacio Sideral",
+      "url": "/filme/bem-vindos-conquistadores-interplanetarios-e-do-espaco-sideral-415768",
+      "genre": null,
+      "duration_min": 90,
+      "age_rating": null,
+      "director": null,
+      "year": 2024,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823602?tp=KM",
+      "plot_en": null,
+      "plot_pt": null,
+      "showtimes": [
+        {
+          "cinema_id": 17714,
+          "sessions": [
+            {
+              "date": "2026-07-20",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h15",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 414960,
       "title": "Broken English",
       "original_title": "Broken English",
@@ -2346,11 +2481,18 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823603?tp=KM",
-      "plot_en": null,
+      "original_language": "Hindi",
+      "original_languages": [
+        "Hindi"
+      ],
+      "ratings": {
+        "imdb": "8.6",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt27548557"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTI2YTA2YzktMGUwOS00Njk3LWE0M2MtNDE4YTljNDdjNjNlXkEyXkFqcGc@._V1_QL75_UY562_CR24,0,380,562_.jpg",
+      "plot_en": "The Dhamaal boys are back and ready to chase the \"Treasure of Life,\" facing crazy challenges along the way. What starts as a treasure hunt quickly turns into a rollercoaster of hilarious misadventures.",
       "plot_pt": null,
       "showtimes": [
         {
@@ -2840,6 +2982,52 @@
       ]
     },
     {
+      "id": 19034,
+      "title": "Fahrenheit 451 - Grau de Destruição",
+      "original_title": "Fahrenheit 451",
+      "url": "/filme/grau-de-destruicao-19034",
+      "genre": null,
+      "duration_min": 110,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1966,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Russian",
+        "Japanese",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "7.2",
+        "rt_critic": "82%",
+        "metacritic": null,
+        "imdb_id": "tt0060390"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDA3ZjIxY2UtMzVmMS00NTkwLTljMzktNzk2ZWMxYzZkNGE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "In an oppressive future, a fireman whose duty is to destroy all books begins to question his task.",
+      "plot_pt": "Como seria a sociedade se a palavra escrita tivesse sido banida? Se ler fosse considerado um acto subversivo? Se todo e qualquer material impresso fosse queimado, como o s&#227;o hoje as drogas apreendidas pela pol&#237;cia aos traficantes? Se, por outro lado, as drogas fossem distribu&#237;das gratuitamente, com o objectivo de pacificar/embrutecer os cidad&#227;os? Se a televis&#227;o fosse o &#250;nico ve&#237;culo de comunica&#231;&#227;o, obviamente sem legendas, e prestando informa&#231;&#245;es totalmente controladas pela elite governamental? Esta &#233; a hist&#243;ria de &#34;Grau de Destrui&#231;&#227;o&#34;, filme que Fran&#231;ois Truffaut realizou com base num romance de Ray Bradbury, um dos escritores mais conceituados no g&#233;nero da fic&#231;&#227;o cient&#237;fica.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-07-20",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "22h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415344,
       "title": "Franz",
       "original_title": "Franz",
@@ -2997,11 +3185,18 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823432?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.3",
+        "rt_critic": null,
+        "metacritic": "49",
+        "imdb_id": "tt32104007"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTE3NDY5OWUtZmM5Ny00NDJiLTlkZDQtN2E5MWFjZWUyMDZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "A young George Washington faces war, betrayal, and impossible choices that will forge a leader.",
       "plot_pt": "Muitos anos antes de se tornar o primeiro Presidente dos EUA, cargo que exerceu entre 1789 e 1797, o jovem George Washington (1732-1799) lutou como soldado na Guerra Franco-Ind&#237;gena, que se prolongou entre 1754 e 1763.  As vit&#243;rias e derrotas que experienciou foram cruciais para moldar o seu car&#225;cter e a intelig&#234;ncia e coragem demonstradas durante o conflito chamaram a aten&#231;&#227;o dos seus superiores.",
       "showtimes": [
         {
@@ -3135,11 +3330,18 @@
       "age_rating": null,
       "director": null,
       "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823143?tp=KM",
-      "plot_en": null,
+      "original_language": "Slovenian",
+      "original_languages": [
+        "Slovenian"
+      ],
+      "ratings": {
+        "imdb": "6.6",
+        "rt_critic": "98%",
+        "metacritic": "81",
+        "imdb_id": "tt28834646"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWFhOTQ2ZjEtZDQ5OS00MGVhLWEyMDctNjA1MjdmNzE0MDM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "16-year-old Lucia joins Catholic school choir, befriends senior Ana-Maria. During choir retreat at convent, Lucia's attraction to a restoration worker creates tension with Ana-Maria and challenges her faith.",
       "plot_pt": "Lucija, de 16 anos, junta-se ao coro feminino da escola cat&#243;lica onde estuda.  Apesar da sua personalidade introvertida e solit&#225;ria, acaba por desenvolver uma liga&#231;&#227;o pr&#243;xima com Ana-Marija, uma colega um pouco mais velha e muito popular.",
       "showtimes": [
         {
@@ -3195,11 +3397,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2024,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/801232?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "5.5",
+        "rt_critic": "69%",
+        "metacritic": "58",
+        "imdb_id": "tt11762114"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzlhMTkxZWMtYzQwNi00OWI4LWI2ZGQtOWQ0OGM4NDlkYTdiXkEyXkFqcGc@._V1_QL75_UY562_CR15,0,380,562_.jpg",
+      "plot_en": "Cady Heron is a hit with the Plastics, an A-list girl clique at her new school. But everything changes when she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
       "plot_pt": "Quando Cady Heron entra pela primeira vez na Escola Secund&#225;ria de North Shore n&#227;o imaginava as inimizades que estava prestes a fazer nem as dificuldades que teria de enfrentar.  Ali, os alunos habituaram-se a seguir as ordens de Regina George, a rapariga mais popular e caprichosa do liceu e a renegar todos os que n&#227;o cumpram as regras por ela estabelecidas.",
       "showtimes": [
         {
@@ -3231,11 +3440,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822189?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.5",
+        "rt_critic": "38%",
+        "metacritic": "39",
+        "imdb_id": "tt11378946"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
       "plot_pt": "Com&#160;Jaafar&#160;Jackson, sobrinho de&#160;Michael&#160;Jackson&#8203;,&#160;a dar vida ao protagonista, o filme acompanha o percurso art&#237;stico e pessoal do artista, atravessando o contexto familiar que o fez entrar na ind&#250;stria musical com apenas cinco anos de idade, a ascens&#227;o mete&#243;rica ao lado dos&#160;The&#160;Jackson 5&#160;e o seu esfor&#231;o de continuar numa carreira a solo, sempre marcada por um excesso de exposi&#231;&#227;o medi&#225;tica.",
       "showtimes": [
         {
@@ -3332,11 +3548,18 @@
       "age_rating": "M/6",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823359?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.6",
+        "rt_critic": null,
+        "metacritic": "69",
+        "imdb_id": "tt32890033"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "plot_en": "Follows the Minions in 1920s Hollywood as they search for frightening creatures for their monster movie, partner with a green creature, and must save the planet after unleashing monsters.",
       "plot_pt": "Os M&#237;nimos s&#227;o uma comunidade de incont&#225;veis (e tresloucados) seres pequeninos, amarelos e em forma de comprimido.  Algo hiperactivos, s&#227;o dotados de um humor s&#243; compar&#225;vel &#224; sua enorme tend&#234;ncia para tropelias.",
       "showtimes": [
         {
@@ -4246,11 +4469,20 @@
       "age_rating": "M/14",
       "director": null,
       "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823169?tp=KM",
-      "plot_en": null,
+      "original_language": "Icelandic",
+      "original_languages": [
+        "Icelandic",
+        "English",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "6.8",
+        "rt_critic": "94%",
+        "metacritic": "76",
+        "imdb_id": "tt33381401"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTg3ZWYxMmUtZTU0My00Y2U5LWE4ZGMtZmZlM2E4ZTcyODc2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Captures a year in the life of a family as the parents navigate their separation. Through intimate vignettes and strange occurrences, the film explores the complexities of family, love, and the impact of shared memories.",
       "plot_pt": "Escrito e realizado por Hlynur P&#225;lmason, esta tragicom&#233;dia acompanha a lenta eros&#227;o dos la&#231;os entre um marido e uma mulher a viver numa pequena comunidade islandesa.  Apesar de pouco transparecer no dia-a-dia do casal e dos seus tr&#234;s filhos, esse afastamento vai sendo revelado em pequenos gestos que v&#227;o abrindo fissuras ao longo das quatro esta&#231;&#245;es de um &#250;nico ano.",
       "showtimes": [
         {
@@ -4359,11 +4591,18 @@
       "age_rating": "M/16",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823433?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.8",
+        "rt_critic": null,
+        "metacritic": "82",
+        "imdb_id": "tt14173636"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "plot_en": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
       "plot_pt": "Joe e Angela atravessam um per&#237;odo conturbado no seu longo casamento.  Um dia, para quebrar a rotina, ela decide convidar Hawk e Pi&#241;a, o casal que recentemente se mudou para o andar de cima, para um jantar a quatro. \r\n\r\nO que come&#231;a como um encontro descontra&#237;do entre vizinhos, rapidamente se transforma em algo bastante desconfort&#225;vel, uma vez que observar de perto a qu&#237;mica entre os convidados real&#231;a as fragilidades do seu pr&#243;prio relacionamento.",
       "showtimes": [
         {
@@ -4975,11 +5214,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822998?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.7",
+        "rt_critic": null,
+        "metacritic": "74",
+        "imdb_id": "tt15047880"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "plot_en": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
       "plot_pt": "Um especialista em ciberseguran&#231;a torna-se delator e decide revelar ao mundo inteiro, contra for&#231;as muito poderosas, que extraterrestres existem.  &#201; esta a premissa do novo filme original de Steven Spielberg escrito por David Koepp, com quem o realizador trabalhou em filmes como os dois primeiros &#34;Parque Jur&#225;ssico&#34;, &#34;Guerra dos Mundos&#34; e &#34;Indiana Jones e o Reino da Caveira de Cristal&#34;, entre outros.",
       "showtimes": [
         {
@@ -5463,11 +5709,18 @@
       "age_rating": null,
       "director": null,
       "year": 1950,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "Portuguese",
+      "original_languages": [
+        "Portuguese"
+      ],
+      "ratings": {
+        "imdb": "7.0",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0042519"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTQzMjNhOTQtNjYwNi00MGY3LThhNDMtYzhkZmMxMGQ0ZDYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "When Mr. Elias discovers that his aunt, who lives in Brazil, comes to visit him, he decides to temporarily occupy the house of a wealthy neighbor who's away so that she doesn't discover that he's not as rich as he told her.",
       "plot_pt": null,
       "showtimes": [
         {
@@ -5790,11 +6043,18 @@
       "age_rating": "M/18",
       "director": null,
       "year": 2003,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/772631?tp=KM",
-      "plot_en": null,
+      "original_language": "Korean",
+      "original_languages": [
+        "Korean"
+      ],
+      "ratings": {
+        "imdb": "8.3",
+        "rt_critic": "82%",
+        "metacritic": "78",
+        "imdb_id": "tt0364569"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must track down his captor in five days.",
       "plot_pt": "Dae-Su&#160;&#233; um homem comum, casado e com uma filha, que um dia &#233; raptado e aprisionado num quarto de hotel, sem alguma vez lhe ser dada qualquer explica&#231;&#227;o.  Quinze anos passados, ele desperta dentro de uma caixa no meio de um descampado, com dinheiro no bolso, um telem&#243;vel e um fato novo.",
       "showtimes": [
         {
@@ -5862,11 +6122,20 @@
       "age_rating": "M/6",
       "director": null,
       "year": 1964,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "German",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "7.5",
+        "rt_critic": "98%",
+        "metacritic": "96",
+        "imdb_id": "tt0058182"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWY3OGNkM2QtYWZjMi00NTVhLTkzZWQtZTcyMGNhNjczNWVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Over two \"typical\" days in the life of The Beatles, the boys struggle to keep themselves and Paul McCartney's mischievous grandfather in check while preparing for a live TV performance.",
       "plot_pt": "Com 37 anos de idade, este documentário, realizado em 1964 pelo norte-americano Richard Lester, leva-nos de volta ao universo da &quot;Beatlemania&quot;.  É um regresso aos anos 60, aos anos do yé-yé, em que os quatro fabulosos - John Lennon, Paul McCartney, George Harrison e Ringo Starr - se tornaram um verdadeiro fenómeno social e cultural.",
       "showtimes": [
         {
@@ -5878,6 +6147,49 @@
               "times": [
                 {
                   "time": "21h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 409833,
+      "title": "Paixões Que Escaldam",
+      "original_title": "The Long, Hot Summer",
+      "url": "/filme/paixoes-que-escaldam-409833",
+      "genre": null,
+      "duration_min": 115,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1958,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.3",
+        "rt_critic": "85%",
+        "metacritic": null,
+        "imdb_id": "tt0051878"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZGNhZTlkMzAtZjY2Ny00YjlhLThlOWEtOWExYTVmMzI2OWExXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Accused barn burner and conman Ben Quick arrives in a small Mississippi town and quickly ingratiates himself with its richest family, the Varners.",
+      "plot_pt": "Dirigido por Martin Ritt, que se tornaria um dos realizadores preferidos de Paul Newman, e com um argumento baseado numa mescla de tr&#234;s hist&#243;rias de William Faulkner, &quot;The Long, Hot Summer&quot; &#233; um filme cheio de &#8220;sangue novo&#8221; de uma gera&#231;&#227;o de atores (a maior parte vinda do Actors&#8217; Studio) que come&#231;ava a tomar conta do cinema americano &#8211; aqui posta em di&#225;logo com a impon&#234;ncia de Orson Welles, que interpreta, em modo de grand guignol, o papel de patriarca de uma fam&#237;lia do sul dos Estados Unidos.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-07-20",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "17h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -6093,11 +6405,21 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2007,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/412867?tp=KM",
-      "plot_en": null,
+      "original_language": "French",
+      "original_languages": [
+        "French",
+        "English",
+        "Persian",
+        "German"
+      ],
+      "ratings": {
+        "imdb": "8.0",
+        "rt_critic": "96%",
+        "metacritic": "90",
+        "imdb_id": "tt0808417"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzk3NTI2NGUtNmM1Yy00YTRmLWE2YTItZTYyNGM0ZjdjOTliXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
       "plot_pt": "&#34;Pers&#233;polis&#34; &#233; a hist&#243;ria de uma menina que cresce no Ir&#227;o durante a Revolu&#231;&#227;o isl&#226;mica, a hist&#243;ria autobiogr&#225;fica de Marjane Satrapi, que j&#225; dera origem a quatro livros de banda desenhada.  &#201; atrav&#233;s dos olhos da destemida Marjane, de nove anos, que &#233; vista a esperan&#231;a de um povo ser destru&#237;da quando os fundamentalistas tomam o poder, for&#231;ando as mulheres a usar o v&#233;u e prendendo milhares de pessoas.",
       "showtimes": [
         {
@@ -6483,11 +6805,20 @@
       "age_rating": "M/14",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822531?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "German",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "7.4",
+        "rt_critic": "96%",
+        "metacritic": "86",
+        "imdb_id": "tt1664894"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYxNDExMzUwMl5BMl5BanBnXkFtZTcwNjM2MzYwNQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Werner Herzog gains exclusive access to film inside the Chauvet caves of Southern France and captures the oldest known pictorial creations of humanity.",
       "plot_pt": "Jennifer &#233; uma filantropa norte-americana que gere uma funda&#231;&#227;o na Cidade do M&#233;xico, onde conhece Fernando, um jovem professor de bal&#233; que ambiciona deixar o pa&#237;s para construir carreira nos EUA.  Os dois envolvem-se romanticamente e Fernando acredita que, com a ajuda dela, poder&#225; encontrar o seu lugar.",
       "showtimes": [
         {
@@ -6561,11 +6892,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823216?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.1",
+        "rt_critic": null,
+        "metacritic": "49",
+        "imdb_id": "tt8814476"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Kara Zor-El, aka Supergirl, joins forces with an unlikely companion on an interstellar journey of vengeance and justice when an unexpected adversary strikes too close to home.",
       "plot_pt": "Kara Zor-El (Milly Alcock) &#233; uma das &#250;ltimas sobreviventes de Krypton e prima de Kal-El (David Corenswet), que se tornou conhecido na Terra como Super-Homem.  Perante a destrui&#231;&#227;o do seu planeta, Kara enfrenta a solid&#227;o, a mem&#243;ria de tudo o que perdeu e a dificuldade em encontrar um lugar onde se sinta acolhida.",
       "showtimes": [
         {
@@ -6614,18 +6952,25 @@
     {
       "id": 25721,
       "title": "The Rocky Horror Picture Show",
-      "original_title": null,
+      "original_title": "The Rocky Horror Picture Show",
       "url": "/filme/the-rocky-horror-picture-show-25721",
       "genre": null,
       "duration_min": 100,
       "age_rating": null,
       "director": null,
       "year": 1975,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.4",
+        "rt_critic": "81%",
+        "metacritic": "65",
+        "imdb_id": "tt0073629"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTg2YzY5ZGYtNDk1My00N2Q2LWFhN2YtZWU5YTkzODIyZGRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A rain-soaked couple take refuge in the castle of a transvestite mad scientist from outer space who is about to unveil his greatest creation.",
       "plot_pt": null,
       "showtimes": [
         {
@@ -6657,11 +7002,18 @@
       "age_rating": "M/6",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822999?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.5",
+        "rt_critic": "93%",
+        "metacritic": "73",
+        "imdb_id": "tt29355505"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
       "plot_pt": "Passados mais de 30 anos sobre a estreia de &#34;Toy Story - Os Rivais&#34;, a hist&#243;ria que se tornou um marco na vida de milh&#245;es de espectadores por todo o mundo continua neste quinto cap&#237;tulo.  Agora, a vida de Buzz Lightyear, Woody, Jessie e a sua trupe de brinquedos sofre uma grande reviravolta quando Bonnie, j&#225; com oito anos, recebe como presente o Lilypad, um sofisticado tablet interactivo com ideias bastante discut&#237;veis sobre o que &#233; ou n&#227;o divertido.",
       "showtimes": [
         {
@@ -7834,11 +8186,18 @@
       "age_rating": null,
       "director": null,
       "year": 2025,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823357?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.2",
+        "rt_critic": "94%",
+        "metacritic": "75",
+        "imdb_id": "tt33296751"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDA0ZjZjYTktZjg1MC00MDRiLWEzYjItMTQ1ZWFkOTUxNjc0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "A talented piano tuner who suffers from hyperacusis discovers an unexpected aptitude for cracking safes, turning his life upside down.",
       "plot_pt": "Niki White (Leo Woodall) sofre de hiperacusia, uma perturba&#231;&#227;o auditiva que provoca hipersensibilidade a sons que, para a maioria das pessoas, s&#227;o perfeitamente toler&#225;veis.  Essa extrema sensibilidade obrigou-o a deixar de tocar piano e a usar protec&#231;&#227;o nos ouvidos, mas fez dele um afinador de pianos extraordinariamente dotado.",
       "showtimes": [
         {
@@ -7994,11 +8353,18 @@
       "age_rating": null,
       "director": null,
       "year": 2008,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "2.9",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0494249"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzE2Y2FiY2YtNGU4Mi00ZWY5LWFiYWYtMjM0Y2I2MjUwODgzXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
+      "plot_en": "How would you react if three years after the death of your father, you receive a letter signed by him inviting you to visit an abandoned house in the middle of nowhere in China? Curious in nature, you decide to set off on this adv...",
       "plot_pt": null,
       "showtimes": [
         {
@@ -8030,11 +8396,18 @@
       "age_rating": null,
       "director": null,
       "year": 1957,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "8.2",
+        "rt_critic": "95%",
+        "metacritic": "72",
+        "imdb_id": "tt0050371"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmFjNzllOTEtNTE0Mi00NDI4LWE3NzItMjhlM2Y5MWEzZTQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Female radio reporter Marcia Jeffries turns folk-singing drifter Larry \"Lonesome\" Rhodes into a powerful media star who becomes utterly detestable during his meteoric rise.",
       "plot_pt": "Uma poderosa denúncia do poder manipulador da televisão ao serviço da demagogia.  Um jovem \"entertainer\" de província torna-se conhecido e conquista a fama e a popularidade.  O poder sobe-lhe à cabeça até que o meio que o fez o destrói.  Trata-se, de certo modo, de uma sátira ao senador McCarthy, também ele promovido e destruído pela televisão.",
       "showtimes": [
         {
@@ -9310,11 +9683,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823213?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.7",
+        "rt_critic": null,
+        "metacritic": "69",
+        "imdb_id": "tt32547691"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjkwMTkwYzItNTg4MC00OTc2LTk2Y2EtOGU3ZGE0NmQyYzdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "In the tense 72 hours before D-Day, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice--launch the most dangerous seaborne invasion in history or risk losing the war altogether.",
       "plot_pt": "Nos tr&#234;s dias anteriores ao desembarque dos aliados na Normandia, fundamental para a derrota das for&#231;as nazis, houve uma previs&#227;o que, caso tivesse falhado, teria alterado o rumo da Segunda Grande Guerra. \r\n\r\nRespons&#225;vel pela avalia&#231;&#227;o meteorol&#243;gica, um factor determinante para o sucesso da opera&#231;&#227;o, o capit&#227;o James Martin Stagg (1900-1975), considerado o melhor meteorologista do Reino Unido, deparou-se com o aproximar de duas grandes tempestades para o dia 5 de Junho de 1944, a data previamente marcada.",
       "showtimes": [
         {
@@ -9670,11 +10050,18 @@
       "age_rating": "M/14",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822933?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "5.2",
+        "rt_critic": null,
+        "metacritic": "38",
+        "imdb_id": "tt32093575"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTJjMDk1NzAtMGVmNS00NTFmLWFlOTQtZDk5M2I2NjZiZDdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Two friends find themselves caught up in mayhem involving killers, monsters and supernatural creatures once again.",
       "plot_pt": "Vinte e seis anos depois de terem sobrevivido a uma s&#233;rie de ataques cometidos por um implac&#225;vel assassino mascarado, Cindy, Brenda, Shorty e Ray deparam-se com uma nova vaga de viol&#234;ncia. \r\nSexto filme da saga &#8220;Scary Movie&#8221; (iniciada no ano 2000), uma par&#243;dia intencionalmente exagerada a alguns filmes de terror (e n&#227;o s&#243;) que dominaram o &#8220;box office&#8221; dos &#250;ltimos anos, sejam eles prequelas, sequelas, &#8220;reboots&#8221;, &#8220;spin-offs&#8221;, os seus legados ou cap&#237;tulos finais.",
       "showtimes": [
         {
@@ -9943,11 +10330,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 1958,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823541?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.6",
+        "rt_critic": "75%",
+        "metacritic": "73",
+        "imdb_id": "tt0052293"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWMyMjJiZDEtY2Y0Ny00ZDkzLWFiNzMtY2UwZGFmMGFlMDBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A veteran comes home from the Korean War to the mountains and takes over the family moonshining business. He has to battle big-city gangsters who are trying to take over the business and the police who are trying to put him in pri...",
       "plot_pt": "&#34;Thunder Road&#34; &#233; a hist&#243;ria de um veterano que regressa ap&#243;s a Guerra da Coreia e assume o neg&#243;cio de fam&#237;lia de produ&#231;&#227;o de aguardente ilegal, enfrentando agentes federais e mafiosos das grandes cidades sulistas.",
       "showtimes": [
         {
@@ -9979,11 +10373,19 @@
       "age_rating": "M/12",
       "director": null,
       "year": 1964,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "",
-      "plot_en": null,
+      "original_language": "German",
+      "original_languages": [
+        "German",
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.1",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0057380"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjU5MWQxMjItMDYzOS00NDcyLTljOWItYjNkMmM1N2E0MDUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Renegades trying to get the army to abandon their fort get the Indians addicted to whiskey, then convince them to attack and drive out the soldiers.",
       "plot_pt": "Baseado na s&#233;rie liter&#225;ria Winnetou criada pelo escritor alem&#227;o Karl May no final do s&#233;culo XIX, sobre a amizade entre um nativo americano e um emigrante alem&#227;o (alter ego do pr&#243;prio autor), &#34;Old Shatterhand&#34;&#160;pertence ao per&#237;odo em que o realizador, nas palavras de Wheeler W.",
       "showtimes": [
         {
@@ -10015,11 +10417,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 1954,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823540?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.8",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0047388"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTRmZjMzZGMtOWJiOC00OTg2LWExZTQtN2RkZmYxNDczYjJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A group of Confederate prisoners escape to Canada and plan to rob the banks and set fire to the small town of Saint Albans, Vermont. To get the lay of the land, their leader spends a few days in the town and finds he is getting dr...",
       "plot_pt": "Num per&#237;odo em que o cinema americano raramente se dedicava &#224;s opera&#231;&#245;es militares da Guerra civil - com exce&#231;&#245;es como &#34;The&#160;Red&#160;Badge&#160;of Courage&#34; de John Huston ou epis&#243;dios dispersos na obra de Ford - &#34;The Raid&#34; retrata um grupo de confederados fugidos de uma pris&#227;o, que, a partir do Canad&#225; em 1864, se envolve em ac&#231;&#245;es de infiltra&#231;&#227;o e sabotagem num contexto de crescente radicaliza&#231;&#227;o da estrat&#233;gia sulista.",
       "showtimes": [
         {
@@ -10051,11 +10460,19 @@
       "age_rating": null,
       "director": null,
       "year": 1949,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823539?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "7.0",
+        "rt_critic": "55%",
+        "metacritic": null,
+        "imdb_id": "tt0041158"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTNlY2EzMDQtYTdkYy00MmI4LTk3MmMtY2E5MjY0NTljYzUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A married musical team splits up so the wife can become a serious actress.",
       "plot_pt": "O reencontro de Fred Astaire e Ginger Rogers ap&#243;s um interregno de dez anos, &#34;The Barkleys of Broadway&#34; &#233; tamb&#233;m o &#250;ltimo filme do lend&#225;rio par, no papel de um casal de actores e bailarinos cuja vida profissional e conjugal entra em crise quando ela decide seguir uma carreira individual - no que pode ser visto como uma &#34;imita&#231;&#227;o&#34; da vida real.",
       "showtimes": [
         {
@@ -10087,11 +10504,18 @@
       "age_rating": null,
       "director": null,
       "year": 1997,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/418932?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "8.2",
+        "rt_critic": "94%",
+        "metacritic": "90",
+        "imdb_id": "tt0120382"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
       "plot_pt": "Truman Burbank &#233; um homem normal, que vive uma vida normal, numa cidade normal.  &#201; casado com uma mulher comum e trabalha numa companhia de seguros.  O que ele n&#227;o sabe &#233; que a sua vida &#233; transmitida em directo desde o dia em que nasceu, que todos os seus conhecidos e amigos s&#227;o actores e que a cidadezinha onde habita &#233; um gigantesco est&#250;dio.",
       "showtimes": [
         {
@@ -10218,11 +10642,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822738?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.5",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt42369871"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWIzNzEyYjQtMDQ3NS00YzU0LWIwZGMtYjI2YWY1NmIwNDRkXkEyXkFqcGc@._V1_QL75_UY562_CR311,0,380,562_.jpg",
+      "plot_en": "A 4-episode special look series at \"Star Wars: The Mandalorian and Grogu\", only in theaters.",
       "plot_pt": "&lt;p&gt;Depois da queda do Imp&#233;rio, Din Djarin, um solit&#225;rio ca&#231;ador de recompensas mandaloriano, continua a atravessar os confins da gal&#225;xia ao lado do seu jovem companheiro Grogu.  Agora ao servi&#231;o da Nova Rep&#250;blica, fundada para restaurar a ordem e a paz, os dois s&#227;o chamados para uma miss&#227;o que os levar&#225; a enfrentar for&#231;as do antigo Imp&#233;rio.",
       "showtimes": [
         {
