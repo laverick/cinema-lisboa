@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T09:35:21.583352Z",
+  "last_updated": "2026-07-23T12:02:31.151292Z",
   "scrape_date": "2026-07-23",
   "movies": [
     {
@@ -5911,6 +5911,51 @@
               "times": [
                 {
                   "time": "21h15",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25155,
+      "title": "Lawrence da Arábia",
+      "original_title": "Lawrence of Arabia",
+      "url": "/filme/lawrence-da-arabia-25155",
+      "genre": null,
+      "duration_min": 187,
+      "age_rating": null,
+      "director": null,
+      "year": 1962,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Arabic",
+        "Turkish"
+      ],
+      "ratings": {
+        "imdb": "8.3",
+        "rt_critic": "93%",
+        "metacritic": "100",
+        "imdb_id": "tt0056172"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+      "plot_pt": "&lt;p&gt;Lawrence (Peter O''Toole) &#233; um militar brit&#226;nico que, em 1916, em plena I Guerra Mundial, &#233; encarregue pelo governo do seu pa&#237;s de uma miss&#227;o quase imposs&#237;vel: unificar as tribos &#225;rabes que vivem na zona que &#233; hoje conhecida como Ar&#225;bia Saudita, levando-as a combater o ex&#233;rcito turco.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-07-19",
+              "day_label": "DOMINGO",
+              "times": [
+                {
+                  "time": "20h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
