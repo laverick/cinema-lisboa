@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T12:02:31.151292Z",
+  "last_updated": "2026-07-23T14:29:55.724980Z",
   "scrape_date": "2026-07-23",
   "movies": [
     {
@@ -4083,13 +4083,13 @@
       "url": "/filme/ange-415421",
       "genre": null,
       "duration_min": 97,
-      "age_rating": null,
+      "age_rating": "M/12",
       "director": null,
       "year": 2025,
       "original_language": null,
       "original_languages": [],
       "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822559?tp=KM",
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823681?tp=KM",
       "plot_en": null,
       "plot_pt": "Neste &#34;road movie&#34; banhado a m&#250;sica do franc&#234;s Tony Gatlif, um m&#250;sico de 60 anos decide, de repente, reunir-se com um amigo com quem se chateou para fazer as pazes com ele.  Parte, ent&#227;o, com a filha de um antigo amor para o encontrar.",
       "showtimes": [
@@ -14627,6 +14627,42 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 415721,
+      "title": "Sophia Setembro de 1963",
+      "original_title": "Sophia Setembro de 1963",
+      "url": "/filme/sophia-setembro-1963-415721",
+      "genre": null,
+      "duration_min": 1290,
+      "age_rating": null,
+      "director": null,
+      "year": 2026,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823521?tp=KM",
+      "plot_en": null,
+      "plot_pt": null,
+      "showtimes": [
+        {
+          "cinema_id": 17714,
+          "sessions": [
+            {
+              "date": "2026-07-22",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
                 }
               ]
             }
