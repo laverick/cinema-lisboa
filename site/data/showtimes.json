@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T18:12:42.856576Z",
+  "last_updated": "2026-07-26T19:33:41.529813Z",
   "scrape_date": "2026-07-26",
   "movies": [
     {
@@ -4404,6 +4404,42 @@
               "times": [
                 {
                   "time": "20h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 415461,
+      "title": "Leibniz - Crónica de Uma Pintura Perdida",
+      "original_title": "Leibniz: Chronik eines verschollenen Bildes",
+      "url": "/filme/leibniz-cronica-pintura-perdida-415461",
+      "genre": null,
+      "duration_min": 104,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 2025,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822759?tp=KM",
+      "plot_en": null,
+      "plot_pt": "Han&#244;ver, Alemanha, in&#237;cio do s&#233;culo XVIII.  Admiradora das artes, da filosofia e da m&#250;sica, a rainha Sofia Carlota (1668-1705) mantinha uma rela&#231;&#227;o de grande admira&#231;&#227;o com o fil&#243;sofo Gottfried Wilhelm Leibniz (1646-1716), de quem tinha sido aluna.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-07-29",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "18h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
