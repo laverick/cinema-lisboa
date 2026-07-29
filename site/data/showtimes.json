@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T06:44:06.318130Z",
+  "last_updated": "2026-07-29T09:48:39.590297Z",
   "scrape_date": "2026-07-29",
   "movies": [
     {
@@ -2573,7 +2573,7 @@
       "url": "/filme/portuguese-love-415655",
       "genre": null,
       "duration_min": 104,
-      "age_rating": null,
+      "age_rating": "M/12",
       "director": null,
       "year": 2026,
       "original_language": "Turkish",
@@ -3569,7 +3569,7 @@
       "url": "/filme/homemaranha-novo-dia-415715",
       "genre": null,
       "duration_min": 145,
-      "age_rating": null,
+      "age_rating": "M/12",
       "director": null,
       "year": 2026,
       "original_language": null,
@@ -3579,41 +3579,6 @@
       "plot_en": null,
       "plot_pt": "Passaram quatro anos desde os eventos de &#34;Homem-Aranha: Sem Volta a Casa&#34;, em que Peter Parker (Tom Holland), o Homem-Aranha, se apagou a ele pr&#243;prio da mem&#243;ria de todas as suas pessoas mais pr&#243;ximas e da cidade em que vive e tenta sempre defender, Nova Iorque.",
       "showtimes": [
-        {
-          "cinema_id": 169327,
-          "sessions": [
-            {
-              "date": "2026-07-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
         {
           "cinema_id": 187898,
           "sessions": [
@@ -3641,99 +3606,6 @@
                 },
                 {
                   "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 221112,
-          "sessions": [
-            {
-              "date": "2026-07-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-07-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-07-29",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "01h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
