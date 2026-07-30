@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T14:30:33.257120Z",
+  "last_updated": "2026-07-30T16:47:17.873245Z",
   "scrape_date": "2026-07-30",
   "movies": [
     {
@@ -15705,6 +15705,177 @@
                 },
                 {
                   "time": "15h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 415724,
+      "title": "Patrulha Pata: O Filme dos Dinossauros",
+      "original_title": "PAW Patrol: The Dino Movie",
+      "url": "/filme/patrulha-pata-filme-dinossauros-415724",
+      "genre": null,
+      "duration_min": 88,
+      "age_rating": null,
+      "director": null,
+      "year": 2026,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823565?tp=KM",
+      "plot_en": null,
+      "plot_pt": null,
+      "showtimes": [
+        {
+          "cinema_id": 54418,
+          "sessions": [
+            {
+              "date": "2026-07-26",
+              "day_label": "DOMINGO",
+              "times": [
+                {
+                  "time": "16h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-01",
+              "day_label": "SÁBADO",
+              "times": [
+                {
+                  "time": "16h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 169327,
+          "sessions": [
+            {
+              "date": "2026-07-26",
+              "day_label": "DOMINGO",
+              "times": [
+                {
+                  "time": "11h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "13h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "15h30",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-01",
+              "day_label": "SÁBADO",
+              "times": [
+                {
+                  "time": "11h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "13h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "15h30",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 221112,
+          "sessions": [
+            {
+              "date": "2026-07-26",
+              "day_label": "DOMINGO",
+              "times": [
+                {
+                  "time": "11h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "13h35",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-01",
+              "day_label": "SÁBADO",
+              "times": [
+                {
+                  "time": "11h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "13h35",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 230335,
+          "sessions": [
+            {
+              "date": "2026-07-26",
+              "day_label": "DOMINGO",
+              "times": [
+                {
+                  "time": "13h45",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-01",
+              "day_label": "SÁBADO",
+              "times": [
+                {
+                  "time": "13h45",
                   "dubbed": true,
                   "tech_format": null,
                   "inferred_vo": false
