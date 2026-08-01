@@ -1,7 +1,50 @@
 {
-  "last_updated": "2026-08-01T03:48:21.020518Z",
+  "last_updated": "2026-08-01T06:40:24.863504Z",
   "scrape_date": "2026-08-01",
   "movies": [
+    {
+      "id": 415809,
+      "title": "A Felicidade",
+      "original_title": "Le Bonheur",
+      "url": "/filme/a-felicidade-415809",
+      "genre": null,
+      "duration_min": 80,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1965,
+      "original_language": "French",
+      "original_languages": [
+        "French"
+      ],
+      "ratings": {
+        "imdb": "7.0",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0145682"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjMwODU4NzI4N15BMl5BanBnXkFtZTgwODc1NjM5MjE@._V1_SX300.jpg",
+      "plot_en": "Injured by anarchist Philippe Lucher, film actress Clara Stuart falls in love with her attacker and decides to plead in his favor at his trial.",
+      "plot_pt": null,
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-08-01",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "20h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 415642,
       "title": "A Noite de Alaíde",
@@ -3299,6 +3342,42 @@
       ]
     },
     {
+      "id": 414960,
+      "title": "Broken English",
+      "original_title": "Broken English",
+      "url": "/filme/broken-english-414960",
+      "genre": null,
+      "duration_min": 99,
+      "age_rating": "M/14",
+      "director": null,
+      "year": 2025,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/821287?tp=KM",
+      "plot_en": null,
+      "plot_pt": "Marianne Faithfull (1946-2025) foi uma das vozes mais singulares da m&#250;sica brit&#226;nica.  Figura incontorn&#225;vel durante os anos 1960, atravessou seis d&#233;cadas de cria&#231;&#227;o art&#237;stica, com mais de 20 &#225;lbuns de est&#250;dio lan&#231;ados e uma constante reinven&#231;&#227;o de si pr&#243;pria.",
+      "showtimes": [
+        {
+          "cinema_id": 17714,
+          "sessions": [
+            {
+              "date": "2026-08-01",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415716,
       "title": "De Mãos Atadas",
       "original_title": "La Silla",
@@ -3372,6 +3451,51 @@
               "times": [
                 {
                   "time": "16h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 415414,
+      "title": "Dois Procuradores",
+      "original_title": "Two Prosecutors",
+      "url": "/filme/dois-procuradores-415414",
+      "genre": null,
+      "duration_min": 118,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 2025,
+      "original_language": "Russian",
+      "original_languages": [
+        "Russian",
+        "Ukrainian",
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.1",
+        "rt_critic": "97%",
+        "metacritic": "84",
+        "imdb_id": "tt35521200"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWUxNWEzNzYtNzc3Ny00NGJkLThmMDYtNmRmODAwMDNlYjBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "In the USSR in 1937, a newly appointed prosecutor discovers an undestroyed letter from a prisoner that reveals corruption in the secret police, the NKVD. His search for the truth becomes dangerous.",
+      "plot_pt": "Na Uni&#227;o Sovi&#233;tica de 1937, durante as terr&#237;veis purgas estalinistas, Alexander Kornev, um jovem procurador, recebe uma carta de um prisioneiro pol&#237;tico perseguido pela NKVD (Comissariado do Povo para os Assuntos Internos), a pol&#237;cia secreta.",
+      "showtimes": [
+        {
+          "cinema_id": 17714,
+          "sessions": [
+            {
+              "date": "2026-08-01",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -3598,6 +3722,49 @@
               "times": [
                 {
                   "time": "00h10",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20325,
+      "title": "Fúria de Viver",
+      "original_title": "Rebel Without a Cause",
+      "url": "/filme/furia-de-viver-20325",
+      "genre": null,
+      "duration_min": 107,
+      "age_rating": "M/16",
+      "director": null,
+      "year": 1955,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.6",
+        "rt_critic": "91%",
+        "metacritic": "89",
+        "imdb_id": "tt0048545"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2QzZWUzODQtODUyZi00NDBlLTgzMGEtY2UzNmZhYzI0MTEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies.",
+      "plot_pt": "&#201; um dos mais m&#237;ticos filmes do cinema americano, e foi o filme que construiu, definitivamente, o mito de James Dean que j&#225; tinha morrido quando &#34;o filme se estreou na Am&#233;rica.  Mas dizer que &#34;&#233; um filme de James Dean&#34; &#233; pouco, j&#225; que tamb&#233;m l&#225; est&#227;o Natalie Wood e Sal Mineo.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-08-01",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -3946,6 +4113,49 @@
             {
               "date": "2026-07-26",
               "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "22h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19310,
+      "title": "Johnny Guitar",
+      "original_title": "Johnny Guitar",
+      "url": "/filme/johnny-guitar-19310",
+      "genre": null,
+      "duration_min": 110,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1954,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.6",
+        "rt_critic": "94%",
+        "metacritic": "83",
+        "imdb_id": "tt0047136"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjUyMWFlYTAtZjBjMS00ZDRjLWFhYWYtMGY2Mjc5YzI4OTMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "After helping a wounded gang member, a strong-willed female saloon owner is wrongly suspected of murder and bank robbery by a lynch mob.",
+      "plot_pt": "&lt;p&gt;Oportunidade para ver ou rever uma obra-prima de Nicholas Ray, um muito amado western baptizado com o nome do seu her&#243;i, um guitarrista ex-pistoleiro, mas dominado por uma potente Vienna, a quem Joan Crawford d&#225; corpo e alma.  No tempo dos cowboys, j&#225; com os caminhos-de-ferro a fumegarem por novos trilhos, Vienna abre um belo saloon nos arredores de uma cidade do Arizona, mesmo &#224; beira de uma planeada ferrovia, &#224; volta da qual ela sonha erigir uma nova cidade.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-08-01",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "22h00",
@@ -6051,6 +6261,42 @@
       ]
     },
     {
+      "id": 18294,
+      "title": "O Acossado",
+      "original_title": "À Bout de Souffle",
+      "url": "/filme/o-acossado-18294",
+      "genre": null,
+      "duration_min": 87,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1959,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/706387?tp=KM",
+      "plot_en": null,
+      "plot_pt": "Ao lado de &quot;Les 400 Coups&quot;, o outro grande &quot;filme-s&#237;mbolo'' da Nouvelle Vague, e tamb&#233;m o primeiro sinal de que, como escreveu Serge Daney, este novo cinema n&#227;o s&#243; n&#227;o se contentava em sacudir o &quot;antigo&quot; como amea&#231;ava, literalmente, destrui-lo.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-08-01",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "18h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415567,
       "title": "O Convite",
       "original_title": "The Invite",
@@ -7486,6 +7732,97 @@
       ]
     },
     {
+      "id": 23162,
+      "title": "Os Marginais",
+      "original_title": "The Outsiders",
+      "url": "/filme/os-marginais-23162",
+      "genre": null,
+      "duration_min": 91,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1983,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.0",
+        "rt_critic": "71%",
+        "metacritic": "45",
+        "imdb_id": "tt0086066"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODlmMzZjZDEtOTUwOS00OTAwLTg2YzAtYTA4ZTk3ZWNjMTgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "In Tulsa, Oklahoma in 1964, the rivalry between two gangs, the poor Greasers and the rich Socs, heats up when one gang member accidentally kills a member of the other.",
+      "plot_pt": "Coppola realizou &quot;Os Marginais&quot; a partir do romance &quot;The Outsiders&quot;, escrito por uma adolescente de 17 anos.  O filme retoma o tema da rivalidade entre grupos de jovens que vivem entregues a si pr&#243;prios e sem grandes perspectivas de futuro.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-08-01",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "18h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26868,
+      "title": "Os Respigadores e a Respigadora",
+      "original_title": "Les Glaneurs et la Glaneuse",
+      "url": "/filme/os-respigadores-e-a-respigadora-26868",
+      "genre": null,
+      "duration_min": 82,
+      "age_rating": null,
+      "director": null,
+      "year": 1999,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/132324?tp=KM",
+      "plot_en": null,
+      "plot_pt": "Numa sucessão de quadros de Millet, Breton, Hédouin, mas também numa sucessão de planos cinematográficos, Agnès Varda, uma das caras da \"Nouvelle Vague\" francesa, lança um olhar sobre os respigadores actuais, aqueles que apanham para não desperdiçar, os que rebuscam nas sobras dos mercados, os que procuram restos nos caixotes do lixo para comer.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-07-27",
+              "day_label": "SEGUNDA",
+              "times": [
+                {
+                  "time": "16h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-08-01",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "16h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 185167,
       "title": "Persépolis",
       "original_title": "Persepolis",
@@ -7697,6 +8034,42 @@
               "times": [
                 {
                   "time": "13h40",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31510,
+      "title": "Rocco e os Seus Irmãos",
+      "original_title": "Rocco e i suoi fratelli",
+      "url": "/filme/rocco-e-seus-irmaos-31510",
+      "genre": null,
+      "duration_min": 165,
+      "age_rating": "M/16",
+      "director": null,
+      "year": 1960,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "",
+      "plot_en": null,
+      "plot_pt": "A quest&#227;o da emigra&#231;&#227;o e do desenraizamento cultural numa das obra-primas de Visconti.  Uma fam&#237;lia meridional parte para o norte industrializado da It&#225;lia, onde cada um dos irm&#227;os que a comp&#245;em conhecer&#225; o seu destino: conformismo, naufr&#225;gio, santidade laica.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-08-01",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "10h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -14550,16 +14923,6 @@
   ],
   "cinemas": [
     {
-      "id": 414017,
-      "name": "Cinecapitólio Rooftop",
-      "chain": "Other",
-      "region": "Lisboa",
-      "location": "Lisboa",
-      "lat": null,
-      "lng": null,
-      "chain_url": ""
-    },
-    {
       "id": 221112,
       "name": "Cinema City Alvalade",
       "chain": "Cinema City",
@@ -14578,16 +14941,6 @@
       "lat": 38.7414,
       "lng": -9.1462,
       "chain_url": "https://cinemacity.pt/"
-    },
-    {
-      "id": 270072,
-      "name": "Cinema Fernando Lopes",
-      "chain": "Independent",
-      "region": "Lisboa",
-      "location": "Lisboa",
-      "lat": 38.725,
-      "lng": -9.15,
-      "chain_url": ""
     },
     {
       "id": 17714,
