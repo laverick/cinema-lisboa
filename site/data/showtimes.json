@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T03:51:37.351985Z",
+  "last_updated": "2026-08-03T07:43:28.367637Z",
   "scrape_date": "2026-08-03",
   "movies": [
     {
@@ -72,11 +72,19 @@
       "age_rating": "M/14",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823435?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Greek"
+      ],
+      "ratings": {
+        "imdb": "8.5",
+        "rt_critic": null,
+        "metacritic": "88",
+        "imdb_id": "tt33764258"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
       "plot_pt": "Christopher Nolan &#8211; realizador de &#34;Memento&#34;, &#34;A Origem&#34;, &#34;O Terceiro Passo&#34;, &#34;Interstellar&#34;, &#8220;Dunkirk&#8221;, &#34;Tenet&#34; ou &#8220;Oppenheimer&#8221; &#8211; assina a adapta&#231;&#227;o para o grande ecr&#227; de um dos mais importantes poemas &#233;picos da Gr&#233;cia Antiga, totalmente filmada usando a nova tecnologia Imax.",
       "showtimes": [
         {
@@ -1555,11 +1563,18 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823572?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "5.5",
+        "rt_critic": null,
+        "metacritic": "53",
+        "imdb_id": "tt29516222"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2RjZWRiMDgtOTZiMy00M2MxLWI2M2MtMDU4ODc3MGNhM2E0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "A group of international passengers en route from Los Angeles to Shanghai are forced to make an emergency landing in shark-infested waters. Now they must work together in hopes to overcome the frenzy of sharks drawn to the wreckage.",
       "plot_pt": "Um voo que vai de Los Angeles, nos Estados Unidos, at&#233; Xangai, na China, despenha-se no meio do Oceano Pac&#237;fico, isto depois de um fogo no por&#227;o.  A tripula&#231;&#227;o e os passageiros, que batem num coral e acabam divididos em tr&#234;s sec&#231;&#245;es, v&#234;em-se assim obrigados a sobreviver, com a amea&#231;a de tubar&#245;es mort&#237;feros a pairar sob eles.",
       "showtimes": [
         {
@@ -1952,11 +1967,22 @@
       "age_rating": "M/14",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822757?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Portuguese",
+        "Turkish",
+        "Arabic",
+        "Japanese"
+      ],
+      "ratings": {
+        "imdb": "7.0",
+        "rt_critic": null,
+        "metacritic": "77",
+        "imdb_id": "tt26657236"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "After a therapist's patient disappears into a dimension beyond reality, she must venture into the unknown to save him.",
       "plot_pt": "Partindo do universo das &#34;creepypastas&#34; &#8212; hist&#243;rias curtas de terror que circulam e se propagam pela internet &#8212; e de uma lenda urbana surgida em 2019, o filme explora as backrooms, uma suposta dimens&#227;o paralela onde algumas pessoas acabam inexplicavelmente aprisionadas.",
       "showtimes": [
         {
@@ -2052,6 +2078,49 @@
               "times": [
                 {
                   "time": "16h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 78482,
+      "title": "Esplendor na Relva",
+      "original_title": "Splendor in the Grass",
+      "url": "/filme/esplendor-na-relva-78482",
+      "genre": null,
+      "duration_min": 124,
+      "age_rating": null,
+      "director": null,
+      "year": 1961,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.7",
+        "rt_critic": "75%",
+        "metacritic": "74",
+        "imdb_id": "tt0055471"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2RkM2EzNDMtM2I4Mi00M2YzLWI5YWMtYmRjMmZmMmE4ZTMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "The love of high school sweethearts Deanie and Bud is weighed down by the oppressive expectations of their parents and society in smalltown Kansas in 1928, threatening the future of their relationship.",
+      "plot_pt": "&quot;Splendor in the Grass&quot; adapta uma peça de William Inge que gira à volta dos recalcamentos sexuais (como acontecia em &quot;Picnic&quot;, peça do mesmo autor, também adaptada ao cinema).  Neste caso, as personagens são dois adolescentes à descoberta do amor no fim da década de 20.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-08-03",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "19h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -2200,6 +2269,52 @@
       ]
     },
     {
+      "id": 19034,
+      "title": "Fahrenheit 451 - Grau de Destruição",
+      "original_title": "Fahrenheit 451",
+      "url": "/filme/grau-de-destruicao-19034",
+      "genre": null,
+      "duration_min": 110,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1966,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Russian",
+        "Japanese",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "7.2",
+        "rt_critic": "82%",
+        "metacritic": null,
+        "imdb_id": "tt0060390"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDA3ZjIxY2UtMzVmMS00NTkwLTljMzktNzk2ZWMxYzZkNGE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "In an oppressive future, a fireman whose duty is to destroy all books begins to question his task.",
+      "plot_pt": "Como seria a sociedade se a palavra escrita tivesse sido banida? Se ler fosse considerado um acto subversivo? Se todo e qualquer material impresso fosse queimado, como o s&#227;o hoje as drogas apreendidas pela pol&#237;cia aos traficantes? Se, por outro lado, as drogas fossem distribu&#237;das gratuitamente, com o objectivo de pacificar/embrutecer os cidad&#227;os? Se a televis&#227;o fosse o &#250;nico ve&#237;culo de comunica&#231;&#227;o, obviamente sem legendas, e prestando informa&#231;&#245;es totalmente controladas pela elite governamental? Esta &#233; a hist&#243;ria de &#34;Grau de Destrui&#231;&#227;o&#34;, filme que Fran&#231;ois Truffaut realizou com base num romance de Ray Bradbury, um dos escritores mais conceituados no g&#233;nero da fic&#231;&#227;o cient&#237;fica.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-08-03",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "18h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415720,
       "title": "Her Private Hell",
       "original_title": "Her Private Hell",
@@ -2209,11 +2324,18 @@
       "age_rating": "M/16",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823477?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "3.8",
+        "rt_critic": null,
+        "metacritic": "38",
+        "imdb_id": "tt36629665"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjkwNTUwZTAtZmNjNS00OTlkLTg3ZTEtNjVkMmRmYjIzZWM5XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "plot_en": "A hypnotic, unhinged thriller with an original story promising plenty of glamour, sex, and violence.",
       "plot_pt": "Numa cidade futurista, uma neblina cobre tudo.  Um jovem actriz filma uma hist&#243;ria de fic&#231;&#227;o cient&#237;fica e um soldado americano parte em busca da filha, que desapareceu.  Estes dois acabam por se juntar neste filme do dinamarqu&#234;s Nicolas Winding Refn (&#34;Pusher&#34;, &#34;Bronson&#34;, &#34;Drive&#34;, &#34;O Dem&#243;nio de Neon&#34;) com Charles Melton, Sophia Thatcher, Havana Rose Liu, Dougray Scott, Diego Calva ou Hidetoshi Nishijima.",
       "showtimes": [
         {
@@ -3650,11 +3772,18 @@
       "age_rating": "M/16",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823433?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.8",
+        "rt_critic": null,
+        "metacritic": "82",
+        "imdb_id": "tt14173636"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "plot_en": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
       "plot_pt": "Joe e Angela atravessam um per&#237;odo conturbado no seu longo casamento.  Um dia, para quebrar a rotina, ela decide convidar Hawk e Pi&#241;a, o casal que recentemente se mudou para o andar de cima, para um jantar a quatro. \r\n\r\nO que come&#231;a como um encontro descontra&#237;do entre vizinhos, rapidamente se transforma em algo bastante desconfort&#225;vel, uma vez que observar de perto a qu&#237;mica entre os convidados real&#231;a as fragilidades do seu pr&#243;prio relacionamento.",
       "showtimes": [
         {
@@ -4161,6 +4290,42 @@
       ]
     },
     {
+      "id": 96459,
+      "title": "O Crime do Sr. Lange",
+      "original_title": "Le Crime de Monsieur Lange",
+      "url": "/filme/le-crime-de-monsieur-lange-96459",
+      "genre": null,
+      "duration_min": 90,
+      "age_rating": null,
+      "director": null,
+      "year": 1935,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/697238?tp=KM",
+      "plot_en": null,
+      "plot_pt": "A &#250;nica colabora&#231;&#227;o de Pr&#233;vert com Renoir resultou numa das grandes e ousadas obras-primas do realizador, no seu per&#237;odo mais fecundo.  O filme &#233; politicamente ousado, pois o Sr.  Lange mata o (simpatiqu&#237;ssimo) patife que roubara o dinheiro de uma pequena editora em cooperativa e &#233; inocentado por aqueles a quem conta o seu crime.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-08-03",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "14h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415536,
       "title": "O Dia da Revelação",
       "original_title": "Disclosure Day",
@@ -4170,11 +4335,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822998?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.5",
+        "rt_critic": null,
+        "metacritic": "74",
+        "imdb_id": "tt15047880"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "plot_en": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
       "plot_pt": "Um especialista em ciberseguran&#231;a torna-se delator e decide revelar ao mundo inteiro, contra for&#231;as muito poderosas, que extraterrestres existem.  &#201; esta a premissa do novo filme original de Steven Spielberg escrito por David Koepp, com quem o realizador trabalhou em filmes como os dois primeiros &#34;Parque Jur&#225;ssico&#34;, &#34;Guerra dos Mundos&#34; e &#34;Indiana Jones e o Reino da Caveira de Cristal&#34;, entre outros.",
       "showtimes": [
         {
@@ -4579,11 +4751,21 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2007,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/412867?tp=KM",
-      "plot_en": null,
+      "original_language": "French",
+      "original_languages": [
+        "French",
+        "English",
+        "Persian",
+        "German"
+      ],
+      "ratings": {
+        "imdb": "8.0",
+        "rt_critic": "96%",
+        "metacritic": "90",
+        "imdb_id": "tt0808417"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzk3NTI2NGUtNmM1Yy00YTRmLWE2YTItZTYyNGM0ZjdjOTliXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
       "plot_pt": "&#34;Pers&#233;polis&#34; &#233; a hist&#243;ria de uma menina que cresce no Ir&#227;o durante a Revolu&#231;&#227;o isl&#226;mica, a hist&#243;ria autobiogr&#225;fica de Marjane Satrapi, que j&#225; dera origem a quatro livros de banda desenhada.  &#201; atrav&#233;s dos olhos da destemida Marjane, de nove anos, que &#233; vista a esperan&#231;a de um povo ser destru&#237;da quando os fundamentalistas tomam o poder, for&#231;ando as mulheres a usar o v&#233;u e prendendo milhares de pessoas.",
       "showtimes": [
         {
@@ -4657,11 +4839,19 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823571?tp=KM",
-      "plot_en": null,
+      "original_language": "Turkish",
+      "original_languages": [
+        "Turkish",
+        "Portuguese"
+      ],
+      "ratings": {
+        "imdb": "7.7",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt39070180"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdmNzNhMDUtYjc4Ny00NDNjLTk5YjQtZTEyODQ1MGM4YTc3XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "plot_en": "Yasemin learns that her fiancee Yaman has been unfaithful to her. She faces a cathartic choice: continue living a lie or leave everything behind. On an instinct, she jumps on the first plane she finds and ends up in Lisbon.",
       "plot_pt": "Neste filme rom&#226;ntico turco, Cansu Dere, grande estrela do audiovisual local, faz de Yasemin, uma mulher que descobre a infidelidade do noivo e decide, por impulso, apanhar o primeiro voo que lhe aparece &#224; frente.  O destino? Lisboa.  O problema &#233; que perde a mala, fica sem acesso aos cart&#245;es e acaba por ir parar a uma terra &#224; beira-mar plantada, onde &#233; obrigada a partilhar casa com Jos&#233; (Diogo Morgado), que &#233;, ao in&#237;cio, o oposto dela.",
       "showtimes": [
         {
@@ -4917,6 +5107,49 @@
       ]
     },
     {
+      "id": 71923,
+      "title": "The Wild One",
+      "original_title": "The Wild One",
+      "url": "/filme/the-wild-one-71923",
+      "genre": null,
+      "duration_min": 79,
+      "age_rating": null,
+      "director": null,
+      "year": 1954,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.7",
+        "rt_critic": "75%",
+        "metacritic": "67",
+        "imdb_id": "tt0047677"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWM3NmRkM2UtMmYyOC00NzM0LTgyNTYtZmU0YmM4NDVlNWEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Two rival motorcycle gangs terrorize a small town after one of their leaders is thrown in jail.",
+      "plot_pt": "Aqui está, \"oficialmente\", o \"primeiro rebelde\", o filme que inspirou todos os motards do mundo e que foi acusado de ser um álibi para a delinquência.  Contudo, o filme de Benedek é apenas um tema velho com roupagens novas.  A história da pequena cidade ameaçada por marginais já vem de longe e foi tema frequente de westerns.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-08-03",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415452,
       "title": "Toy Story 5",
       "original_title": "Toy Story 5",
@@ -4926,11 +5159,18 @@
       "age_rating": "M/6",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822999?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.5",
+        "rt_critic": "92%",
+        "metacritic": "73",
+        "imdb_id": "tt29355505"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
       "plot_pt": "Passados mais de 30 anos sobre a estreia de &#34;Toy Story - Os Rivais&#34;, a hist&#243;ria que se tornou um marco na vida de milh&#245;es de espectadores por todo o mundo continua neste quinto cap&#237;tulo.  Agora, a vida de Buzz Lightyear, Woody, Jessie e a sua trupe de brinquedos sofre uma grande reviravolta quando Bonnie, j&#225; com oito anos, recebe como presente o Lilypad, um sofisticado tablet interactivo com ideias bastante discut&#237;veis sobre o que &#233; ou n&#227;o divertido.",
       "showtimes": [
         {
@@ -5875,11 +6115,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2024,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823627?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.2",
+        "rt_critic": "99%",
+        "metacritic": "87",
+        "imdb_id": "tt32928666"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWM2ZGI4YWUtOTIxYS00ZDAzLWFjYmUtZDVkM2Y0Mzc5MWI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "An octogenarian woman transitions to life in assisted living as she contends with her conflicting relationship to herself and her caregivers amidst her shifting memory, age identity, and desires.",
       "plot_pt": "No seu primeiro filme como realizadora, Sarah Friedland conta a hist&#243;ria de Ruth (Kathleen Chalfant), uma octogen&#225;ria que est&#225; a lidar com o seu decl&#237;nio cognitivo e com ter de ir viver para uma casa de repouso.  O filme, que se estreou no final de 2024 na 81.",
       "showtimes": [
         {
@@ -6069,6 +6316,42 @@
                 },
                 {
                   "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 415811,
+      "title": "Uma Canta, a Outra Não",
+      "original_title": "L'une Chante, l'autre Pas",
+      "url": "/filme/uma-canta-a-outra-nao-415811",
+      "genre": null,
+      "duration_min": 116,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1977,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823734?tp=KM",
+      "plot_en": null,
+      "plot_pt": null,
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-08-03",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "22h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -6783,11 +7066,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823472?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "8.2",
+        "rt_critic": null,
+        "metacritic": "66",
+        "imdb_id": "tt22084616"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
       "plot_pt": "Passaram quatro anos desde os eventos de &#34;Homem-Aranha: Sem Volta a Casa&#34;, em que Peter Parker (Tom Holland), o Homem-Aranha, se apagou a ele pr&#243;prio da mem&#243;ria de todas as suas pessoas mais pr&#243;ximas e da cidade em que vive e tenta sempre defender, Nova Iorque.",
       "showtimes": [
         {
@@ -8583,6 +8873,42 @@
       ]
     },
     {
+      "id": 415807,
+      "title": "T'as de Beaux Escaliers, tu Sais + Respostas de Mulheres + Elsa la Rose + Le Lion Volatil + As Supostas Cariátides + Les Fiancés du Pont Mac Donald",
+      "original_title": "T'as de Beaux Escaliers, tu Sais + Réponse de Femmes + Elsa la Rose + Le Lion Volatil + Les dites Cariatides + Les Fiancés du Pont Mac Donald",
+      "url": "/filme/tas-de-beaux-escaliers-tu-sais--respostas-de-mulheres--elsa-la-rose--le-lion-volatil--as-supos-415807",
+      "genre": null,
+      "duration_min": null,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 2026,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823730?tp=KM",
+      "plot_en": null,
+      "plot_pt": null,
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-08-03",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415544,
       "title": "Dia D: Sob Pressão",
       "original_title": "Pressure",
@@ -8592,11 +8918,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823213?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.7",
+        "rt_critic": null,
+        "metacritic": "69",
+        "imdb_id": "tt32547691"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjkwMTkwYzItNTg4MC00OTc2LTk2Y2EtOGU3ZGE0NmQyYzdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "In the tense 72 hours before D-Day, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice--launch the most dangerous seaborne invasion in history or risk losing the war altogether.",
       "plot_pt": "Nos tr&#234;s dias anteriores ao desembarque dos aliados na Normandia, fundamental para a derrota das for&#231;as nazis, houve uma previs&#227;o que, caso tivesse falhado, teria alterado o rumo da Segunda Grande Guerra. \r\n\r\nRespons&#225;vel pela avalia&#231;&#227;o meteorol&#243;gica, um factor determinante para o sucesso da opera&#231;&#227;o, o capit&#227;o James Martin Stagg (1900-1975), considerado o melhor meteorologista do Reino Unido, deparou-se com o aproximar de duas grandes tempestades para o dia 5 de Junho de 1944, a data previamente marcada.",
       "showtimes": [
         {
@@ -8670,11 +9003,18 @@
       "age_rating": "M/14",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822933?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "5.2",
+        "rt_critic": null,
+        "metacritic": "38",
+        "imdb_id": "tt32093575"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTJjMDk1NzAtMGVmNS00NTFmLWFlOTQtZDk5M2I2NjZiZDdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Two friends find themselves caught up in mayhem involving killers, monsters and supernatural creatures once again.",
       "plot_pt": "Vinte e seis anos depois de terem sobrevivido a uma s&#233;rie de ataques cometidos por um implac&#225;vel assassino mascarado, Cindy, Brenda, Shorty e Ray deparam-se com uma nova vaga de viol&#234;ncia. \r\nSexto filme da saga &#8220;Scary Movie&#8221; (iniciada no ano 2000), uma par&#243;dia intencionalmente exagerada a alguns filmes de terror (e n&#227;o s&#243;) que dominaram o &#8220;box office&#8221; dos &#250;ltimos anos, sejam eles prequelas, sequelas, &#8220;reboots&#8221;, &#8220;spin-offs&#8221;, os seus legados ou cap&#237;tulos finais.",
       "showtimes": [
         {
@@ -8781,6 +9121,16 @@
       "lat": 38.7685,
       "lng": -9.094,
       "chain_url": "https://www.cinemas.nos.pt/"
+    },
+    {
+      "id": 17536,
+      "name": "Cinemateca Portuguesa",
+      "chain": "Independent",
+      "region": "Lisboa",
+      "location": "Lisboa",
+      "lat": 38.71,
+      "lng": -9.152,
+      "chain_url": ""
     },
     {
       "id": 17541,
@@ -8901,6 +9251,16 @@
       "lat": 38.6907,
       "lng": -9.3117,
       "chain_url": "https://www.cinemas.nos.pt/"
+    },
+    {
+      "id": 415523,
+      "name": "Sheraton Cascais Resort",
+      "chain": "Other",
+      "region": "Grande Lisboa",
+      "location": "Lisboa",
+      "lat": null,
+      "lng": null,
+      "chain_url": ""
     },
     {
       "id": 230335,
