@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T06:18:06.446877Z",
+  "last_updated": "2026-08-07T08:21:29.434453Z",
   "scrape_date": "2026-08-07",
   "movies": [
     {
@@ -8298,6 +8298,83 @@
       "plot_pt": "Bear (Michael Johnston) trabalha numa loja de m&#250;sica ao lado de Nikki (Inde Navarrette), por quem h&#225; muito est&#225; apaixonado.  Inseguro e com muitas dificuldades de confessar o que sente, adquire, numa loja de produtos esot&#233;ricos, um objecto designado &#8220;One Wish Willow&#8221;, um artefacto que promete conceder um desejo a quem o possuir.",
       "showtimes": [
         {
+          "cinema_id": 230335,
+          "sessions": [
+            {
+              "date": "2026-08-02",
+              "day_label": "DOMINGO",
+              "times": [
+                {
+                  "time": "18h40",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-08-03",
+              "day_label": "SEGUNDA",
+              "times": [
+                {
+                  "time": "18h40",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-08-04",
+              "day_label": "TERÇA",
+              "times": [
+                {
+                  "time": "18h40",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-08-05",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "18h40",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-08-07",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "18h40",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-08-08",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "18h40",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "cinema_id": 17563,
           "sessions": [
             {
@@ -8469,7 +8546,7 @@
       "url": "/filme/miseraveis-jean-valjean-415573",
       "genre": null,
       "duration_min": 98,
-      "age_rating": null,
+      "age_rating": "M/12",
       "director": null,
       "year": 2025,
       "original_language": null,
