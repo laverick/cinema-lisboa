@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T14:42:58.781489Z",
+  "last_updated": "2026-08-17T15:38:14.573169Z",
   "scrape_date": "2026-08-17",
   "movies": [
     {
@@ -7291,6 +7291,224 @@
       "plot_pt": "Numa pequena ilha da Polin&#233;sia, vive Vaiana, a &#250;nica filha de um chefe de uma longa linhagem de navegadores.  De esp&#237;rito aventureiro, o maior desejo dela &#233; explorar o mundo e navegar no oceano.  Apesar de todos os avisos do pai, que deseja que ela siga os seus passos como l&#237;der da tribo, a rapariga, que tem em si a for&#231;a e a coragem de v&#225;rias gera&#231;&#245;es, sonha com grandes fa&#231;anhas.",
       "showtimes": [
         {
+          "cinema_id": 17585,
+          "sessions": [
+            {
+              "date": "2026-08-17",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-18",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "13h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-19",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "13h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 54418,
+          "sessions": [
+            {
+              "date": "2026-08-17",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h05",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-18",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "13h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h05",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-19",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "13h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h05",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 169327,
+          "sessions": [
+            {
+              "date": "2026-08-17",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "16h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-18",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "16h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-19",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "16h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 187898,
+          "sessions": [
+            {
+              "date": "2026-08-17",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "16h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "18h40",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-18",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "16h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "18h40",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-19",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "16h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "18h40",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
           "cinema_id": 230335,
           "sessions": [
             {
@@ -7341,6 +7559,47 @@
                 },
                 {
                   "time": "15h55",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 285110,
+          "sessions": [
+            {
+              "date": "2026-08-17",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "11h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-18",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "11h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-08-19",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "11h20",
                   "dubbed": true,
                   "tech_format": null,
                   "inferred_vo": false
