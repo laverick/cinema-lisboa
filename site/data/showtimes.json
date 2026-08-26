@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T07:07:02.397438Z",
+  "last_updated": "2026-08-26T07:57:24.065375Z",
   "scrape_date": "2026-08-26",
   "movies": [
     {
@@ -4305,6 +4305,41 @@
       "plot_pt": "A Patrulha Pata, o grupo de c&#227;es de salvamento sobre o qual versa a s&#233;rie animada hom&#243;nima canadiana no ar desde 2013, ganha agora o seu terceiro filme.  Depois de uma tempestade, os c&#227;es v&#227;o parar a uma ilha com dinossauros e conhecem por l&#225; um cachorro que est&#225; ali abandonado.",
       "showtimes": [
         {
+          "cinema_id": 17538,
+          "sessions": [
+            {
+              "date": "2026-08-26",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "10h50",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "13h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "15h50",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "18h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
           "cinema_id": 17563,
           "sessions": [
             {
@@ -4331,6 +4366,244 @@
                 },
                 {
                   "time": "18h00",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17585,
+          "sessions": [
+            {
+              "date": "2026-08-26",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "11h00",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "13h30",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h00",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "18h30",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17586,
+          "sessions": [
+            {
+              "date": "2026-08-26",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "11h00",
+                  "dubbed": true,
+                  "tech_format": "ATMOS",
+                  "inferred_vo": false
+                },
+                {
+                  "time": "13h30",
+                  "dubbed": true,
+                  "tech_format": "ATMOS",
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h00",
+                  "dubbed": true,
+                  "tech_format": "ATMOS",
+                  "inferred_vo": false
+                },
+                {
+                  "time": "18h20",
+                  "dubbed": true,
+                  "tech_format": "ATMOS",
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 54418,
+          "sessions": [
+            {
+              "date": "2026-08-26",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h05",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 80874,
+          "sessions": [
+            {
+              "date": "2026-08-26",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "11h00",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "13h00",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "15h30",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "18h00",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 169327,
+          "sessions": [
+            {
+              "date": "2026-08-26",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "15h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "17h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 187898,
+          "sessions": [
+            {
+              "date": "2026-08-26",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "15h40",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "18h50",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 230335,
+          "sessions": [
+            {
+              "date": "2026-08-26",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h25",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "15h55",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "18h35",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 285110,
+          "sessions": [
+            {
+              "date": "2026-08-26",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "10h50",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "13h00",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "15h10",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "17h20",
                   "dubbed": true,
                   "tech_format": null,
                   "inferred_vo": false
