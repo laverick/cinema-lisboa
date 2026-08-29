@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T18:27:25.783459Z",
+  "last_updated": "2026-08-29T21:44:14.325294Z",
   "scrape_date": "2026-08-29",
   "movies": [
     {
@@ -2783,11 +2783,18 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823580?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.7",
+        "rt_critic": null,
+        "metacritic": "77",
+        "imdb_id": "tt1756855"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTEyNTE4YzctODQxOC00OGVkLTkyMzktMzc1MGRhYzRkNWIxXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "plot_en": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters.",
       "plot_pt": "Todos sabemos qual &#233; a maior obsess&#227;o do Coyote: montar todo o tipo de embustes para eliminar, de uma vez por todas, o Papa-L&#233;guas, o seu grande inimigo.  Mas depois de anos de esfor&#231;os infrut&#237;feros e, pior, de ser sempre a v&#237;tima das suas pr&#243;prias armadilhas, Coyote resolve confrontar os verdadeiros causadores dos seus infort&#250;nios: os gestores da Acme Corporation, a empresa respons&#225;vel por fabricar os produtos que tem usado nas suas armadilhas.",
       "showtimes": [
         {
