@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T00:04:10.936148Z",
+  "last_updated": "2026-09-04T04:27:28.683023Z",
   "scrape_date": "2026-09-04",
   "movies": [
     {
@@ -7641,11 +7641,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823820?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.5",
+        "rt_critic": null,
+        "metacritic": "49",
+        "imdb_id": "tt21285562"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "In a post-apocalyptic world, a virus wipes out humanity. Survivors face roaming scavengers called Reapers. Protagonist Hig, a pilot, survived the flu but lost his wife.",
       "plot_pt": "Nove anos passados desde que uma pandemia de gripe aniquilou praticamente toda a popula&#231;&#227;o mundial, Hig (Jacob Elordi), um antigo piloto civil, sobrevive no hangar de um pequeno aeroporto abandonado no Colorado, na companhia do seu c&#227;o Jasper e de Bangley (Josh Brolin), um ex-fuzileiro naval que se dedicou a t&#233;cnicas sobrevivencialistas.",
       "showtimes": [
         {
