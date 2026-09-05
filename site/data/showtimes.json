@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T09:02:20.973361Z",
+  "last_updated": "2026-09-05T12:40:47.279116Z",
   "scrape_date": "2026-09-05",
   "movies": [
     {
@@ -3238,6 +3238,53 @@
               "times": [
                 {
                   "time": "18h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31238,
+      "title": "Amadeus",
+      "original_title": "Amadeus",
+      "url": "/filme/amadeus-31238",
+      "genre": null,
+      "duration_min": 158,
+      "age_rating": null,
+      "director": null,
+      "year": 1984,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Italian",
+        "Latin",
+        "German",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "8.4",
+        "rt_critic": "90%",
+        "metacritic": "87",
+        "imdb_id": "tt0086879"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "The life and work of Wolfgang Amadeus Mozart seen through the eyes of his contemporary and rival, Antonio Salieri.",
+      "plot_pt": "Adapta&#231;&#227;o da pe&#231;a hom&#243;nima de Peter Shaffer que se centra na &quot;rivalidade&quot; entre Mozart e Salieri, este interpretado por F.  Murray Abraham que ganhou um dos oito Oscars atribu&#237;dos pela Academia.  Tom Hulce &#233; um Mozart hedonista e provocador, um Mozart visto por Salieri, emoldurado pelos magn&#237;ficos d&#233;cors de Praga e pela magn&#237;fica coreografia de Twila Tharp.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-09-01",
+              "day_label": "TERÇA",
+              "times": [
+                {
+                  "time": "15h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -12893,6 +12940,42 @@
                 },
                 {
                   "time": "21h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18283,
+      "title": "Os Sete Samurais",
+      "original_title": "Shichinin no Samurai",
+      "url": "/filme/os-sete-samurais-18283",
+      "genre": null,
+      "duration_min": 180,
+      "age_rating": "M/16",
+      "director": null,
+      "year": 1954,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/750176?tp=KM",
+      "plot_en": null,
+      "plot_pt": "Datado de 1954, integra, continuamente, as listas de melhores filmes de sempre e &#233; um dos mais amados cl&#225;ssicos do mestre Akira Kurosawa.  No Jap&#227;o do s&#233;c.  XVII, uma aldeia farta de ser saqueada por bandidos decide contratar quem a defenda.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-08-31",
+              "day_label": "SEGUNDA",
+              "times": [
+                {
+                  "time": "20h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
