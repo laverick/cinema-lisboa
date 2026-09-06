@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T00:54:56.539031Z",
+  "last_updated": "2026-09-06T05:55:24.961747Z",
   "scrape_date": "2026-09-06",
   "movies": [
     {
@@ -8559,6 +8559,23 @@
               ]
             }
           ]
+        },
+        {
+          "cinema_id": 17547,
+          "sessions": [
+            {
+              "date": "2026-09-07",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "19h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -10300,6 +10317,50 @@
       ]
     },
     {
+      "id": 18684,
+      "title": "Os 400 Golpes",
+      "original_title": "Les 400 Coups",
+      "url": "/filme/os-400-golpes-18684",
+      "genre": null,
+      "duration_min": 93,
+      "age_rating": "M/16",
+      "director": null,
+      "year": 1959,
+      "original_language": "French",
+      "original_languages": [
+        "French",
+        "English"
+      ],
+      "ratings": {
+        "imdb": "5.9",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0118817"
+      },
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/807808?tp=KM",
+      "plot_en": null,
+      "plot_pt": "Filmado a preto e branco e em formato panor&#226;mico, o filme de estreia de Truffaut &#233; um dos actos fundadores do cinema moderno.  Parcialmente autobiogr&#225;fico, conta a hist&#243;ria de um adolescente mal amado, que comete pequenos delitos e &#233; friamente mandado pelos pais para um reformat&#243;rio, de onde acaba por fugir, numa c&#233;lebre cena, que &#233; t&#227;o realista quanto simb&#243;lica.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-09-06",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "19h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 18283,
       "title": "Os Sete Samurais",
       "original_title": "Shichinin no Samurai",
@@ -10546,6 +10607,42 @@
               "times": [
                 {
                   "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28214,
+      "title": "Sem Eira Nem Beira",
+      "original_title": "Sans Toit ni Loi",
+      "url": "/filme/sem-eira-nem-beira-28214",
+      "genre": null,
+      "duration_min": 105,
+      "age_rating": null,
+      "director": null,
+      "year": 1985,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "",
+      "plot_en": null,
+      "plot_pt": "&#8220;Sans Toit ni Loi&#8221; (em portugu&#234;s, &quot;Sem Eira nem Beira&quot;), filme de 1985, uma fic&#231;&#227;o que conquistou o Le&#227;o de Ouro no Festival de Veneza e o C&#233;sar de melhor actriz para Sandrine Bonnaire, entre outros pr&#233;mios, &#233; a reconfirma&#231;&#227;o (para os menos desatentos) da predilec&#231;&#227;o de Varda pelos desprotegidos ou &#8220;esquecidos&#8221; do mundo.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-09-06",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "14h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -11307,6 +11404,42 @@
       ]
     },
     {
+      "id": 414955,
+      "title": "Terra Vil",
+      "original_title": "Terra Vil",
+      "url": "/filme/terra-vil-414955",
+      "genre": null,
+      "duration_min": 96,
+      "age_rating": "M/14",
+      "director": null,
+      "year": 2026,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/821401?tp=KM",
+      "plot_en": null,
+      "plot_pt": "A hist&#243;ria decorre no concelho de Penafiel, junto ao local onde o rio T&#226;mega desagua no Douro.  Jo&#227;o tem 12 anos e vive com o pai, Ant&#243;nio, um homem inst&#225;vel que luta contra o alcoolismo e enfrenta v&#225;rios dem&#243;nios interiores.",
+      "showtimes": [
+        {
+          "cinema_id": 285110,
+          "sessions": [
+            {
+              "date": "2026-09-06",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415452,
       "title": "Toy Story 5",
       "original_title": "Toy Story 5",
@@ -11777,6 +11910,23 @@
               "times": [
                 {
                   "time": "15h55",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17547,
+          "sessions": [
+            {
+              "date": "2026-09-06",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "11h00",
                   "dubbed": true,
                   "tech_format": null,
                   "inferred_vo": false
@@ -15296,84 +15446,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 415923,
-      "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
-      "original_title": "Katy Perry: The Lifetimes Tour - Live From Paris",
-      "url": "/filme/katy-perry-the-lifetimes-tour---live-from-paris-415923",
-      "genre": null,
-      "duration_min": 132,
-      "age_rating": "M/12",
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823979?tp=KM",
-      "plot_en": null,
-      "plot_pt": null,
-      "showtimes": [
-        {
-          "cinema_id": 54418,
-          "sessions": [
-            {
-              "date": "2026-09-06",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h55",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-09-07",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h55",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-09-08",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "15h55",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-09-09",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "15h55",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
   "cinemas": [
@@ -15466,6 +15538,16 @@
       "lat": 38.7372,
       "lng": -9.1537,
       "chain_url": "https://www.medeiafilmes.com/"
+    },
+    {
+      "id": 17547,
+      "name": "Turim",
+      "chain": "Other",
+      "region": "Lisboa",
+      "location": "Lisboa",
+      "lat": null,
+      "lng": null,
+      "chain_url": ""
     },
     {
       "id": 54418,
@@ -15576,16 +15658,6 @@
       "lat": 38.6907,
       "lng": -9.3117,
       "chain_url": "https://www.cinemas.nos.pt/"
-    },
-    {
-      "id": 415523,
-      "name": "Sheraton Cascais Resort",
-      "chain": "Other",
-      "region": "Grande Lisboa",
-      "location": "Lisboa",
-      "lat": null,
-      "lng": null,
-      "chain_url": ""
     },
     {
       "id": 230335,
