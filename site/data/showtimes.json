@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T19:57:08.329345Z",
+  "last_updated": "2026-09-07T22:49:30.148672Z",
   "scrape_date": "2026-09-07",
   "movies": [
     {
@@ -8954,11 +8954,19 @@
       "age_rating": "M/6",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/822990?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Samoan"
+      ],
+      "ratings": {
+        "imdb": "5.8",
+        "rt_critic": "32%",
+        "metacritic": "42",
+        "imdb_id": "tt27419466"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "A brave teenager named Moana leaves her island for the first time and sails with a shape-shifting demigod named Maui to fix a dangerous curse.",
       "plot_pt": "Numa pequena ilha da Polin&#233;sia, vive Vaiana, a &#250;nica filha de um chefe de uma longa linhagem de navegadores.  De esp&#237;rito aventureiro, o maior desejo dela &#233; explorar o mundo e navegar no oceano.  Apesar de todos os avisos do pai, que deseja que ela siga os seus passos como l&#237;der da tribo, a rapariga, que tem em si a for&#231;a e a coragem de v&#225;rias gera&#231;&#245;es, sonha com grandes fa&#231;anhas.",
       "showtimes": [
         {
