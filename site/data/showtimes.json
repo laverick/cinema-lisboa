@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-09-08T01:11:08.568685Z",
+  "last_updated": "2026-09-08T05:57:18.198683Z",
   "scrape_date": "2026-09-08",
   "movies": [
+    {
+      "id": 114958,
+      "title": "2046",
+      "original_title": "2046",
+      "url": "/filme/2046-114958",
+      "genre": null,
+      "duration_min": 120,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 2004,
+      "original_language": "Cantonese",
+      "original_languages": [
+        "Cantonese",
+        "Japanese",
+        "Mandarin"
+      ],
+      "ratings": {
+        "imdb": "7.4",
+        "rt_critic": "87%",
+        "metacritic": "78",
+        "imdb_id": "tt0212712"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNGM2NTQyM2MtODAzMi00NWVjLTgwNWMtYjNkMjMxZmUwOTU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Several women enter a science fiction author's life over the course of a few years, after the author has lost the woman he considers his one true love.",
+      "plot_pt": "Continua&#231;&#227;o, &quot;remake&quot; ou &quot;remix&quot; de &quot;In The Mood for Love - Dispon&#237;vel para Amar&quot;, voltamos a encontrar em &quot;2046&quot; a personagem do escritor-jornalista.  Hong Kong, 1966.  No seu pequeno quarto de hotel, Chow Mo Wan, em crise de inspira&#231;&#227;o, tenta terminar um livro de fic&#231;&#227;o-cient&#237;fica cuja ac&#231;&#227;o decorre em 2046.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-09-08",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "14h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 415754,
       "title": "A Amiga Silenciosa",
@@ -1408,6 +1453,49 @@
               "times": [
                 {
                   "time": "18h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 120137,
+      "title": "A Última Tentação de Cristo",
+      "original_title": "The Last Temptation of Christ",
+      "url": "/filme/a-ultima-tentacao-de-cristo-120137",
+      "genre": null,
+      "duration_min": 164,
+      "age_rating": null,
+      "director": null,
+      "year": 1988,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.5",
+        "rt_critic": "82%",
+        "metacritic": "80",
+        "imdb_id": "tt0095497"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZjE2MWE2NDQtMjIzYy00OGY4LTk3YjktZTE2MWExYmEzMjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.",
+      "plot_pt": "A mais polémica história de Cristo no cinema, realizada com a mestria de Martin Scorsese a partir do romance homónimo de Nikos Kazantzakis.  Jesus de Nazaré é um homem bom, atormentado pelos seus próprios demónios e pela culpa.  O chamamento de Deus é constante.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-09-09",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "15h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -5191,6 +5279,42 @@
       ]
     },
     {
+      "id": 415928,
+      "title": "O Vampiro de Ferat",
+      "original_title": "Upír z Feratu",
+      "url": "/filme/o-vampiro-de-ferat-415928",
+      "genre": null,
+      "duration_min": 90,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1982,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "",
+      "plot_en": null,
+      "plot_pt": "&lt;div class=&quot;infoText&quot;&gt;Quando a Ferat Motors lan&#231;a um novo autom&#243;vel desportivo de alta &lt;em&gt;performance&lt;/em&gt;, um m&#233;dico especializado em traumatologia come&#231;a a investigar uma teoria inquietante: o ve&#237;culo poder&#225; ser uma m&#225;quina biol&#243;gica alimentada por sangue humano.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-09-08",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415747,
       "title": "Oh Lá Lá 2",
       "original_title": "Cocorico 2",
@@ -5603,6 +5727,42 @@
       ]
     },
     {
+      "id": 26868,
+      "title": "Os Respigadores e a Respigadora",
+      "original_title": "Les Glaneurs et la Glaneuse",
+      "url": "/filme/os-respigadores-e-a-respigadora-26868",
+      "genre": null,
+      "duration_min": 82,
+      "age_rating": null,
+      "director": null,
+      "year": 2000,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/132324?tp=KM",
+      "plot_en": null,
+      "plot_pt": "Numa sucess&#227;o de quadros de Millet, Breton, H&#233;douin, mas tamb&#233;m numa sucess&#227;o de planos cinematogr&#225;ficos, Agn&#232;s Varda, uma das caras da &quot;Nouvelle Vague&quot; francesa, lan&#231;a um olhar sobre os respigadores actuais, aqueles que apanham para n&#227;o desperdi&#231;ar, os que rebuscam nas sobras dos mercados, os que procuram restos nos caixotes do lixo para comer.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-09-08",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415723,
       "title": "Playback",
       "original_title": "Playback",
@@ -5692,6 +5852,49 @@
       ]
     },
     {
+      "id": 415927,
+      "title": "Quem Bate à Minha Porta?",
+      "original_title": "Who's That Knocking at my Door?",
+      "url": "/filme/quem-bate-a-minha-porta-415927",
+      "genre": null,
+      "duration_min": 86,
+      "age_rating": null,
+      "director": null,
+      "year": 1967,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.5",
+        "rt_critic": "71%",
+        "metacritic": "63",
+        "imdb_id": "tt0063803"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzM4ODNiMDctZTcyNC00NjcxLWI3YWQtMGQ2OGQ3ZjkwNjkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A young man can't accept the girl he likes because of her bitter past.",
+      "plot_pt": null,
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-09-08",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "19h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415456,
       "title": "Reflexo Num Diamante Morto",
       "original_title": "Reflet dans un diamant mort",
@@ -5729,6 +5932,50 @@
               "times": [
                 {
                   "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18300,
+      "title": "Rio Bravo",
+      "original_title": "Rio Bravo",
+      "url": "/filme/rio-bravo-18300",
+      "genre": null,
+      "duration_min": 141,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1959,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "Spanish"
+      ],
+      "ratings": {
+        "imdb": "8.0",
+        "rt_critic": "96%",
+        "metacritic": "93",
+        "imdb_id": "tt0053221"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYmRiNWY3ZDQtZTJkNi00NjlkLWI3NTQtZDEzZTE0YmNhYTk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+      "plot_pt": "&lt;p&gt;Obra-prima de Howard Hawks, do &quot;western&quot; e do cinema americano, com a participa&#231;&#227;o de John Wayne - o grande &quot;cowboy&quot; de Hollywood.  Segundo o realizador, &quot;Rio Bravo&quot; foi uma reac&#231;&#227;o ao &quot;western&quot; de Fred Zinnemann, &quot;O Comboio Apitou Tr&#234;s Vezes&quot; (1952), que contava com Gary Cooper no principal papel.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-09-08",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -6222,6 +6469,49 @@
                   "dubbed": true,
                   "tech_format": null,
                   "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19586,
+      "title": "Uma Mulher da Rua",
+      "original_title": "Boxcar Bertha",
+      "url": "/filme/uma-mulher-da-rua-19586",
+      "genre": null,
+      "duration_min": 92,
+      "age_rating": null,
+      "director": null,
+      "year": 1972,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.0",
+        "rt_critic": "57%",
+        "metacritic": "61",
+        "imdb_id": "tt0068309"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGQ3NmViYzEtOTIwMS00YmRlLWI0YWQtZTFmZjVlNWI0M2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "During the Great Depression, a union leader and a young woman become criminals to exact revenge on the management of a railroad.",
+      "plot_pt": "Como &quot;Bonnie And Clyde&quot; um olhar sobre os anos 30 da Depressão, com um par de protagonistas inspirado nos gangsters do filme de Arthur Penn.  O jovem Martin Scorsese fazia-se notar, numa produção \"rápida\" (21 dias de rodagem) para a \"fábrica\"de Roger Corman onde se reconhecem já, minimamente estabilizados, os traços principais do seu estilo áspero e nervoso.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-09-08",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "19h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
                 }
               ]
             }
@@ -8127,6 +8417,49 @@
       ]
     },
     {
+      "id": 394773,
+      "title": "Raquel, Raquel",
+      "original_title": "Rachel, Rachel",
+      "url": "/filme/raquel-raquel-394773",
+      "genre": null,
+      "duration_min": 101,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1968,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.1",
+        "rt_critic": "92%",
+        "metacritic": "74",
+        "imdb_id": "tt0063483"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWQ0N2QyNDMtODU3NS00MzZiLWFiNGEtYzZmMjA0NWJmMWMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Rachel is a lonely school teacher who lives with her mother. When a man from the big city asks her out, she starts thinking about where she wants her life to go.",
+      "plot_pt": null,
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-09-08",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415544,
       "title": "Dia D: Sob Pressão",
       "original_title": "Pressure",
@@ -8301,16 +8634,6 @@
       "lat": 38.7372,
       "lng": -9.1537,
       "chain_url": "https://www.medeiafilmes.com/"
-    },
-    {
-      "id": 17547,
-      "name": "Turim",
-      "chain": "Other",
-      "region": "Lisboa",
-      "location": "Lisboa",
-      "lat": null,
-      "lng": null,
-      "chain_url": ""
     },
     {
       "id": 54418,
