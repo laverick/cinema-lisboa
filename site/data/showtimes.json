@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T05:57:18.198683Z",
+  "last_updated": "2026-09-08T11:13:20.823046Z",
   "scrape_date": "2026-09-08",
   "movies": [
     {
@@ -1568,9 +1568,9 @@
         "English"
       ],
       "ratings": {
-        "imdb": "6.4",
+        "imdb": "6.3",
         "rt_critic": "43%",
-        "metacritic": "43",
+        "metacritic": "42",
         "imdb_id": "tt37853455"
       },
       "poster_url": "https://m.media-amazon.com/images/M/MV5BM2ZlYTQ2YmUtZTNlNy00OGI0LWFmNjctN2MyNjYzNjAzNjliXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
@@ -1659,11 +1659,18 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823741?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.2",
+        "rt_critic": "56%",
+        "metacritic": "57",
+        "imdb_id": "tt32268691"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
       "plot_pt": "Quando um grupo de supersoldados geneticamente modificados escapa de uma base militar no deserto, Celeste (Adria Arjona), uma antiga atiradora furtiva do ex&#233;rcito norte-americano que se refugiou com a filha num parque de caravanas, v&#234;-se obrigada a recuperar o seu treino.",
       "showtimes": [
         {
@@ -2106,199 +2113,6 @@
               "times": [
                 {
                   "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17714,
-          "sessions": [
-            {
-              "date": "2026-09-08",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-09-09",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 54418,
-          "sessions": [
-            {
-              "date": "2026-09-08",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-09-09",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 221112,
-          "sessions": [
-            {
-              "date": "2026-09-08",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-09-09",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-09-08",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-09-09",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 270072,
-          "sessions": [
-            {
-              "date": "2026-09-08",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "14h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-09-09",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -8056,11 +7870,18 @@
       "age_rating": "M/14",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823575?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "5.7",
+        "rt_critic": "50%",
+        "metacritic": "52",
+        "imdb_id": "tt32338669"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTVjMjVlZjktZTg1Zi00ZDdmLTk1ODItNDE1Y2I4MTg1MDQ0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "plot_en": "After his billionaire industrialist boss is murdered in front of him, Cole Reed is set up to take the fall for the crime -- leaving him on the run as he works to uncover an international conspiracy.",
       "plot_pt": "Cole Reed, antigo membro das for&#231;as especiais e ex-agente da pol&#237;cia de Nova Iorque, trabalha como seguran&#231;a privado.  Quando o seu patr&#227;o, um multimilion&#225;rio industrial, &#233; assassinado &#224; sua frente, Cole &#233; incriminado pelo crime e v&#234;-se obrigado a fugir.",
       "showtimes": [
         {
