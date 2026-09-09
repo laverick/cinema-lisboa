@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T04:37:40.001521Z",
+  "last_updated": "2026-09-09T09:41:46.751923Z",
   "scrape_date": "2026-09-09",
   "movies": [
     {
@@ -874,6 +874,49 @@
       ]
     },
     {
+      "id": 264131,
+      "title": "Algemas de Cristal",
+      "original_title": "The Glass Menagerie",
+      "url": "/filme/algemas-de-cristal-264131",
+      "genre": null,
+      "duration_min": 134,
+      "age_rating": null,
+      "director": null,
+      "year": 1987,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.1",
+        "rt_critic": "75%",
+        "metacritic": null,
+        "imdb_id": "tt0093093"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDNhZTQ5MTAtMzBiYy00ZDM1LWJiMWYtMzJkZmFhMWYyMGU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A son longs to escape from his stifling home, where his genteel mother worries about the future prospects of his lame, shy sister.",
+      "plot_pt": "Um dos melhores trabalhos de Paul Newman como realizador e a terceira adaptação da peça homónima de Tennessee Williams ao cinema.  A extraordinária sensibilidade de Newman para a direcção de actores, revelada em \"Rachel, Rachel&quot;, faz desta versão um verdadeiro festival da arte de representar.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-09-09",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "19h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415745,
       "title": "Apenas Uma Noite",
       "original_title": "One Night Only",
@@ -1206,7 +1249,7 @@
     {
       "id": 415561,
       "title": "Cartas Amarelas",
-      "original_title": "Gelbe Briefe",
+      "original_title": "Yellow Letters",
       "url": "/filme/cartas-amarelas-415561",
       "genre": null,
       "duration_min": 127,
@@ -1357,23 +1400,12 @@
       "duration_min": 106,
       "age_rating": null,
       "director": null,
-      "year": 2026,
-      "original_language": "French",
-      "original_languages": [
-        "French",
-        "English",
-        "Ukrainian",
-        "Dinka",
-        "Italian"
-      ],
-      "ratings": {
-        "imdb": "5.7",
-        "rt_critic": "51%",
-        "metacritic": "53",
-        "imdb_id": "tt34688195"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzMwNzY0NzEtNjQyOS00MDNiLTkzYWMtNGNjNmQyNmU2MDI1XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
-      "plot_en": "An American filmmaker faces challenges and self-discovery as she arrives in Paris for Fashion Week on a life-and-death journey.",
+      "year": 2025,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823985?tp=KM",
+      "plot_en": null,
       "plot_pt": "Tr&#234;s mulheres cruzam-se em Paris durante a Semana da Moda.  Maxine, uma realizadora norte-americana que ali se encontra para rodar um filme para a abertura do evento, descobre que tem cancro.  Ada &#233; uma jovem modelo rec&#233;m-chegada do Sud&#227;o que, embora muito requisitada, questiona se aquele &#233; o seu lugar.",
       "showtimes": [
         {
@@ -1520,7 +1552,7 @@
     {
       "id": 415755,
       "title": "Coyote vs. Acme",
-      "original_title": "Coyote vs. Acme",
+      "original_title": "Coyote vs Acme",
       "url": "/filme/coyote-vs-acme-415755",
       "genre": null,
       "duration_min": 103,
@@ -1797,6 +1829,42 @@
       ]
     },
     {
+      "id": 405774,
+      "title": "Dias Selvagens",
+      "original_title": "Ah Fei jing juen",
+      "url": "/filme/dias-selvagens-405774",
+      "genre": null,
+      "duration_min": 100,
+      "age_rating": null,
+      "director": null,
+      "year": 1990,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/762200?tp=KM",
+      "plot_en": null,
+      "plot_pt": "1960.  Yuddy (Leslie Cheung) &#233; um jovem que descobriu recentemente que a mulher que o criou, uma prostituta, n&#227;o &#233; sua m&#227;e biol&#243;gica.  Ela recusa-se a dizer-lhe quem &#233; a sua verdadeira m&#227;e, at&#233; que a revela&#231;&#227;o desencadeia uma s&#233;rie de perturba&#231;&#245;es mentais em Yuddy.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-09-09",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415753,
       "title": "Elisa",
       "original_title": "Elisa",
@@ -2000,6 +2068,49 @@
               "times": [
                 {
                   "time": "13h40",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 119388,
+      "title": "Histórias de Nova Iorque",
+      "original_title": "New York Stories",
+      "url": "/filme/historias-de-nova-iorque-119388",
+      "genre": null,
+      "duration_min": 119,
+      "age_rating": null,
+      "director": null,
+      "year": 1989,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.4",
+        "rt_critic": "77%",
+        "metacritic": null,
+        "imdb_id": "tt0097965"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzZmZjQ5ZWMtZmM3ZS00NTk5LTlhOTgtZGViZDI3ZjgxOTdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "A middle-aged artist obsessed with his pretty young assistant, a precocious 12-year-old living in a hotel, and a neurotic lawyer with a possessive mother make up three Gotham tales.",
+      "plot_pt": "Tr&#234;s vis&#245;es distintas da mesma cidade, filmadas por Martin Scorsese, Francis Ford Coppola e Woody Allen.  &lt;em&gt;Life Lessons&lt;/em&gt;, de Scorsese, narra a vida de um pintor de meia-idade abandonado pela sua jovem companheira em v&#233;speras de uma importante exposi&#231;&#227;o.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-09-09",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "19h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -2648,41 +2759,6 @@
           ]
         },
         {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-09-09",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "14h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 285110,
           "sessions": [
             {
@@ -2703,6 +2779,50 @@
                 },
                 {
                   "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 234692,
+      "title": "O Amor de Leão",
+      "original_title": "Lions Love",
+      "url": "/filme/o-amor-de-leao-234692",
+      "genre": null,
+      "duration_min": 110,
+      "age_rating": null,
+      "director": null,
+      "year": 1969,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "5.9",
+        "rt_critic": "54%",
+        "metacritic": null,
+        "imdb_id": "tt0064591"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAxY2I5ZjItNjkzYS00Zjc0LWE4Y2QtMWNhZGViMzFjMjdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "plot_en": "Three actors in Hollywood live and love together. A director comes from New York to make a movie about actors and Hollywood.",
+      "plot_pt": "O filme que resultou da estadia de dois anos que Agnès Varda fez em Los Angeles com Jacques Demy, que ali realizou &quot;Model Shop&quot;.  Num estilo de falso documentário, que passaria a ser uma das marcas do período final da sua obra, Varda mostra-nos uma vivenda em Hollywood em que vive um ménage à trois: Viva, a célebre vedeta underground e dois actores de &quot;Hair&quot;.",
+      "showtimes": [
+        {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-09-09",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "15h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -3528,7 +3648,7 @@
     {
       "id": 415759,
       "title": "Tad e a Lanterna Mágica",
-      "original_title": "Tadeo Jones y la Lámpara Maravillosa",
+      "original_title": "Tad and the Magic Lamp",
       "url": "/filme/tad-lanterna-magica-415759",
       "genre": null,
       "duration_min": 94,
@@ -4453,41 +4573,6 @@
           ]
         },
         {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-09-09",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 285110,
           "sessions": [
             {
@@ -4655,29 +4740,6 @@
               "times": [
                 {
                   "time": "22h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-09-09",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -4916,6 +4978,42 @@
                 },
                 {
                   "time": "21h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18818,
+      "title": "Três Cores: Vermelho",
+      "original_title": "Trois Couleurs: Rouge",
+      "url": "/filme/vermelho-18818",
+      "genre": null,
+      "duration_min": 95,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1994,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/458049?tp=KM",
+      "plot_en": null,
+      "plot_pt": "&#218;ltimo filme da trilogia de Kieslowski sobre os ideiais da Revolu&#231;&#227;o Francesa, &#8220;Vermelho&#8221; desenvolve o tema da fraternidade.  Valentine (Ir&#232;ne Jacob) &#233; uma jovem modelo que vive em Genebra.  Quando um dia atropela um c&#227;o por acidente, acaba por conhecer um juiz aposentado (Jean-Louis Trintignant), que se dedica a espiar as conversas telef&#243;nicas dos vizinhos, alimentando, desta forma, o seu desprezo pela humanidade e a convic&#231;&#227;o de que os homens e as mulheres continuam todos os dias a ser tra&#237;dos, tal como ele pr&#243;prio foi.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-09-09",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "22h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
