@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T05:59:43.521742Z",
+  "last_updated": "2026-09-16T11:27:40.215375Z",
   "scrape_date": "2026-09-16",
   "movies": [
     {
@@ -1302,7 +1302,7 @@
     {
       "id": 415886,
       "title": "Hope",
-      "original_title": "Hopeu",
+      "original_title": "Hope",
       "url": "/filme/hope-415886",
       "genre": null,
       "duration_min": 160,
@@ -1901,29 +1901,6 @@
               ]
             }
           ]
-        },
-        {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-09-16",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h05",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -2170,29 +2147,6 @@
               "times": [
                 {
                   "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-09-16",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -3314,7 +3268,7 @@
     {
       "id": 25538,
       "title": "Shrek",
-      "original_title": "Shrek - 25th Anniversary",
+      "original_title": "Shrek 25th Anniversary",
       "url": "/filme/shrek-25538",
       "genre": null,
       "duration_min": 90,
@@ -4087,35 +4041,6 @@
           ]
         },
         {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-09-16",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "14h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 285110,
           "sessions": [
             {
@@ -4254,35 +4179,6 @@
               "times": [
                 {
                   "time": "22h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-09-16",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
