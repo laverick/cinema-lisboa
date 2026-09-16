@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T00:16:52.764688Z",
+  "last_updated": "2026-09-16T05:59:43.521742Z",
   "scrape_date": "2026-09-16",
   "movies": [
     {
@@ -2571,6 +2571,50 @@
       ]
     },
     {
+      "id": 327461,
+      "title": "O Lobo de Wall Street",
+      "original_title": "The Wolf of Wall Street",
+      "url": "/filme/o-lobo-de-wall-street-327461",
+      "genre": null,
+      "duration_min": 165,
+      "age_rating": "M/16",
+      "director": null,
+      "year": 2013,
+      "original_language": "English",
+      "original_languages": [
+        "English",
+        "French"
+      ],
+      "ratings": {
+        "imdb": "8.2",
+        "rt_critic": "79%",
+        "metacritic": "75",
+        "imdb_id": "tt0993846"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "plot_pt": "&lt;p&gt;Jordan Belfort (Leonardo DiCaprio) &#233; um jovem que procura em Nova Iorque a concretiza&#231;&#227;o do seu sonho de sucesso.  Consegue trabalho numa empresa cotada em bolsa, mas o &quot;crash&quot; da &quot;segunda-feira negra&quot; f&#225;-lo perder o emprego e obriga-o a reajustar os planos.",
+      "showtimes": [
+        {
+          "cinema_id": 414017,
+          "sessions": [
+            {
+              "date": "2026-09-16",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 415747,
       "title": "Oh Lá Lá 2",
       "original_title": "Cocorico 2",
@@ -4563,6 +4607,16 @@
     }
   ],
   "cinemas": [
+    {
+      "id": 414017,
+      "name": "Cinecapitólio Rooftop",
+      "chain": "Other",
+      "region": "Lisboa",
+      "location": "Lisboa",
+      "lat": null,
+      "lng": null,
+      "chain_url": ""
+    },
     {
       "id": 221112,
       "name": "Cinema City Alvalade",
