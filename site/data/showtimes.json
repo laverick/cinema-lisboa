@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T00:47:43.735964Z",
+  "last_updated": "2026-10-06T07:32:14.047759Z",
   "scrape_date": "2026-10-06",
   "movies": [
     {
@@ -6544,66 +6544,6 @@
       ]
     },
     {
-      "id": 415724,
-      "title": "Patrulha Pata: O Filme dos Dinossauros",
-      "original_title": "Paw Patrol - Dino Movie",
-      "url": "/filme/patrulha-pata-filme-dinossauros-415724",
-      "genre": null,
-      "duration_min": 88,
-      "age_rating": "M/6",
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823565?tp=KM",
-      "plot_en": null,
-      "plot_pt": "A Patrulha Pata, o grupo de c&#227;es de salvamento sobre o qual versa a s&#233;rie animada hom&#243;nima canadiana no ar desde 2013, ganha agora o seu terceiro filme.  Depois de uma tempestade, os c&#227;es v&#227;o parar a uma ilha com dinossauros e conhecem por l&#225; um cachorro que est&#225; ali abandonado.",
-      "showtimes": [
-        {
-          "cinema_id": 230335,
-          "sessions": [
-            {
-              "date": "2026-10-06",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h55",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
-              "date": "2026-10-07",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h55",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 393980,
       "title": "Vingadores: Endgame",
       "original_title": "Avengers - Endgame Encore",
@@ -7301,6 +7241,66 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 415724,
+      "title": "Patrulha Pata: O Filme dos Dinossauros",
+      "original_title": "Paw Patrol - Dino Movie",
+      "url": "/filme/patrulha-pata-filme-dinossauros-415724",
+      "genre": null,
+      "duration_min": 88,
+      "age_rating": "M/6",
+      "director": null,
+      "year": 2026,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823565?tp=KM",
+      "plot_en": null,
+      "plot_pt": "A Patrulha Pata, o grupo de c&#227;es de salvamento sobre o qual versa a s&#233;rie animada hom&#243;nima canadiana no ar desde 2013, ganha agora o seu terceiro filme.  Depois de uma tempestade, os c&#227;es v&#227;o parar a uma ilha com dinossauros e conhecem por l&#225; um cachorro que est&#225; ali abandonado.",
+      "showtimes": [
+        {
+          "cinema_id": 230335,
+          "sessions": [
+            {
+              "date": "2026-10-06",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h55",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            },
+            {
+              "date": "2026-10-07",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "13h55",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                },
+                {
+                  "time": "16h15",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
                 }
               ]
             }
