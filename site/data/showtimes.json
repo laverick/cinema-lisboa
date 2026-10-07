@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T13:16:10.441357Z",
+  "last_updated": "2026-10-07T19:22:04.201401Z",
   "scrape_date": "2026-10-07",
   "movies": [
     {
@@ -781,17 +781,16 @@
       "year": 1996,
       "original_language": "English",
       "original_languages": [
-        "English",
-        "Swedish"
+        "English"
       ],
       "ratings": {
-        "imdb": "6.4",
-        "rt_critic": "66%",
-        "metacritic": "53",
-        "imdb_id": "tt0115964"
+        "imdb": "4.4",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0115965"
       },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMWQyNTUwNGMtOWUwZi00ODdjLWE3MDQtYzc0NjYzNjk2YWY4XkEyXkFqcGc@._V1_SX300.jpg",
-      "plot_en": "A car crash victim suddenly finds himself turned on by car accidents and becomes involved with an underground sub-culture of like-minded souls.",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDdjMjA1MGItMThkMS00ZmMyLWJjMWEtNDBkOGMxMWUyNjc3XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+      "plot_en": "Nuclear submarine USS Ulysses rescues supposed victims of a boat disaster, who turn out to be terrorists intent on capturing nuclear weapons aboard the sub. Only a former SEAL can save the day by sliding aboard while the sub is underwater.",
       "plot_pt": "&lt;p&gt;Um dos maiores &#234;xitos da carreira de David Cronenberg e, tamb&#233;m, um dos seus filmes mais controversos e pol&#233;micos.  Adaptado do romance de J. G.  Ballard, &#8220;Crash&#8221; &#233; um filme demencial sobre o fasc&#237;nio do sexo e da morte sobre rodas.",
       "showtimes": [
         {
@@ -1550,6 +1549,150 @@
               ]
             }
           ]
+        },
+        {
+          "cinema_id": 17585,
+          "sessions": [
+            {
+              "date": "2026-10-07",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "14h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17714,
+          "sessions": [
+            {
+              "date": "2026-10-07",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 54418,
+          "sessions": [
+            {
+              "date": "2026-10-07",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h20",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "15h55",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "18h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h35",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 169327,
+          "sessions": [
+            {
+              "date": "2026-10-07",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "20h50",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 187898,
+          "sessions": [
+            {
+              "date": "2026-10-07",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "15h20",
+                  "dubbed": true,
+                  "tech_format": null,
+                  "inferred_vo": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 221112,
+          "sessions": [
+            {
+              "date": "2026-10-07",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "12h50",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "15h10",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h25",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1661,12 +1804,12 @@
         "English"
       ],
       "ratings": {
-        "imdb": "7.6",
+        "imdb": "7.5",
         "rt_critic": "100%",
         "metacritic": null,
         "imdb_id": "tt0043132"
       },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWZlNjRiMzktOTNiNS00OGFmLTgzNmItZjQxMTUwMWQ2YWZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYWZlNjRiMzktOTNiNS00OGFmLTgzNmItZjQxMTUwMWQ2YWZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
       "plot_en": "Det. Sgt. Mark Dixon wants to be something his old man wasn't: a guy on the right side of the law. Will Dixon's vicious nature get the better of him?",
       "plot_pt": null,
       "showtimes": [
