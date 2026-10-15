@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T13:24:38.647392Z",
+  "last_updated": "2026-10-15T18:16:41.309021Z",
   "scrape_date": "2026-10-15",
   "movies": [
     {
@@ -6572,6 +6572,65 @@
       "plot_pt": "&#201; bel&#237;ssimo o que se v&#234;, a noite escura e a luminisc&#234;ncia do &#34;skyline&#34; de Telavive.  &#201; hediondo o que ali se conta: nos telhados da cidade, 24 ex-operacionais dos servi&#231;os secretos israelitas, identidade e voz alteradas digitalmente, acederam, protegidos pela altura e pela escurid&#227;o, a descrever a sua participa&#231;&#227;o na configura&#231;&#227;o do sistema de tiro ao alvo sobre Gaza.",
       "showtimes": [
         {
+          "cinema_id": 270072,
+          "sessions": [
+            {
+              "date": "2026-10-11",
+              "day_label": "DOMINGO",
+              "times": [
+                {
+                  "time": "11h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-10-13",
+              "day_label": "TERÇA",
+              "times": [
+                {
+                  "time": "21h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-10-15",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "19h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-10-17",
+              "day_label": "SÁBADO",
+              "times": [
+                {
+                  "time": "14h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "cinema_id": 17714,
           "sessions": [
             {
@@ -6867,65 +6926,6 @@
                 },
                 {
                   "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 270072,
-          "sessions": [
-            {
-              "date": "2026-10-11",
-              "day_label": "DOMINGO",
-              "times": [
-                {
-                  "time": "11h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-10-14",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-10-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-10-17",
-              "day_label": "SÁBADO",
-              "times": [
-                {
-                  "time": "14h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
