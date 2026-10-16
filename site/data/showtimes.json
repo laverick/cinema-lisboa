@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T11:18:12.497794Z",
+  "last_updated": "2026-10-16T16:36:03.803148Z",
   "scrape_date": "2026-10-16",
   "movies": [
     {
@@ -5762,11 +5762,20 @@
       "age_rating": "M/14",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824102?tp=KM",
-      "plot_en": null,
+      "original_language": "Hebrew",
+      "original_languages": [
+        "Hebrew",
+        "English",
+        "Arabic"
+      ],
+      "ratings": {
+        "imdb": "7.9",
+        "rt_critic": "100%",
+        "metacritic": "94",
+        "imdb_id": "tt44766123"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzA5YjdhYTYtNmY5ZS00Mzg1LTkyNDItOGQ1YzQ1MDYzNWJlXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "plot_en": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
       "plot_pt": "&#201; bel&#237;ssimo o que se v&#234;, a noite escura e a luminisc&#234;ncia do &#34;skyline&#34; de Telavive.  &#201; hediondo o que ali se conta: nos telhados da cidade, 24 ex-operacionais dos servi&#231;os secretos israelitas, identidade e voz alteradas digitalmente, acederam, protegidos pela altura e pela escurid&#227;o, a descrever a sua participa&#231;&#227;o na configura&#231;&#227;o do sistema de tiro ao alvo sobre Gaza.",
       "showtimes": [
         {
