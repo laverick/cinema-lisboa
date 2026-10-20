@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T15:02:32.058341Z",
+  "last_updated": "2026-10-20T19:12:42.739706Z",
   "scrape_date": "2026-10-20",
   "movies": [
     {
@@ -1353,18 +1353,25 @@
     {
       "id": 415950,
       "title": "Histórias Paralelas",
-      "original_title": "Histoires parallèles",
+      "original_title": "Parallel Tales",
       "url": "/filme/historias-paralelas-415950",
       "genre": null,
       "duration_min": 139,
       "age_rating": "M/14",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824244?tp=KM",
-      "plot_en": null,
+      "original_language": "French",
+      "original_languages": [
+        "French"
+      ],
+      "ratings": {
+        "imdb": "5.9",
+        "rt_critic": "19%",
+        "metacritic": "41",
+        "imdb_id": "tt36646880"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BODdjMzdiMTgtNmMxZS00MDVjLTg0ZTUtODI0ODU0M2NjZDQ0XkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
+      "plot_en": "In search of inspiration for her new novel, Sylvie begins spying on her neighbors across the street.",
       "plot_pt": "Em busca de inspira&#231;&#227;o para o seu novo romance, Sylvie passa os dias atenta aos vizinhos que vivem no pr&#233;dio em frente ao seu, no centro de Paris.  A partir do que v&#234;, come&#231;a a imaginar as suas vidas, os seus segredos e as rela&#231;&#245;es que mant&#234;m entre si.",
       "showtimes": [
         {
@@ -7032,13 +7039,13 @@
     {
       "id": 415860,
       "title": "Vertigem Mortal 2",
-      "original_title": "Fall 2: Deadpoint",
+      "original_title": "Fall 2 - Deadpoint",
       "url": "/filme/vertigem-mortal-2-415860",
       "genre": null,
       "duration_min": 100,
       "age_rating": "M/14",
       "director": null,
-      "year": 2026,
+      "year": 2025,
       "original_language": "English",
       "original_languages": [
         "English"
