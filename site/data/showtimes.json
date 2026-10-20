@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T04:44:17.575761Z",
+  "last_updated": "2026-10-20T10:00:49.112723Z",
   "scrape_date": "2026-10-20",
   "movies": [
     {
@@ -28,6 +28,42 @@
               "times": [
                 {
                   "time": "15h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 416083,
+      "title": "A Esposa Está Solteira e o Marido é Solteiro",
+      "original_title": "Dalaga si misis, binata si mister",
+      "url": "/filme/a-esposa-esta-solteira-e-o-marido-e-solteiro-416083",
+      "genre": null,
+      "duration_min": 93,
+      "age_rating": "M/12",
+      "director": null,
+      "year": 1981,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824316?tp=KM",
+      "plot_en": null,
+      "plot_pt": "&lt;p&gt;Derradeira colabora&#231;&#227;o da superestrela filipina Nora Aunor com Lino Brocka, apenas um ano depois de BONA.  Uma com&#233;dia &#224; maneira das americanas, &#8220;de recasamento&#8221;, Nora Aunor desempenha o papel de uma cantora e Christopher De Leon, um habitu&#233; de Brocka, um executivo no ramo da publicidade.",
+      "showtimes": [
+        {
+          "cinema_id": 17536,
+          "sessions": [
+            {
+              "date": "2026-10-20",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "15h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -7920,42 +7956,6 @@
                 },
                 {
                   "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 416083,
-      "title": "A Esposa está Solteira e o Marido é Solteiro",
-      "original_title": "Dalaga si misis, binata si mister",
-      "url": "/filme/a-esposa-esta-solteira-e-o-marido-e-solteiro-416083",
-      "genre": null,
-      "duration_min": 93,
-      "age_rating": "M/12",
-      "director": null,
-      "year": 1981,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824316?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Derradeira colabora&#231;&#227;o da superestrela filipina Nora Aunor com Lino Brocka, apenas um ano depois de BONA.  Uma com&#233;dia &#224; maneira das americanas, &#8220;de recasamento&#8221;, Nora Aunor desempenha o papel de uma cantora e Christopher De Leon, um habitu&#233; de Brocka, um executivo no ramo da publicidade.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-10-20",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
