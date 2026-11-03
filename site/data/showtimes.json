@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T16:11:45.926411Z",
+  "last_updated": "2026-11-03T21:44:48.499848Z",
   "scrape_date": "2026-11-03",
   "movies": [
     {
@@ -217,7 +217,7 @@
     {
       "id": 416028,
       "title": "A Escola dos Animais Mágicos 4",
-      "original_title": "Die Schule der magischen Tiere 4",
+      "original_title": "Die Schule Der Magishen Tiere 4",
       "url": "/filme/escola-animais-magicos-4-416028",
       "genre": null,
       "duration_min": 102,
@@ -6665,7 +6665,7 @@
     {
       "id": 416030,
       "title": "Além do Horizonte: A Travessia",
-      "original_title": "Além do Horizonte: A Travessia",
+      "original_title": "Além do Horizonte - A Travessia",
       "url": "/filme/alem-horizonte-travessia-gago-coutinho-sacadura-cabral-416030",
       "genre": null,
       "duration_min": 97,
@@ -6837,7 +6837,7 @@
       "duration_min": 135,
       "age_rating": "M/12",
       "director": null,
-      "year": null,
+      "year": 2026,
       "original_language": null,
       "original_languages": [],
       "ratings": null,
@@ -6907,7 +6907,7 @@
     {
       "id": 416031,
       "title": "De Gaulle: Liberdade",
-      "original_title": "La bataille de Gaulle: J'écris ton nom",
+      "original_title": "De Gaulle - Liberté",
       "url": "/filme/gaulle-liberdade-416031",
       "genre": null,
       "duration_min": 157,
@@ -6920,13 +6920,13 @@
         "English"
       ],
       "ratings": {
-        "imdb": "7.8",
+        "imdb": "8.0",
         "rt_critic": null,
         "metacritic": null,
-        "imdb_id": "tt28553375"
+        "imdb_id": "tt35856133"
       },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTc1ZWJjMDEtYjY3Yy00ZjQ3LTk5ZjMtOTczNGQ3YjU3M2ZhXkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
-      "plot_en": "A powerful account of Charles de Gaulle's journey during World War II, from his rise as a military leader to his emergence in French politics between 1940-1945.",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2NhODRhMWUtNTZlZi00YjJiLTk3ZTAtNWYyNjE4YjgyZTUyXkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
+      "plot_en": "1943–1944. To free France, General de Gaulle must unite a divided Resistance. He also fights to establish his legitimacy with the Allies.",
       "plot_pt": "Em 1943, com a Fran&#231;a ainda sob ocupa&#231;&#227;o alem&#227;, Charles de Gaulle prossegue a luta a partir de Londres, determinado a afirmar a legitimidade da Fran&#231;a Livre e a unir os diferentes movimentos da Resist&#234;ncia.  &#192; medida que a derrota da Alemanha se torna inevit&#225;vel, a unidade da Resist&#234;ncia e o reconhecimento pol&#237;tico de De Gaulle revelam-se fundamentais para o desfecho do conflito.",
       "showtimes": [
         {
@@ -6974,6 +6974,129 @@
                 },
                 {
                   "time": "20h10",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17538,
+          "sessions": [
+            {
+              "date": "2026-11-03",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-04",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17585,
+          "sessions": [
+            {
+              "date": "2026-11-03",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "20h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-04",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "20h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 54418,
+          "sessions": [
+            {
+              "date": "2026-11-03",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h10",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-04",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "13h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h10",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
