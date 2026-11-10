@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T02:04:17.853104Z",
+  "last_updated": "2026-11-10T09:44:20.167029Z",
   "scrape_date": "2026-11-10",
   "movies": [
     {
@@ -5034,11 +5034,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 1933,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824767?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "6.5",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt0024539"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOTU1ODgxNGYtZGIxYi00YTEzLTgxZjYtYmE3Y2NjNTMwNmNkXkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_SX300.jpg",
+      "plot_en": "A New England society girl braves the West to help her husband build his fortune.",
       "plot_pt": null,
       "showtimes": [
         {
@@ -5070,11 +5077,18 @@
       "age_rating": null,
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824563?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.2",
+        "rt_critic": null,
+        "metacritic": "72",
+        "imdb_id": "tt13609648"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNzNmM2E0OWItZWU2MC00M2I3LWEyZTQtYWIyYmZhOGEyOTY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "From Focus Features and Working Title comes an irresistible new take on Jane Austen's iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esmé Creed-Miles.",
       "plot_pt": "Ap&#243;s a morte do pai, Elinor e Marianne Dashwood perdem a fortuna e a casa de fam&#237;lia onde sempre viveram, que passa, por heran&#231;a, para o meio-irm&#227;o delas, filho do primeiro casamento do progenitor.  Obrigadas a deixar Sussex e a instalar-se em Devon, na casa de um familiar distante que as acolhe, as duas irm&#227;s enfrentam uma vida mais modesta na Inglaterra do s&#233;culo XIX.",
       "showtimes": [
         {
@@ -7967,16 +7981,6 @@
       "chain": "Other",
       "region": "Grande Lisboa",
       "location": "Setúbal",
-      "lat": null,
-      "lng": null,
-      "chain_url": ""
-    },
-    {
-      "id": 416130,
-      "name": "Casa de Cultura Jaime Lobo e Silva",
-      "chain": "Other",
-      "region": "Grande Lisboa",
-      "location": "Lisboa",
       "lat": null,
       "lng": null,
       "chain_url": ""
