@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T09:44:20.167029Z",
+  "last_updated": "2026-11-10T17:46:59.509364Z",
   "scrape_date": "2026-11-10",
   "movies": [
     {
@@ -4638,12 +4638,19 @@
       "duration_min": 140,
       "age_rating": null,
       "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824552?tp=KM",
-      "plot_en": null,
+      "year": 2025,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "5.5",
+        "rt_critic": null,
+        "metacritic": null,
+        "imdb_id": "tt31614921"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjM5MDI0ZWItYjJiNS00ZDE1LThjMjctYTU5YWNhYjQ1ZWJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "plot_en": "Follows a novelist stuck in a passionless relationship. When he travels to Italy, he finds the girl of his dreams.",
       "plot_pt": "Ian, um escritor em plena crise criativa, preso a uma rela&#231;&#227;o que parece j&#225; n&#227;o ter pernas para andar, decide viajar at&#233; It&#225;lia, na esperan&#231;a de recuperar a inspira&#231;&#227;o.  Ali, contra todas as expectativas, n&#227;o s&#243; reencontra a vontade de escrever, como conhece Arianna, uma jovem italiana que mais parece sa&#237;da de um romance.",
       "showtimes": [
         {
@@ -6288,7 +6295,7 @@
     {
       "id": 416065,
       "title": "George Michael: The Faith Tour",
-      "original_title": "George Michael: The Faith Tour",
+      "original_title": "George Michael - Faith Tour",
       "url": "/filme/george-michael-the-faith-tour-416065",
       "genre": null,
       "duration_min": 113,
@@ -6595,7 +6602,7 @@
     {
       "id": 416063,
       "title": "Ramayana: A Ascensão de Uma Lenda",
-      "original_title": "Ramayana Part 1",
+      "original_title": "Ramayana - Rise of a Legend",
       "url": "/filme/ramayana-ascensao-lenda-416063",
       "genre": null,
       "duration_min": 195,
