@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T02:49:15.067933Z",
+  "last_updated": "2026-11-11T10:49:53.138036Z",
   "scrape_date": "2026-11-11",
   "movies": [
     {
@@ -1323,23 +1323,6 @@
           ]
         },
         {
-          "cinema_id": 54418,
-          "sessions": [
-            {
-              "date": "2026-11-11",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "14h45",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 169327,
           "sessions": [
             {
@@ -1543,41 +1526,6 @@
               "date": "2026-11-11",
               "day_label": "Hoje",
               "times": [
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-11-11",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
                 {
                   "time": "21h15",
                   "dubbed": false,
@@ -1888,57 +1836,6 @@
       ]
     },
     {
-      "id": 415963,
-      "title": "NAZA",
-      "original_title": "NAZA",
-      "url": "/filme/naza-415963",
-      "genre": null,
-      "duration_min": 80,
-      "age_rating": "M/14",
-      "director": null,
-      "year": 2026,
-      "original_language": "Hebrew",
-      "original_languages": [
-        "Hebrew",
-        "English",
-        "Arabic"
-      ],
-      "ratings": {
-        "imdb": "7.9",
-        "rt_critic": null,
-        "metacritic": "94",
-        "imdb_id": "tt44766123"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzA5YjdhYTYtNmY5ZS00Mzg1LTkyNDItOGQ1YzQ1MDYzNWJlXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
-      "plot_en": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
-      "plot_pt": "&#201; bel&#237;ssimo o que se v&#234;, a noite escura e a luminisc&#234;ncia do &#34;skyline&#34; de Telavive.  &#201; hediondo o que ali se conta: nos telhados da cidade, 24 ex-operacionais dos servi&#231;os secretos israelitas, identidade e voz alteradas digitalmente, acederam, protegidos pela altura e pela escurid&#227;o, a descrever a sua participa&#231;&#227;o na configura&#231;&#227;o do sistema de tiro ao alvo sobre Gaza.",
-      "showtimes": [
-        {
-          "cinema_id": 54418,
-          "sessions": [
-            {
-              "date": "2026-11-11",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 415968,
       "title": "Noite e Dia",
       "original_title": "Virginia Woolf´s Night and Day",
@@ -2173,29 +2070,6 @@
                   "time": "18h40",
                   "dubbed": true,
                   "tech_format": "3D",
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 54418,
-          "sessions": [
-            {
-              "date": "2026-11-11",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": true,
-                  "tech_format": null,
                   "inferred_vo": false
                 }
               ]
@@ -3960,41 +3834,6 @@
           ]
         },
         {
-          "cinema_id": 54418,
-          "sessions": [
-            {
-              "date": "2026-11-11",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 169327,
           "sessions": [
             {
@@ -4635,49 +4474,6 @@
               "times": [
                 {
                   "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 416162,
-      "title": "Almas da Rua",
-      "original_title": "Young America",
-      "url": "/filme/almas-da-rua-416162",
-      "genre": null,
-      "duration_min": 71,
-      "age_rating": "M/12",
-      "director": null,
-      "year": 1932,
-      "original_language": "English",
-      "original_languages": [
-        "English"
-      ],
-      "ratings": {
-        "imdb": "6.4",
-        "rt_critic": null,
-        "metacritic": null,
-        "imdb_id": "tt0023719"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzliZWE4MDgtNDRlZi00NGFkLWE1NmQtMDFmZDUzZWJhOGFjXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
-      "plot_en": "Already in trouble with the law, Arthur and his friend Nutty break into a drugstore to get medicine for Nutty's grandmother. The druggist's wife, Mrs. Doray, asks for custody. When he hears them arguing over him, Arthur runs away....",
-      "plot_pt": "&#34;Young America&#34; esteve para ser realizado por John Ford, mas acabou por ir parar &#224;s m&#227;os de Borzage.  Foi o &#250;ltimo filme que fez para a Fox, e o primeiro que fez com o seu grande amigo Spencer Tracy.  &#201; mais uma hist&#243;ria de fundo socialmente realista, desta vez evocando a delinqu&#234;ncia juvenil nos bairros mais desfavorecidos das grandes cidades, um pouco como uma antecipa&#231;&#227;o do &#34;Angels With Dirty Faces&#34; de Michael Curtiz.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-11-11",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
