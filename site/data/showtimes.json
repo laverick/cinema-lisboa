@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T02:23:27.738377Z",
+  "last_updated": "2026-11-14T10:17:02.881861Z",
   "scrape_date": "2026-11-14",
   "movies": [
     {
@@ -12152,51 +12152,6 @@
       ]
     },
     {
-      "id": 97757,
-      "title": "Pânico nas Ruas",
-      "original_title": "Panic in the Streets",
-      "url": "/filme/panico-nas-ruas-97757",
-      "genre": null,
-      "duration_min": 96,
-      "age_rating": null,
-      "director": null,
-      "year": 1950,
-      "original_language": "English",
-      "original_languages": [
-        "English",
-        "Mandarin",
-        "Greek"
-      ],
-      "ratings": {
-        "imdb": "7.2",
-        "rt_critic": "97%",
-        "metacritic": null,
-        "imdb_id": "tt0042832"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BM2FkM2U5MjYtMjkzNy00MDlkLWFiNzItOGJjZjQxMGViNjI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
-      "plot_en": "A doctor and a policeman in New Orleans have only 48 hours to locate a killer infected with pneumonic plague.",
-      "plot_pt": "Um Kazan aparentemente \"dissonante\", visto que &quot;Panic in the Streets&quot; é um \"thriller\", exemplo único na obra do cineasta.  Nem por isso deixa de ser um filme notável - que Kazan tinha em alta estima, e de que dizia ser o seu primeiro filme \"a sério\" - onde a lógica da acção não impede a presença de um pano de fundo realista (as ruas e os bairros pobres de Nova Orleães) filmado com toda a pertinência narrativa.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-11-09",
-              "day_label": "SEGUNDA",
-              "times": [
-                {
-                  "time": "19h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 339314,
       "title": "Pink Flamingos",
       "original_title": "Pink Flamingos",
@@ -13475,50 +13430,6 @@
                 },
                 {
                   "time": "18h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 159936,
-      "title": "Subúrbios",
-      "original_title": "Okraina",
-      "url": "/filme/suburbios-159936",
-      "genre": null,
-      "duration_min": 98,
-      "age_rating": null,
-      "director": null,
-      "year": 1933,
-      "original_language": "Russian",
-      "original_languages": [
-        "Russian",
-        "German"
-      ],
-      "ratings": {
-        "imdb": "7.1",
-        "rt_critic": null,
-        "metacritic": null,
-        "imdb_id": "tt0024402"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BYTFhMGIyZTUtYjk2OC00MjE1LTgwNjgtMmUxMWZmZDkwMDI5XkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_SX300.jpg",
-      "plot_en": "Outskirts is an internationally renowned masterpiece of early sound cinema. In a remote Russian village during World War I, colorful and nuanced characters experience divided loyalties: family loyalty vs. personal desire, national...",
-      "plot_pt": "Primeiro filme sonoro de Barnet, situado em 1914, numa obscura e não identificada cidade russa.  A acção consiste numa série de episódios, que vão do cómico ao soturno.  Barnet funde diversos estilos praticados então na União Soviética, da vanguarda muda (Kulechov e Kozintsev, por exemplo) à comédia, numa síntese magistral e pessoal que parece anunciar o tom dos primeiros filmes de Godard.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-11-14",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h30",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -17164,7 +17075,7 @@
     },
     {
       "id": 416210,
-      "title": "Victor Comme Tout le Monde",
+      "title": "Victor Como Toda a Gente",
       "original_title": "Victor Comme Tout le Monde",
       "url": "/filme/hugo---victor-comme-tout-le-monde-416210",
       "genre": null,
@@ -18180,6 +18091,16 @@
       "location": "Lisboa",
       "lat": 38.736,
       "lng": -9.223,
+      "chain_url": "https://cinemacity.pt/"
+    },
+    {
+      "id": 17625,
+      "name": "Cinema City Alegro Setúbal",
+      "chain": "Cinema City",
+      "region": "Grande Lisboa",
+      "location": "Setúbal",
+      "lat": 38.5224,
+      "lng": -8.8941,
       "chain_url": "https://cinemacity.pt/"
     },
     {
