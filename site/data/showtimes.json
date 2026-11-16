@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T21:45:58.284262Z",
-  "scrape_date": "2026-11-15",
+  "last_updated": "2026-11-16T01:59:59.418898Z",
+  "scrape_date": "2026-11-16",
   "movies": [
     {
       "id": 416056,
@@ -30,7 +30,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -54,32 +54,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h30",
@@ -131,26 +107,8 @@
           "cinema_id": 270072,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h00",
@@ -162,7 +120,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h00",
@@ -178,7 +136,7 @@
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -202,32 +160,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h30",
@@ -276,10 +210,51 @@
           ]
         },
         {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-11-16",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "19h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-17",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "21h30",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-18",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "16h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "cinema_id": 17585,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -303,32 +278,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h45",
@@ -380,20 +331,8 @@
           "cinema_id": 17714,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "18h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h30",
@@ -405,7 +344,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h20",
@@ -433,7 +372,7 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -457,32 +396,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h20",
@@ -534,38 +449,8 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h20",
@@ -589,7 +474,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h20",
@@ -641,38 +526,8 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h20",
@@ -696,7 +551,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h20",
@@ -748,7 +603,7 @@
           "cinema_id": 285110,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -766,26 +621,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h25",
@@ -813,47 +650,6 @@
                 },
                 {
                   "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-11-17",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-11-18",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "16h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -885,7 +681,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -903,26 +699,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h35",
@@ -962,7 +740,7 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -974,20 +752,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h15",
@@ -1042,7 +808,7 @@
           "sessions": [
             {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h30",
@@ -1086,7 +852,7 @@
           "sessions": [
             {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "19h00",
@@ -1126,75 +892,11 @@
       "plot_pt": "Filipinas, anos 1990.  Amigas desde sempre, Jo e Raissa terminaram o secund&#225;rio e deparam-se com algo para o qual n&#227;o est&#227;o preparadas: a separa&#231;&#227;o.  Enquanto Raissa, por imposi&#231;&#227;o dos pais, se prepara para ir estudar para os EUA, Jo tenta encontrar argumentos para a convencer a ficar.",
       "showtimes": [
         {
-          "cinema_id": 169327,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 187898,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "10h45",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h35",
@@ -1212,7 +914,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h35",
@@ -1279,7 +981,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -1297,26 +999,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h45",
@@ -1347,59 +1031,6 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415855,
-      "title": "A Ovelha Choné: Trapalhada na Quinta",
-      "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "url": "/filme/ovelha-chone-trapalhada-quinta-415855",
-      "genre": null,
-      "duration_min": 91,
-      "age_rating": "M/6",
-      "director": null,
-      "year": null,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824012?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Na quinta do Vale Verdejante, os preparativos para a noite de Halloween s&#227;o interrompidos quando o agricultor destr&#243;i a planta&#231;&#227;o de ab&#243;boras destinada ao rebanho.  Decidida a resolver o problema, a ovelha Chon&#233; tenta encontrar uma solu&#231;&#227;o atrav&#233;s de v&#225;rias experi&#234;ncias cient&#237;ficas que, naturalmente, n&#227;o correm como esperado.",
-      "showtimes": [
-        {
-          "cinema_id": 187898,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "10h55",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
                 }
               ]
             }
@@ -1435,32 +1066,8 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "14h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "14h05",
@@ -1478,7 +1085,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h05",
@@ -1518,20 +1125,8 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h20",
@@ -1549,7 +1144,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h20",
@@ -1577,35 +1172,6 @@
                 },
                 {
                   "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 270072,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-11-18",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "21h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -1618,7 +1184,7 @@
           "cinema_id": 285110,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -1636,26 +1202,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h15",
@@ -1690,38 +1238,19 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 416006,
-      "title": "A Quinta dos Animais",
-      "original_title": "Animal Farm",
-      "url": "/filme/quinta-animais-416006",
-      "genre": null,
-      "duration_min": 95,
-      "age_rating": "M/6",
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824276?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Quando os animais de uma quinta se cansam dos maus-tratos dos humanos e resolvem assumir o controlo de tudo, a promessa de uma exist&#234;ncia feliz e justa parece estar finalmente ao seu alcance.  Mas n&#227;o tardar&#225; at&#233; as disputas pelo poder come&#231;arem a dividir a comunidade, e os porcos, que lideram a revolu&#231;&#227;o, come&#231;arem a impor as suas pr&#243;prias regras.",
-      "showtimes": [
+        },
         {
-          "cinema_id": 169327,
+          "cinema_id": 270072,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
+              "date": "2026-11-18",
+              "day_label": "QUARTA",
               "times": [
                 {
-                  "time": "11h40",
-                  "dubbed": true,
+                  "time": "21h00",
+                  "dubbed": false,
                   "tech_format": null,
-                  "inferred_vo": false
+                  "inferred_vo": true
                 }
               ]
             }
@@ -1757,7 +1286,7 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -1769,20 +1298,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h40",
@@ -1865,7 +1382,7 @@
           "cinema_id": 80874,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -1877,20 +1394,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "20h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "20h15",
@@ -1937,7 +1442,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -1955,26 +1460,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h55",
@@ -2014,20 +1501,8 @@
           "cinema_id": 270072,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h00",
@@ -2074,44 +1549,8 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "10h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h30",
@@ -2141,7 +1580,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h30",
@@ -2205,7 +1644,7 @@
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -2235,38 +1674,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h10",
@@ -2330,7 +1739,7 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -2366,44 +1775,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h30",
@@ -2476,10 +1849,51 @@
           ]
         },
         {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-11-16",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "22h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-17",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "16h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-18",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "19h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "cinema_id": 17563,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -2509,38 +1923,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "22h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h50",
@@ -2604,7 +1988,7 @@
           "cinema_id": 17585,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -2634,38 +2018,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h00",
@@ -2729,7 +2083,7 @@
           "cinema_id": 17586,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -2765,44 +2119,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h50",
@@ -2878,26 +2196,8 @@
           "cinema_id": 17714,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h30",
@@ -2909,7 +2209,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h30",
@@ -2937,32 +2237,8 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "18h50",
@@ -2980,7 +2256,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h50",
@@ -3020,26 +2296,8 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h45",
@@ -3063,7 +2321,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h45",
@@ -3115,7 +2373,7 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -3127,20 +2385,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h25",
@@ -3156,47 +2402,6 @@
               "times": [
                 {
                   "time": "19h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "22h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-11-17",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "16h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-11-18",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "19h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -3235,7 +2440,7 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -3247,20 +2452,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h55",
@@ -3276,7 +2469,7 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -3312,44 +2505,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "00h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h40",
@@ -3425,7 +2582,7 @@
           "cinema_id": 17563,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -3443,26 +2600,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "18h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h35",
@@ -3502,7 +2641,7 @@
           "cinema_id": 17586,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -3538,44 +2677,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h10",
@@ -3651,7 +2754,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -3663,20 +2766,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h40",
@@ -3704,26 +2795,8 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h35",
@@ -3735,7 +2808,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h35",
@@ -3763,7 +2836,7 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -3793,38 +2866,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h30",
@@ -3907,7 +2950,7 @@
           "cinema_id": 17563,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -3937,38 +2980,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h40",
@@ -4002,7 +3015,7 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -4038,44 +3051,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h40",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h20",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "24h00",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h40",
@@ -4151,7 +3128,7 @@
           "cinema_id": 17586,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -4181,38 +3158,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h55",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h00",
@@ -4276,32 +3223,8 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "16h25",
@@ -4319,7 +3242,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h25",
@@ -4359,7 +3282,7 @@
           "cinema_id": 80874,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -4389,38 +3312,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h15",
@@ -4484,20 +3377,8 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h50",
@@ -4515,7 +3396,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h50",
@@ -4555,7 +3436,7 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -4579,32 +3460,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h00",
@@ -4656,7 +3513,7 @@
           "cinema_id": 285110,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -4686,38 +3543,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h55",
@@ -4823,85 +3650,6 @@
       ]
     },
     {
-      "id": 18780,
-      "title": "De Olhos Bem Fechados",
-      "original_title": "Eyes Wide Shut",
-      "url": "/filme/de-olhos-bem-fechados--18780",
-      "genre": null,
-      "duration_min": 159,
-      "age_rating": "M/16",
-      "director": null,
-      "year": 1999,
-      "original_language": "English",
-      "original_languages": [
-        "English"
-      ],
-      "ratings": {
-        "imdb": "7.5",
-        "rt_critic": "77%",
-        "metacritic": "69",
-        "imdb_id": "tt0120663"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTQ0MmM5MDAtYmYyZS00MzlmLTlhZTAtZDJlZWY5ZTZkZjZmXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-      "plot_en": "A Manhattan doctor embarks on a bizarre, night-long odyssey after his wife's admission of unfulfilled longing.",
-      "plot_pt": "A derradeira obra de Kubrick (1928-1999), a partir de uma novela de Arthur Schnitzler.  O filme, tornou-se um projecto pessoal do (ent&#227;o) casal Tom Cruise e Nicole Kidman, que se dedicaram de corpo e alma a encarnar um casamento em crise ap&#243;s a mulher revelar ter-se sentido atra&#237;da por outro homem.",
-      "showtimes": [
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 411522,
-      "title": "Diálogos Depois do Fim",
-      "original_title": "Diálogos Depois do Fim",
-      "url": "/filme/dialogos-fim-411522",
-      "genre": null,
-      "duration_min": null,
-      "age_rating": null,
-      "director": null,
-      "year": 2023,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/803198?tp=KM",
-      "plot_en": null,
-      "plot_pt": "Resultado de dois meses de rodagem nos A&#231;ores, este filme de&#160;Tiago Guedes&#160;(Coisa Ruim,&#160;A Herdade&#160;ou&#160;Restos do Vento) tem como centro seis dos 27 di&#225;logos do livro&#160;Di&#225;logos com&#160;Leuc&#243;, do italiano&#160;Cesare&#160;Pavese&#160;(1908-1950).",
-      "showtimes": [
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "10h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 415864,
       "title": "Digger",
       "original_title": "Digger",
@@ -4922,7 +3670,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -4934,20 +3682,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "18h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h05",
@@ -4963,7 +3699,7 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -4975,20 +3711,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h25",
@@ -5016,7 +3740,7 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -5028,20 +3752,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h10",
@@ -5088,7 +3800,7 @@
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -5118,38 +3830,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h50",
@@ -5213,7 +3895,7 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -5249,44 +3931,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "00h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h20",
@@ -5362,7 +4008,7 @@
           "cinema_id": 17563,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -5392,38 +4038,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h30",
@@ -5487,7 +4103,7 @@
           "cinema_id": 17585,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -5517,38 +4133,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h15",
@@ -5612,44 +4198,8 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "13h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h20",
@@ -5679,7 +4229,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h20",
@@ -5743,7 +4293,7 @@
           "cinema_id": 80874,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -5773,38 +4323,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h50",
@@ -5868,38 +4388,8 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h25",
@@ -5923,7 +4413,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h25",
@@ -5975,44 +4465,8 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h25",
@@ -6042,7 +4496,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h25",
@@ -6100,7 +4554,7 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -6118,26 +4572,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h00",
@@ -6171,7 +4607,7 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -6201,38 +4637,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h15",
@@ -6296,44 +4702,8 @@
           "cinema_id": 285110,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "14h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "14h05",
@@ -6363,7 +4733,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h05",
@@ -6457,7 +4827,7 @@
           "sessions": [
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h30",
@@ -6496,46 +4866,11 @@
       "plot_pt": "Quando v&#234; o irm&#227;o mais novo ser levado por corvos, Prue McKeel, uma adolescente de 13 anos, decide traz&#234;-lo de volta.  Acompanhada por Curtis, um amigo de escola pouco aventureiro mas muito dedicado, atravessa a floresta proibida nos arredores de Portland, nos EUA.",
       "showtimes": [
         {
-          "cinema_id": 187898,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "18h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "18h35",
@@ -6547,7 +4882,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h35",
@@ -6563,7 +4898,7 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -6581,26 +4916,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h00",
@@ -6640,7 +4957,7 @@
           "cinema_id": 17586,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -6658,26 +4975,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "18h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h50",
@@ -6717,26 +5016,8 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "14h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "14h00",
@@ -6748,7 +5029,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h00",
@@ -6776,20 +5057,8 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h20",
@@ -6801,7 +5070,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h20",
@@ -6829,26 +5098,8 @@
           "cinema_id": 285110,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h10",
@@ -6860,7 +5111,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h10",
@@ -6907,7 +5158,7 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -6937,38 +5188,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h30",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h40",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h45",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h30",
@@ -6990,7 +5211,7 @@
           "cinema_id": 17563,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -7020,38 +5241,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h45",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h00",
@@ -7085,7 +5276,7 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -7097,20 +5288,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "20h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "20h40",
@@ -7126,7 +5305,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -7138,20 +5317,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h40",
@@ -7179,20 +5346,8 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h45",
@@ -7220,7 +5375,7 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -7232,20 +5387,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h15",
@@ -7273,7 +5416,7 @@
           "cinema_id": 285110,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -7291,26 +5434,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h05",
@@ -7369,7 +5494,7 @@
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -7381,20 +5506,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "16h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h40",
@@ -7410,83 +5523,6 @@
               "times": [
                 {
                   "time": "16h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 54418,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-11-17",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-11-18",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -7500,7 +5536,7 @@
           "sessions": [
             {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "16h00",
@@ -7512,7 +5548,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h30",
@@ -7528,6 +5564,65 @@
               "times": [
                 {
                   "time": "21h15",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 54418,
+          "sessions": [
+            {
+              "date": "2026-11-16",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-17",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "13h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-18",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "13h45",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -7556,75 +5651,11 @@
       "plot_pt": "Os M&#237;nimos s&#227;o uma comunidade de incont&#225;veis (e tresloucados) seres pequeninos, amarelos e em forma de comprimido.  Algo hiperactivos, s&#227;o dotados de um humor s&#243; compar&#225;vel &#224; sua enorme tend&#234;ncia para tropelias.",
       "showtimes": [
         {
-          "cinema_id": 187898,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h25",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h25",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h25",
@@ -7642,7 +5673,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h25",
@@ -7703,7 +5734,7 @@
           "sessions": [
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h30",
@@ -7738,7 +5769,7 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -7750,20 +5781,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "17h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "17h15",
@@ -7816,46 +5835,11 @@
       "plot_pt": "&#201; bel&#237;ssimo o que se v&#234;, a noite escura e a luminisc&#234;ncia do &#34;skyline&#34; de Telavive.  &#201; hediondo o que ali se conta: nos telhados da cidade, 24 ex-operacionais dos servi&#231;os secretos israelitas, identidade e voz alteradas digitalmente, acederam, protegidos pela altura e pela escurid&#227;o, a descrever a sua participa&#231;&#227;o na configura&#231;&#227;o do sistema de tiro ao alvo sobre Gaza.",
       "showtimes": [
         {
-          "cinema_id": 270072,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "16h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "16h20",
@@ -7873,7 +5857,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h20",
@@ -7941,7 +5925,7 @@
           "sessions": [
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h00",
@@ -7977,7 +5961,7 @@
           "sessions": [
             {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h00",
@@ -8016,81 +6000,11 @@
       "plot_pt": "Devido &#224; sua inigual&#225;vel capacidade de transformar qualquer situa&#231;&#227;o num acontecimento imprevis&#237;vel, o desastrado Gato do Chap&#233;u recebe uma miss&#227;o especial do Instituto para a Institui&#231;&#227;o da Imagina&#231;&#227;o e Inspira&#231;&#227;o, onde trabalha h&#225; v&#225;rios anos.",
       "showtimes": [
         {
-          "cinema_id": 221112,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "10h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h20",
@@ -8114,7 +6028,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h20",
@@ -8160,38 +6074,8 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h15",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "12h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "12h50",
@@ -8215,7 +6099,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h50",
@@ -8261,38 +6145,8 @@
           "cinema_id": 17563,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "10h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h25",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h25",
@@ -8316,7 +6170,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h25",
@@ -8368,38 +6222,8 @@
           "cinema_id": 17585,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h00",
@@ -8423,7 +6247,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h00",
@@ -8469,32 +6293,8 @@
           "cinema_id": 17586,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "10h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h30",
@@ -8512,7 +6312,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h30",
@@ -8552,32 +6352,8 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h35",
@@ -8595,7 +6371,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h35",
@@ -8635,38 +6411,8 @@
           "cinema_id": 80874,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h30",
@@ -8690,7 +6436,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h30",
@@ -8742,32 +6488,8 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "17h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h30",
@@ -8785,7 +6507,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h30",
@@ -8819,50 +6541,8 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h35",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "13h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "17h20",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "19h40",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h30",
@@ -8886,7 +6566,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h30",
@@ -8938,38 +6618,8 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "14h10",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                },
-                {
-                  "time": "18h30",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "14h10",
@@ -8993,7 +6643,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h10",
@@ -9064,18 +6714,6 @@
           "cinema_id": 17714,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-18",
               "day_label": "QUARTA",
               "times": [
@@ -9112,7 +6750,7 @@
           "cinema_id": 17585,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9124,20 +6762,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "20h30",
@@ -9153,7 +6779,7 @@
           "cinema_id": 17563,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9171,26 +6797,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h15",
@@ -9230,7 +6838,7 @@
           "cinema_id": 80874,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9254,32 +6862,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h00",
@@ -9331,7 +6915,7 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9343,20 +6927,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h05",
@@ -9403,7 +6975,7 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9415,20 +6987,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h45",
@@ -9475,7 +7035,7 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9487,20 +7047,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h00",
@@ -9528,7 +7076,7 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9546,26 +7094,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "18h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h15",
@@ -9625,7 +7155,7 @@
           "sessions": [
             {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h30",
@@ -9667,7 +7197,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9685,26 +7215,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h10",
@@ -9757,7 +7269,7 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9781,32 +7293,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h40",
@@ -9877,7 +7365,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9895,26 +7383,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h15",
@@ -9954,7 +7424,7 @@
           "cinema_id": 80874,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -9966,20 +7436,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h15",
@@ -10007,7 +7465,7 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -10019,20 +7477,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "18h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h55",
@@ -10060,7 +7506,7 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -10078,26 +7524,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h50",
@@ -10137,32 +7565,8 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h30",
@@ -10180,7 +7584,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h30",
@@ -10220,7 +7624,7 @@
           "cinema_id": 285110,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -10232,20 +7636,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h45",
@@ -10299,7 +7691,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -10317,26 +7709,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h20",
@@ -10370,7 +7744,7 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -10382,20 +7756,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h55",
@@ -10423,7 +7785,7 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -10435,20 +7797,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h55",
@@ -10546,7 +7896,7 @@
           "sessions": [
             {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "21h30",
@@ -10588,7 +7938,7 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -10606,26 +7956,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h10",
@@ -10664,66 +7996,6 @@
       ]
     },
     {
-      "id": 415656,
-      "title": "Trapalhões",
-      "original_title": "Spiked",
-      "url": "/filme/trapalhoes-415656",
-      "genre": null,
-      "duration_min": 85,
-      "age_rating": "M/6",
-      "director": null,
-      "year": 2025,
-      "original_language": "Portuguese",
-      "original_languages": [
-        "Portuguese"
-      ],
-      "ratings": {
-        "imdb": "6.8",
-        "rt_critic": null,
-        "metacritic": null,
-        "imdb_id": "tt0138073"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BY2JjOGQzOTAtNjMxMC00ZjBhLWExYjAtYjUwZGMxODA5YzVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "plot_en": "Four humble and goofy employees of a prominent circus, all of them with a natural comedic talent, rebel against their tyrannical boss and his unscrupulous illusionist assistant.",
-      "plot_pt": "Holly &#233; uma ouri&#231;o-cacheiro de dez anos.  A viver com o irm&#227;o g&#233;meo num farol, deseja, mais do que tudo no mundo, pertencer a uma fam&#237;lia grande.  E &#233; isso que v&#234; em casa dos vizinhos coelhos, cujo cl&#227; totaliza 52 orgulhosos membros.",
-      "showtimes": [
-        {
-          "cinema_id": 221112,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h25",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h00",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 415973,
       "title": "Uma Outra Mãe",
       "original_title": "Other Mommy",
@@ -10744,20 +8016,8 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "22h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h20",
@@ -10775,7 +8035,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h20",
@@ -10877,7 +8137,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -10895,26 +8155,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "22h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h55",
@@ -10954,7 +8196,7 @@
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -10966,20 +8208,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": "ATMOS",
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h00",
@@ -11007,32 +8237,8 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h50",
@@ -11062,7 +8268,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "17h00",
@@ -11120,7 +8326,7 @@
           "cinema_id": 17563,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -11132,20 +8338,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h50",
@@ -11173,7 +8367,7 @@
           "cinema_id": 17586,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -11209,44 +8403,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h40",
@@ -11322,7 +8480,7 @@
           "cinema_id": 80874,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -11346,32 +8504,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h40",
@@ -11417,7 +8551,7 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -11429,20 +8563,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "19h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "19h10",
@@ -11470,7 +8592,7 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -11494,32 +8616,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "16h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h15",
@@ -11571,7 +8669,7 @@
           "cinema_id": 285110,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -11589,26 +8687,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "16h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h15",
@@ -11674,7 +8754,7 @@
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -11698,32 +8778,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h50",
-                  "dubbed": false,
-                  "tech_format": "XVISION",
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h00",
@@ -11775,38 +8831,8 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h10",
@@ -11836,7 +8862,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h10",
@@ -11897,10 +8923,51 @@
           ]
         },
         {
+          "cinema_id": 17541,
+          "sessions": [
+            {
+              "date": "2026-11-16",
+              "day_label": "Hoje",
+              "times": [
+                {
+                  "time": "13h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-17",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "13h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            },
+            {
+              "date": "2026-11-18",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "13h00",
+                  "dubbed": false,
+                  "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "cinema_id": 17563,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -11924,32 +8991,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h40",
@@ -12001,7 +9044,7 @@
           "cinema_id": 17585,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -12025,32 +9068,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h45",
@@ -12102,20 +9121,8 @@
           "cinema_id": 17714,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "15h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "18h30",
@@ -12127,7 +9134,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h00",
@@ -12155,38 +9162,8 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "10h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "14h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "14h15",
@@ -12210,7 +9187,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h15",
@@ -12262,32 +9239,8 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h50",
@@ -12305,7 +9258,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h50",
@@ -12345,7 +9298,7 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -12363,26 +9316,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h40",
@@ -12422,26 +9357,8 @@
           "cinema_id": 221112,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "17h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h25",
@@ -12465,7 +9382,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h25",
@@ -12517,7 +9434,7 @@
           "cinema_id": 285110,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -12529,20 +9446,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "20h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "20h35",
@@ -12558,47 +9463,6 @@
               "times": [
                 {
                   "time": "20h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-11-17",
-              "day_label": "TERÇA",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
-              "date": "2026-11-18",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "13h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -12926,7 +9790,7 @@
           "cinema_id": 17538,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -12938,20 +9802,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h20",
@@ -12967,7 +9819,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -12979,20 +9831,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h00",
@@ -13020,7 +9860,7 @@
           "cinema_id": 169327,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13038,26 +9878,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "15h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h50",
@@ -13097,7 +9919,7 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13109,20 +9931,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "17h30",
@@ -13150,7 +9960,7 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13162,20 +9972,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "21h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "21h10",
@@ -13230,7 +10028,7 @@
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13248,26 +10046,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h10",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h50",
@@ -13307,7 +10087,7 @@
           "cinema_id": 17585,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13331,32 +10111,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "14h15",
@@ -13408,7 +10164,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13420,20 +10176,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "17h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "17h50",
@@ -13488,7 +10232,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13506,26 +10250,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h25",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h05",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h25",
@@ -13565,7 +10291,7 @@
           "cinema_id": 17532,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13583,26 +10309,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h40",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "16h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h40",
@@ -13671,54 +10379,10 @@
           "sessions": [
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 230167,
-      "title": "My Brother's Wedding",
-      "original_title": "My Brother's Wedding",
-      "url": "/filme/my-brothers-wedding-230167",
-      "genre": null,
-      "duration_min": 115,
-      "age_rating": null,
-      "director": null,
-      "year": 1983,
-      "original_language": "English",
-      "original_languages": [
-        "English",
-        "Spanish"
-      ],
-      "ratings": {
-        "imdb": "7.1",
-        "rt_critic": "91%",
-        "metacritic": null,
-        "imdb_id": "tt0087763"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU1MTg0MDEwM15BMl5BanBnXkFtZTcwNjE3MDM3Mg@@._V1_SX300.jpg",
-      "plot_en": "A man who has struggled personally has conflicts with his upwardly mobile lawyer brother and well to-do fiancee and is reluctantly to be the best man at their wedding.",
-      "plot_pt": "Como \"Killer of Sheep\", \"My Brother''s Wedding\" foi filmado no Sul de Los Angeles, com actores não profissionais, tendo por motivo a vivência quotidiana de uma família afro-americana.  Os seus produtores apresentaram uma primeira versão da montagem no New York Film Festival, sem que Burnett tenha tido a hipótese de concluir como pretendia o seu filme, votado à invisibilidade depois dessa projecção, no que o crítico de cinema Armond White designou como um \"golpe catastrófico para o desenvolvimento da cultura popular americana\".",
-      "showtimes": [
-        {
-          "cinema_id": 17541,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "14h00",
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
@@ -13750,7 +10414,7 @@
           "cinema_id": 54418,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13768,26 +10432,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "18h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "18h55",
@@ -13827,7 +10473,7 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13845,26 +10491,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h45",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "19h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h45",
@@ -13930,7 +10558,7 @@
           "cinema_id": 80874,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -13942,20 +10570,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "20h30",
@@ -13971,7 +10587,7 @@
           "cinema_id": 17563,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -14001,38 +10617,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "12h50",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h20",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "18h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "12h50",
@@ -14096,26 +10682,8 @@
           "cinema_id": 187898,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "13h00",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "15h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "15h15",
@@ -14127,7 +10695,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "15h15",
@@ -14155,7 +10723,7 @@
           "cinema_id": 230335,
           "sessions": [
             {
-              "date": "2026-11-15",
+              "date": "2026-11-16",
               "day_label": "Hoje",
               "times": [
                 {
@@ -14173,26 +10741,8 @@
               ]
             },
             {
-              "date": "2026-11-16",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "16h35",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h55",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "16h35",
@@ -14232,20 +10782,8 @@
           "cinema_id": 285110,
           "sessions": [
             {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "21h15",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            },
-            {
               "date": "2026-11-16",
-              "day_label": "Amanhã",
+              "day_label": "Hoje",
               "times": [
                 {
                   "time": "13h55",
@@ -14275,7 +10813,7 @@
             },
             {
               "date": "2026-11-17",
-              "day_label": "TERÇA",
+              "day_label": "Amanhã",
               "times": [
                 {
                   "time": "13h55",
@@ -14330,42 +10868,6 @@
                   "dubbed": false,
                   "tech_format": null,
                   "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 415724,
-      "title": "Patrulha Pata: O Filme dos Dinossauros",
-      "original_title": "Paw Patrol - Dino Movie",
-      "url": "/filme/patrulha-pata-filme-dinossauros-415724",
-      "genre": null,
-      "duration_min": 88,
-      "age_rating": "M/6",
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/823565?tp=KM",
-      "plot_en": null,
-      "plot_pt": "A Patrulha Pata, o grupo de c&#227;es de salvamento sobre o qual versa a s&#233;rie animada hom&#243;nima canadiana no ar desde 2013, ganha agora o seu terceiro filme.  Depois de uma tempestade, os c&#227;es v&#227;o parar a uma ilha com dinossauros e conhecem por l&#225; um cachorro que est&#225; ali abandonado.",
-      "showtimes": [
-        {
-          "cinema_id": 285110,
-          "sessions": [
-            {
-              "date": "2026-11-15",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "11h05",
-                  "dubbed": true,
-                  "tech_format": null,
-                  "inferred_vo": false
                 }
               ]
             }
