@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T03:08:37.589308Z",
+  "last_updated": "2026-11-20T11:28:58.466569Z",
   "scrape_date": "2026-11-20",
   "movies": [
     {
@@ -1333,49 +1333,6 @@
       ]
     },
     {
-      "id": 29525,
-      "title": "A Divina Comédia",
-      "original_title": "A Divina Comédia",
-      "url": "/filme/a-divina-comedia-29525",
-      "genre": null,
-      "duration_min": 140,
-      "age_rating": null,
-      "director": null,
-      "year": 1991,
-      "original_language": "Portuguese",
-      "original_languages": [
-        "Portuguese"
-      ],
-      "ratings": {
-        "imdb": "7.1",
-        "rt_critic": null,
-        "metacritic": null,
-        "imdb_id": "tt0101739"
-      },
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjI0Mjk2NjE5N15BMl5BanBnXkFtZTYwNDg1Nzc5._V1_SX300.jpg",
-      "plot_en": "Patients in a mental institution see themselves as Adam and Eve, Sonia and Raskolnikov, a Philosopher and a Prophet, Alyosha and Ivan Karamazov, Jesus, Lazarus, Martha, Mary and St Teresa of Avila.",
-      "plot_pt": "Numa estranha casa de \"alienados\", cruzam-se personagens singulares, de Adão e Eva e Raskolnikoff a Jesus e Lázaro, orientados por um estranho director que parece ser outro membro do grupo.  O mais hermético dos filmes de Oliveira, inspirado numa plétora de textos literários de autores diversos, entre os quais José Régio.",
-      "showtimes": [
-        {
-          "cinema_id": 17536,
-          "sessions": [
-            {
-              "date": "2026-11-20",
-              "day_label": "Hoje",
-              "times": [
-                {
-                  "time": "18h30",
-                  "dubbed": false,
-                  "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 415863,
       "title": "A Ilha Esquecida",
       "original_title": "Forgotten Island",
@@ -2078,89 +2035,6 @@
                   "time": "19h00",
                   "dubbed": false,
                   "tech_format": null,
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 416187,
-      "title": "As Novas Desventuras de Cliff Booth",
-      "original_title": "The Further Mis-Adventures of Cliff Booth",
-      "url": "/filme/novas-desventuras-cliff-booth-416187",
-      "genre": null,
-      "duration_min": 140,
-      "age_rating": null,
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824795?tp=KM",
-      "plot_en": null,
-      "plot_pt": "O ano &#233; 1977.  A cidade de Los Angeles est&#225; muito mudada, mas Cliff Booth continua a conhecer como ningu&#233;m os meandros da ind&#250;stria cinematogr&#225;fica.  Oito anos depois dos acontecimentos relatados em &#8220;Era Uma Vez em. . .",
-      "showtimes": [
-        {
-          "cinema_id": 17538,
-          "sessions": [
-            {
-              "date": "2026-11-18",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h40",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h55",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17563,
-          "sessions": [
-            {
-              "date": "2026-11-18",
-              "day_label": "QUARTA",
-              "times": [
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
                   "inferred_vo": true
                 }
               ]
@@ -18797,6 +18671,89 @@
                   "time": "16h00",
                   "dubbed": false,
                   "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 416187,
+      "title": "As Novas Desventuras de Cliff Booth",
+      "original_title": "The Further Mis-Adventures of Cliff Booth",
+      "url": "/filme/novas-desventuras-cliff-booth-416187",
+      "genre": null,
+      "duration_min": 140,
+      "age_rating": null,
+      "director": null,
+      "year": 2026,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824795?tp=KM",
+      "plot_en": null,
+      "plot_pt": "O ano &#233; 1977.  A cidade de Los Angeles est&#225; muito mudada, mas Cliff Booth continua a conhecer como ningu&#233;m os meandros da ind&#250;stria cinematogr&#225;fica.  Oito anos depois dos acontecimentos relatados em &#8220;Era Uma Vez em. . .",
+      "showtimes": [
+        {
+          "cinema_id": 17538,
+          "sessions": [
+            {
+              "date": "2026-11-18",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "13h40",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "20h40",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "23h55",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17563,
+          "sessions": [
+            {
+              "date": "2026-11-18",
+              "day_label": "QUARTA",
+              "times": [
+                {
+                  "time": "14h00",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h30",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
                   "inferred_vo": true
                 }
               ]
