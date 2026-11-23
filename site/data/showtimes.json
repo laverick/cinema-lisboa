@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T00:15:50.688631Z",
+  "last_updated": "2026-11-23T07:40:41.369391Z",
   "scrape_date": "2026-11-23",
   "movies": [
     {
@@ -8195,11 +8195,18 @@
       "age_rating": "M/12",
       "director": null,
       "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824766?tp=KM",
-      "plot_en": null,
+      "original_language": "English",
+      "original_languages": [
+        "English"
+      ],
+      "ratings": {
+        "imdb": "7.6",
+        "rt_critic": null,
+        "metacritic": "56",
+        "imdb_id": "tt32558705"
+      },
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjEzYTE2ODEtNzY5Zi00ZmVmLWEyYzEtYjdlZWU2NjcyYzMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "plot_en": "Revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
       "plot_pt": "Num futuro p&#243;s-apocal&#237;ptico n&#227;o muito distante, no territ&#243;rio outrora conhecido como Am&#233;rica do Norte, existe Panem, uma na&#231;&#227;o administrada por um governo totalit&#225;rio que domina todos os seus distritos.  A viver no limiar da pobreza, numa exist&#234;ncia de quase escravatura, os seus habitantes s&#227;o constantemente relembrados da sua posi&#231;&#227;o de obedi&#234;ncia e t&#234;m de participar nos Jogos da Fome.",
       "showtimes": [
         {
