@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T04:45:01.380968Z",
+  "last_updated": "2026-11-24T15:48:55.195858Z",
   "scrape_date": "2026-11-24",
   "movies": [
     {
@@ -721,6 +721,89 @@
                   "time": "19h00",
                   "dubbed": false,
                   "tech_format": null,
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 416187,
+      "title": "As Novas Desventuras de Cliff Booth",
+      "original_title": "The Further Mis-Adventures of Cliff Booth",
+      "url": "/filme/novas-desventuras-cliff-booth-416187",
+      "genre": null,
+      "duration_min": 140,
+      "age_rating": null,
+      "director": null,
+      "year": 2026,
+      "original_language": null,
+      "original_languages": [],
+      "ratings": null,
+      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824795?tp=KM",
+      "plot_en": null,
+      "plot_pt": "O ano &#233; 1977.  A cidade de Los Angeles est&#225; muito mudada, mas Cliff Booth continua a conhecer como ningu&#233;m os meandros da ind&#250;stria cinematogr&#225;fica.  Oito anos depois dos acontecimentos relatados em &#8220;Era Uma Vez em. . .",
+      "showtimes": [
+        {
+          "cinema_id": 17538,
+          "sessions": [
+            {
+              "date": "2026-11-25",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "13h40",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h00",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "20h40",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "23h55",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cinema_id": 17563,
+          "sessions": [
+            {
+              "date": "2026-11-25",
+              "day_label": "Amanhã",
+              "times": [
+                {
+                  "time": "14h00",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "17h30",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
+                  "inferred_vo": true
+                },
+                {
+                  "time": "21h00",
+                  "dubbed": false,
+                  "tech_format": "IMAX",
                   "inferred_vo": true
                 }
               ]
@@ -6700,89 +6783,6 @@
       ]
     },
     {
-      "id": 416187,
-      "title": "As Novas Desventuras de Cliff Booth",
-      "original_title": "The Further Mis-Adventures of Cliff Booth",
-      "url": "/filme/novas-desventuras-cliff-booth-416187",
-      "genre": null,
-      "duration_min": 140,
-      "age_rating": null,
-      "director": null,
-      "year": 2026,
-      "original_language": null,
-      "original_languages": [],
-      "ratings": null,
-      "poster_url": "https://imagens.publicocdn.com/imagens.aspx/824795?tp=KM",
-      "plot_en": null,
-      "plot_pt": "O ano &#233; 1977.  A cidade de Los Angeles est&#225; muito mudada, mas Cliff Booth continua a conhecer como ningu&#233;m os meandros da ind&#250;stria cinematogr&#225;fica.  Oito anos depois dos acontecimentos relatados em &#8220;Era Uma Vez em. . .",
-      "showtimes": [
-        {
-          "cinema_id": 17538,
-          "sessions": [
-            {
-              "date": "2026-11-25",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "13h40",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h00",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "20h40",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "23h55",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cinema_id": 17563,
-          "sessions": [
-            {
-              "date": "2026-11-25",
-              "day_label": "Amanhã",
-              "times": [
-                {
-                  "time": "14h00",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "17h30",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                },
-                {
-                  "time": "21h00",
-                  "dubbed": false,
-                  "tech_format": "IMAX",
-                  "inferred_vo": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 416250,
       "title": "A Montanha Não Se Vai Mover",
       "original_title": "The Mountain Won't Move",
@@ -7276,16 +7276,6 @@
       "chain": "Other",
       "region": "Grande Lisboa",
       "location": "Setúbal",
-      "lat": null,
-      "lng": null,
-      "chain_url": ""
-    },
-    {
-      "id": 416130,
-      "name": "Casa de Cultura Jaime Lobo e Silva",
-      "chain": "Other",
-      "region": "Grande Lisboa",
-      "location": "Lisboa",
       "lat": null,
       "lng": null,
       "chain_url": ""
